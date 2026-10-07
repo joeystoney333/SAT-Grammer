@@ -1,0 +1,1292 @@
+{
+  "topics": [
+    {
+      "id": "pronouns",
+      "title": "Pronoun agreement and reference",
+      "group": "Sentence structure",
+      "summary": "Make a pronoun agree with the noun it actually replaces, even when other nouns intervene.",
+      "rule": "Identify the antecedent before choosing a pronoun. Singular things take it or its; plural things take they, them, or their. Each, either, neither, and every are singular when they refer to a thing. Nouns joined by and are usually plural, but a phrase such as a collection of specimens remains singular because collection is the head noun. A pronoun must point clearly to an identifiable noun, not vaguely to an entire paragraph. Its is possessive; it's means it is or it has. Reflexive pronouns such as themselves must agree with their subjects. Singular they is accepted for a person whose gender is unknown; do not assume that a person requires he.",
+      "steps": [
+        "Locate the noun the pronoun replaces; ignore nearby nouns that are merely in modifying phrases.",
+        "Decide whether that antecedent is singular, plural, or a coordinated pair.",
+        "Check whether the sentence needs a subject, object, possessive form, or reflexive form.",
+        "Read the complete sentence to confirm that the reference is clear and consistent."
+      ],
+      "examples": [
+        {
+          "incorrect": "Each of the telescopes records their own calibration data.",
+          "correct": "Each of the telescopes records its own calibration data.",
+          "why": "Each, not telescopes, is the singular antecedent of its."
+        },
+        {
+          "incorrect": "The models differ in it's treatment of friction.",
+          "correct": "The models differ in their treatment of friction.",
+          "why": "Models is plural, so the possessive pronoun is their; it's is a contraction."
+        },
+        {
+          "incorrect": "The researchers taught itself the new imaging method.",
+          "correct": "The researchers taught themselves the new imaging method.",
+          "why": "The reflexive pronoun must match the plural subject researchers."
+        }
+      ],
+      "traps": [
+        "Matching a pronoun to the nearest noun instead of its antecedent.",
+        "Treating a plural noun inside an of phrase as the main noun.",
+        "Using an apostrophe in possessive its.",
+        "Changing a generic one to you halfway through a formal explanation.",
+        "Rejecting singular they solely because it refers to one person."
+      ],
+      "takeaway": "Track the antecedent first; number, case, and clarity follow from that choice."
+    },
+    {
+      "id": "pronoun-case",
+      "title": "Pronoun case, who, and whom",
+      "group": "Sentence structure",
+      "summary": "Choose a pronoun according to its job inside its own clause.",
+      "rule": "Subject pronouns include I, he, she, we, and they; object pronouns include me, him, her, us, and them. A preposition such as between or for normally takes an object. In a compound phrase, temporarily remove the other noun to test the pronoun. Who and whoever act as subjects; whom and whomever act as objects. An intervening phrase such as the historians believe does not change who into whom when the pronoun is still the subject of another verb. In to whoever submits a proposal, whoever is the subject of submits: the preposition takes the entire clause, not just the pronoun. Whose marks possession; who's means who is or who has.",
+      "steps": [
+        "Find the verb or preposition that controls the pronoun.",
+        "For a compound phrase, remove the other person and reread the grammatical skeleton.",
+        "For who or whom, replace the pronoun mentally with he or him.",
+        "If the pronoun begins a whole embedded clause, determine its role inside that clause."
+      ],
+      "examples": [
+        {
+          "incorrect": "The grant supported Mara and I.",
+          "correct": "The grant supported Mara and me.",
+          "why": "Supported takes an object; removing Mara leaves supported me."
+        },
+        {
+          "incorrect": "The scholar whom the editors believe discovered the letter has retired.",
+          "correct": "The scholar who the editors believe discovered the letter has retired.",
+          "why": "Who is the subject of discovered; the editors believe is an interruption."
+        },
+        {
+          "incorrect": "The laboratory will hire whomever meets the safety requirements.",
+          "correct": "The laboratory will hire whoever meets the safety requirements.",
+          "why": "Whoever is the subject of meets within the clause that functions as the object of hire."
+        }
+      ],
+      "traps": [
+        "Assuming I is more formal and therefore always correct.",
+        "Choosing whom merely because another verb or preposition appears nearby.",
+        "Letting an intervening reporting phrase hide the verb whose subject is who.",
+        "Confusing possessive whose with the contraction who's."
+      ],
+      "takeaway": "Pronoun case depends on grammatical function, not position or perceived formality."
+    },
+    {
+      "id": "tense",
+      "title": "Verb tense and time relationships",
+      "group": "Sentence structure",
+      "summary": "Use dates, duration markers, and explicit time relationships to choose a consistent tense.",
+      "rule": "The simple past describes a completed past event. The present describes a current state or general fact. Present perfect combines has or have with a past participle to connect an earlier event to the present, often with since or so far. Past perfect combines had with a past participle to mark an event completed before another past event. Future perfect uses will have plus a past participle for completion by a future point. Progressive forms use be plus an -ing form for an action in progress. A sentence may legitimately shift tense when time changes; consistency does not mean mechanically making every verb past. Counterfactual past conditions commonly use if plus past perfect and would have plus a past participle. Unreal present conditions use were and would.",
+      "steps": [
+        "Underline time markers such as in 1987, since, by then, and next year.",
+        "Locate a nearby finite verb that establishes the narrative time.",
+        "Determine whether the action is simultaneous, earlier, ongoing, or completed by a deadline.",
+        "Choose a verb construction that expresses that relationship and has the correct auxiliary and participle."
+      ],
+      "examples": [
+        {
+          "incorrect": "By the time the survey began in 2004, the town has expanded northward.",
+          "correct": "By the time the survey began in 2004, the town had expanded northward.",
+          "why": "Expansion occurred before another completed past event."
+        },
+        {
+          "incorrect": "Since 2020, the observatory monitored the comet and continues to do so.",
+          "correct": "Since 2020, the observatory has monitored the comet and continues to do so.",
+          "why": "Present perfect connects the starting point in the past to ongoing monitoring now."
+        },
+        {
+          "incorrect": "If the team had stored the samples properly, it would preserves the evidence.",
+          "correct": "If the team had stored the samples properly, it would have preserved the evidence.",
+          "why": "A counterfactual past condition calls for would have plus a past participle in the result."
+        }
+      ],
+      "traps": [
+        "Using the nearest tense even when a clear time marker establishes a different time.",
+        "Confusing had with has in a completed past narrative.",
+        "Using a simple past form after has, have, or had instead of a past participle.",
+        "Treating a valid shift from historical events to a general scientific fact as an error."
+      ],
+      "takeaway": "Build a small timeline before choosing a tense."
+    },
+    {
+      "id": "verb-forms",
+      "title": "Finite verbs, infinitives, and participles",
+      "group": "Sentence structure",
+      "summary": "Distinguish the verb that makes a clause complete from forms that modify nouns or serve as complements.",
+      "rule": "A finite verb supplies tense and completes a clause: the researcher explains. An -ing form such as explaining, an infinitive such as to explain, or an unattached participle such as explained cannot independently complete that same clause. Perfect constructions require have plus a past participle, as in has begun, not has began. Passive constructions require be plus a past participle, as in was built; be plus -ing instead forms an active progressive. A participial phrase can modify a noun: samples collected yesterday were frozen. After verbs such as avoid, a gerund is required; after a causative let, use the bare infinitive, as in let the solution settle. Expected to be measured contains a passive infinitive because the subject receives the action.",
+      "steps": [
+        "Locate the subject and ask whether its clause already has a complete finite verb.",
+        "Decide whether the blank completes a clause, modifies a noun, or complements another verb.",
+        "Check auxiliary patterns: have plus past participle, be plus participle, and be plus -ing.",
+        "Check the construction required by any nearby verb or preposition."
+      ],
+      "examples": [
+        {
+          "incorrect": "The new report, drawing on three surveys, challenging the old model.",
+          "correct": "The new report, drawing on three surveys, challenges the old model.",
+          "why": "Drawing is a modifier; challenges supplies the finite verb the main clause needs."
+        },
+        {
+          "incorrect": "The excavation has began.",
+          "correct": "The excavation has begun.",
+          "why": "Has requires the past participle begun, not the simple past began."
+        },
+        {
+          "incorrect": "The technicians avoided to disturb the sediment.",
+          "correct": "The technicians avoided disturbing the sediment.",
+          "why": "Avoid takes an -ing complement."
+        }
+      ],
+      "traps": [
+        "Mistaking an -ing modifier for a main verb.",
+        "Adding a second main verb when the blank is inside a noun modifier.",
+        "Using a simple past form in a perfect or passive construction.",
+        "Ignoring whether the subject performs or receives an action."
+      ],
+      "takeaway": "First decide what grammatical job the verb form must perform."
+    },
+    {
+      "id": "modifiers",
+      "title": "Dangling and misplaced modifiers",
+      "group": "Sentence structure",
+      "summary": "Put a descriptive phrase next to the thing it logically describes.",
+      "rule": "An introductory participial phrase usually describes the subject that immediately follows it. In Using a microscope, the biologist examined the sample, the biologist uses the microscope. A sample cannot be the user. Reduced clauses such as once restored or although fragile also need a subject that can logically receive the description. An introductory infinitive expressing purpose usually needs a main-clause actor who performs that purpose. Comparisons must connect comparable things: unlike granite, basalt is a rock; unlike granite, a geologist is skilled compares a person with a rock. Place limiting words such as only beside the element they limit when the meaning requires it. Long descriptions may interrupt the sentence, but their attachment must remain clear.",
+      "steps": [
+        "Read the introductory description by itself and identify its implied actor or object.",
+        "Look at the first main-clause subject after the comma.",
+        "Check that the subject can logically perform the action or receive the description.",
+        "For comparisons and limiting words, check which specific noun or action the phrase describes."
+      ],
+      "examples": [
+        {
+          "incorrect": "Using satellite images, the shoreline was mapped by a geographer.",
+          "correct": "Using satellite images, a geographer mapped the shoreline.",
+          "why": "The geographer, not the shoreline, uses satellite images."
+        },
+        {
+          "incorrect": "Unlike bronze, the sculptor found stone difficult to reshape.",
+          "correct": "Unlike bronze, stone was difficult for the sculptor to reshape.",
+          "why": "The comparison must be between two materials."
+        },
+        {
+          "incorrect": "Once translated, the historian compared the manuscript with other records.",
+          "correct": "Once translated, the manuscript was compared with other records by the historian.",
+          "why": "The manuscript is the thing translated."
+        }
+      ],
+      "traps": [
+        "Assuming an actor mentioned late in a by phrase repairs a dangling opening modifier.",
+        "Comparing a material, instrument, or artwork with a person instead of a matching noun.",
+        "Letting a possessive noun stand in for the actual subject: the scientist's experiment has experiment as its head noun.",
+        "Choosing the smoothest wording without checking the modifier's literal subject."
+      ],
+      "takeaway": "After an introductory modifier, name the thing that the modifier describes."
+    }
+  ],
+  "questions": [
+    {
+      "id": "c01",
+      "topic": "pronouns",
+      "difficulty": "Hard",
+      "passage": "An archive contains dozens of maps whose margins were trimmed at different times. Each of the maps, despite the alterations that make comparison difficult, retains ___ own distinctive arrangement of ink stains. Conservators use those arrangements to identify sheets that once belonged to the same volume.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "their",
+        "its",
+        "it's",
+        "theirs"
+      ],
+      "answer": 1,
+      "explanation": "The antecedent is the singular each, not the plural maps inside the of phrase. The singular possessive its fits before own distinctive arrangement.",
+      "optionExplanations": [
+        "Their is plural, but each is singular.",
+        "Its is the possessive form that agrees with each.",
+        "It's means it is or it has, neither of which fits here.",
+        "Theirs is a standalone possessive pronoun and cannot modify arrangement."
+      ],
+      "lessonTip": "Strip away of phrases to find the pronoun's actual antecedent."
+    },
+    {
+      "id": "c02",
+      "topic": "pronouns",
+      "difficulty": "Hard",
+      "passage": "Engineers tested a ceramic membrane alongside a copper mesh, materials that respond differently to prolonged heat. The membrane and the mesh maintained ___ structural integrity during the trial, although only the membrane prevented microscopic particles from passing through the apparatus. Neither result was apparent from the initial inspection.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "its",
+        "it's",
+        "their",
+        "theirs"
+      ],
+      "answer": 2,
+      "explanation": "The membrane and the mesh form a compound plural antecedent. Their is the plural possessive form needed before structural integrity.",
+      "optionExplanations": [
+        "Its cannot refer to the two materials joined by and.",
+        "It's is a contraction, not a possessive pronoun.",
+        "Their agrees with the compound antecedent the membrane and the mesh.",
+        "Theirs cannot directly modify the noun phrase structural integrity."
+      ],
+      "lessonTip": "Two independent nouns joined by and normally take a plural pronoun."
+    },
+    {
+      "id": "c03",
+      "topic": "pronouns",
+      "difficulty": "Hard",
+      "passage": "A geologist measured the density of several mineral inclusions rather than that of the surrounding rock. The measurements initially seemed inconsistent with the prevailing model. ___ nevertheless provided the strongest evidence that the inclusions had formed under unusually high pressure, according to a later analysis of the laboratory records.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "They",
+        "It",
+        "Their",
+        "Them"
+      ],
+      "answer": 0,
+      "explanation": "The plural measurements are the antecedent, and the blank is the subject of provided. They is the plural subject pronoun.",
+      "optionExplanations": [
+        "They correctly replaces measurements as the subject of provided.",
+        "It is singular and does not agree with measurements.",
+        "Their is possessive and needs a noun after it.",
+        "Them is an object pronoun, but the blank is a subject."
+      ],
+      "lessonTip": "Check both the antecedent's number and the pronoun's role in the sentence."
+    },
+    {
+      "id": "c04",
+      "topic": "pronouns",
+      "difficulty": "Hard",
+      "passage": "Two experimental alloys were exposed to saltwater for six months. Neither of the alloys, even after the coatings on both samples had visibly deteriorated, lost ___ resistance to bending. This result suggested that the underlying material, rather than the protective coating alone, accounted for the unexpected durability.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "their",
+        "theirs",
+        "them",
+        "its"
+      ],
+      "answer": 3,
+      "explanation": "Neither is a singular antecedent here. The possessive pronoun its therefore agrees with neither and modifies resistance.",
+      "optionExplanations": [
+        "Their is plural, but neither is singular.",
+        "Theirs cannot directly modify resistance.",
+        "Them is an object form, not a possessive modifier.",
+        "Its is the singular possessive form required by neither."
+      ],
+      "lessonTip": "Neither of plus a plural noun still has the singular head neither."
+    },
+    {
+      "id": "c05",
+      "topic": "pronouns",
+      "difficulty": "Hard",
+      "passage": "The collection of glass fragments includes pieces recovered from three separate harbor sites. Although the fragments differ in color and thickness, the collection is valuable because ___ documents a regional trade network that individual fragments, considered in isolation, could not reveal to historians studying the ancient port.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "they",
+        "their",
+        "it",
+        "them"
+      ],
+      "answer": 2,
+      "explanation": "The explicit antecedent is the singular collection. It can serve as the subject of documents and agrees with that noun.",
+      "optionExplanations": [
+        "They is plural and also conflicts with the singular verb documents.",
+        "Their is possessive and cannot serve alone as the subject of documents.",
+        "It refers to the singular collection and fits the verb documents.",
+        "Them is an object pronoun and is plural."
+      ],
+      "lessonTip": "A collection of plural items is still grammatically a singular collection."
+    },
+    {
+      "id": "c06",
+      "topic": "pronouns",
+      "difficulty": "Hard",
+      "passage": "During the survey, the marine biologists discovered that the automated classification system mislabeled unusually pale specimens. Rather than accept the classifications, the biologists examined the specimens ___, recording the features that the software had ignored. Their additional observations ultimately changed the estimated distribution of several species along the coast.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "itself",
+        "themselves",
+        "theirselves",
+        "himself"
+      ],
+      "answer": 1,
+      "explanation": "The reflexive pronoun emphasizes that the plural biologists personally performed the examination. The standard plural reflexive form is themselves.",
+      "optionExplanations": [
+        "Itself is singular and does not match biologists.",
+        "Themselves agrees with the plural biologists and emphasizes their personal involvement.",
+        "Theirselves is not the standard reflexive form.",
+        "Himself is singular and does not match biologists."
+      ],
+      "lessonTip": "A reflexive pronoun must match the subject it refers back to."
+    },
+    {
+      "id": "c07",
+      "topic": "pronouns",
+      "difficulty": "Hard",
+      "passage": "An anonymous observer can evaluate an argument without knowing the author's identity. If one wishes to distinguish a claim's logical strength from its persuasive style, one must temporarily set aside ___ reaction to the prose and consider whether the evidence actually supports the conclusion presented in the final paragraph.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "your",
+        "their",
+        "our",
+        "one's"
+      ],
+      "answer": 3,
+      "explanation": "The sentence consistently uses the formal generic pronoun one. The possessive one's maintains that reference when modifying reaction.",
+      "optionExplanations": [
+        "Your shifts the sentence from generic one to second-person you.",
+        "Their does not maintain the explicitly repeated generic pronoun one.",
+        "Our introduces a first-person plural perspective that the sentence has not established.",
+        "One's is the possessive form corresponding to the repeated pronoun one."
+      ],
+      "lessonTip": "Keep a generic pronoun's perspective consistent within a sentence."
+    },
+    {
+      "id": "c08",
+      "topic": "pronouns",
+      "difficulty": "Hard",
+      "passage": "At an archaeological site, researchers cataloged two kinds of evidence: charred seeds and impressions of woven baskets. The seeds could be dated directly, whereas the basket impressions required an indirect method: ___ features had to be compared with basket designs from nearby settlements. That distinction affected the precision of the resulting chronology.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "theirs",
+        "their",
+        "they",
+        "its"
+      ],
+      "answer": 1,
+      "explanation": "The antecedent is the plural basket impressions, and the blank modifies features. The plural possessive determiner their is required.",
+      "optionExplanations": [
+        "Theirs is a standalone possessive form and cannot directly modify features.",
+        "Their is the plural possessive form that agrees with basket impressions.",
+        "They is a subject pronoun and cannot modify the noun features.",
+        "Its is singular and does not agree with the plural basket impressions."
+      ],
+      "lessonTip": "Use a possessive determiner, rather than a standalone possessive pronoun, before a noun."
+    },
+    {
+      "id": "c09",
+      "topic": "pronouns",
+      "difficulty": "Hard",
+      "passage": "Botanists isolated several leaf pigments and measured how rapidly light degraded them. They then placed the pigments in opaque containers to preserve ___ for a second experiment. This precaution allowed the team to compare the original samples with newly extracted pigments without introducing differences caused by unequal exposure to light.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "they",
+        "them",
+        "their",
+        "it"
+      ],
+      "answer": 1,
+      "explanation": "The blank is the object of preserve and refers to the plural pigments. The plural object pronoun them is required.",
+      "optionExplanations": [
+        "They is a subject pronoun, but preserve needs an object.",
+        "Them is the object form that agrees with pigments.",
+        "Their is possessive and cannot stand alone as the object here.",
+        "It is singular, whereas the antecedent pigments is plural."
+      ],
+      "lessonTip": "An action verb such as preserve takes an object pronoun."
+    },
+    {
+      "id": "c10",
+      "topic": "pronouns",
+      "difficulty": "Hard",
+      "passage": "A prototype sensor contains a ring of small mirrors around a central lens. Despite the number of separate components, the sensor adjusts ___ focal length automatically as ambient temperature changes. The designers argue that this feature will make the instrument useful in field stations where manual recalibration is impractical.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "it's",
+        "their",
+        "its",
+        "its'"
+      ],
+      "answer": 2,
+      "explanation": "The possessive pronoun refers to the singular sensor. Its, without an apostrophe, modifies focal length.",
+      "optionExplanations": [
+        "It's is a contraction of it is or it has.",
+        "Their incorrectly agrees with components rather than sensor.",
+        "Its is the correct singular possessive pronoun.",
+        "Its' is not a standard possessive form."
+      ],
+      "lessonTip": "Possessive its never takes an apostrophe."
+    },
+    {
+      "id": "c11",
+      "topic": "pronoun-case",
+      "difficulty": "Hard",
+      "passage": "The director assigned the reconstruction of an incomplete inscription to Nia and a senior epigrapher. Later, she divided the disputed passages between the epigrapher and ___, asking each researcher to propose an independent translation before consulting the other. Their separate analyses revealed a previously unnoticed pattern in the damaged text.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "I",
+        "my",
+        "mine",
+        "me"
+      ],
+      "answer": 3,
+      "explanation": "Between is a preposition, so its coordinated object needs the object pronoun me. Removing the epigrapher leaves between me, not between I.",
+      "optionExplanations": [
+        "I is a subject form, not an object of between.",
+        "My is possessive and needs a following noun; it cannot be the personal object of between.",
+        "Mine is possessive and cannot serve as the personal object here.",
+        "Me is the object form required after between."
+      ],
+      "lessonTip": "In between X and me, mentally remove X to test the pronoun."
+    },
+    {
+      "id": "c12",
+      "topic": "pronoun-case",
+      "difficulty": "Hard",
+      "passage": "Astronomer Leila Tan had already tested the calibration software when another analyst joined the project. During the final review, Tan and ___ demonstrated that a periodic error arose from the instrument's rotation rather than from atmospheric distortion. The demonstration persuaded the laboratory to revise its interpretation of the earlier observations.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "she",
+        "her",
+        "hers",
+        "herself"
+      ],
+      "answer": 0,
+      "explanation": "Tan and she are the compound subject of demonstrated. She is the subject form; the other noun does not change that requirement.",
+      "optionExplanations": [
+        "She is the subject pronoun required in Tan and she demonstrated.",
+        "Her is an object form, but the phrase is the subject.",
+        "Hers is possessive and cannot serve as the personal subject here.",
+        "Herself has no appropriate antecedent in the main clause."
+      ],
+      "lessonTip": "Remove the other member of a compound subject: she demonstrated."
+    },
+    {
+      "id": "c13",
+      "topic": "pronoun-case",
+      "difficulty": "Hard",
+      "passage": "For a study of early theater, a historian consulted the surviving letters of a touring actor. The patron to ___ the actor addressed his most detailed letter had financed several provincial performances. That letter offers unusually specific evidence of the practical arrangements required to stage plays outside the capital.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "who",
+        "whom",
+        "whose",
+        "who's"
+      ],
+      "answer": 1,
+      "explanation": "The relative pronoun is the object of the explicitly placed preposition to. The object form whom completes to whom.",
+      "optionExplanations": [
+        "Who is a subject form and does not complete the formal construction to whom.",
+        "Whom is the object of the preposition to.",
+        "Whose is possessive and would need a noun to modify.",
+        "Who's means who is or who has and does not fit the construction."
+      ],
+      "lessonTip": "When a preposition directly precedes a relative pronoun, use whom for its personal object."
+    },
+    {
+      "id": "c14",
+      "topic": "pronoun-case",
+      "difficulty": "Hard",
+      "passage": "A recently discovered notebook describes a botanist ___ modern scholars believe first cultivated the rare orchid in a controlled greenhouse. Earlier accounts had credited a later researcher because her published experiments circulated more widely. The notebook therefore changes the chronology without diminishing the importance of those later experiments.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "whom",
+        "whose",
+        "who",
+        "who's"
+      ],
+      "answer": 2,
+      "explanation": "Who is the subject of first cultivated. The phrase modern scholars believe interrupts that subject-verb relationship but does not turn the subject into an object.",
+      "optionExplanations": [
+        "Whom is an object form, but the pronoun is the subject of cultivated.",
+        "Whose would need a possessed noun immediately after it.",
+        "Who correctly serves as the subject of cultivated.",
+        "Who's inserts is or has before modern scholars believe and breaks the clause."
+      ],
+      "lessonTip": "Look past reporting phrases such as scholars believe to find the relative pronoun's own verb."
+    },
+    {
+      "id": "c15",
+      "topic": "pronoun-case",
+      "difficulty": "Hard",
+      "passage": "A composer left a set of unfinished scores to an assistant rather than to the national conservatory. The assistant, with ___ the composer had collaborated for nearly a decade, later arranged the manuscripts for publication. Marginal comments in the scores indicate that their collaboration extended well beyond routine copying.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "who",
+        "who's",
+        "whose",
+        "whom"
+      ],
+      "answer": 3,
+      "explanation": "The pronoun is the object of with. The phrase with whom is therefore required in this formal relative clause.",
+      "optionExplanations": [
+        "Who is a subject form; with requires an object here.",
+        "Who's is a contraction and cannot complete the prepositional phrase.",
+        "Whose marks possession and does not fit before the composer.",
+        "Whom is the object form required by with."
+      ],
+      "lessonTip": "A nearby preposition may control case even when the clause contains another subject."
+    },
+    {
+      "id": "c16",
+      "topic": "pronoun-case",
+      "difficulty": "Hard",
+      "passage": "The survey team interviewed an architect ___ designs incorporated recycled timber long before the practice became common. Several of those buildings still stand, although their interiors have been altered. The architect's original drawings let historians distinguish the sustainable features of the initial designs from modifications added decades later.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "whose",
+        "who's",
+        "whom",
+        "who"
+      ],
+      "answer": 0,
+      "explanation": "The designs belong to the architect, so the blank must be the possessive relative pronoun whose. Designs is then the subject of incorporated.",
+      "optionExplanations": [
+        "Whose expresses the relationship between the architect and the architect's designs.",
+        "Who's means who is or who has and cannot modify designs.",
+        "Whom is an object pronoun and cannot express possession here.",
+        "Who is a subject pronoun and cannot modify the noun designs."
+      ],
+      "lessonTip": "Whose modifies a possessed noun; who's expands to who is or who has."
+    },
+    {
+      "id": "c17",
+      "topic": "pronoun-case",
+      "difficulty": "Hard",
+      "passage": "Two conservation specialists proposed removing a layer of varnish from a nineteenth-century landscape. The museum's decision to approve a small preliminary trial surprised ___ because earlier requests had been denied. The trial eventually showed that the dark surface obscured a much brighter palette rather than protecting the original colors.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "they",
+        "their",
+        "them",
+        "theirs"
+      ],
+      "answer": 2,
+      "explanation": "Surprised is a transitive verb, and the specialists receive its action. The plural object pronoun them correctly fills that role.",
+      "optionExplanations": [
+        "They is a subject form, but the blank is the object of surprised.",
+        "Their is possessive and requires a following noun.",
+        "Them is the plural object pronoun referring to the specialists.",
+        "Theirs is possessive and does not identify the personal object of surprised."
+      ],
+      "lessonTip": "Ask who performs the action and who receives it before choosing case."
+    },
+    {
+      "id": "c18",
+      "topic": "pronoun-case",
+      "difficulty": "Hard",
+      "passage": "A historian and her research partner requested access to an uncataloged group of diaries. Because the material was too fragile to transport, the archivist invited the historian and ___ to work in the conservation room. Their supervised examination revealed entries that had been overlooked in the archive's earlier description.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "I",
+        "me",
+        "mine",
+        "my"
+      ],
+      "answer": 1,
+      "explanation": "The historian and me are the compound object of invited. Removing the historian gives invited me, which confirms the object case.",
+      "optionExplanations": [
+        "I is a subject form, but invited requires an object.",
+        "Me correctly serves as the second member of the compound object.",
+        "Mine is a possessive pronoun and cannot serve as the personal object here.",
+        "My is a possessive determiner and cannot stand alone as the object of invited."
+      ],
+      "lessonTip": "A pronoun in a compound object keeps its object case."
+    },
+    {
+      "id": "c19",
+      "topic": "pronoun-case",
+      "difficulty": "Hard",
+      "passage": "To limit the spread of contamination, the laboratory director reassigned two technicians to a separate room. The new protocol required ___ to disinfect their tools after every sample, even when the samples came from the same excavation layer. This additional precaution reduced the risk of transferring microscopic residues between specimens.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "them",
+        "they",
+        "their",
+        "theirs"
+      ],
+      "answer": 0,
+      "explanation": "In required them to disinfect, them is the object of required and the understood performer of disinfect. The object form is necessary after required.",
+      "optionExplanations": [
+        "Them is the object form required by the verb required.",
+        "They is a subject form and cannot complete required they to disinfect.",
+        "Their is possessive and needs a following noun.",
+        "Theirs is possessive and cannot be the personal object of required here."
+      ],
+      "lessonTip": "An object followed by an infinitive still uses object case: required them to work."
+    },
+    {
+      "id": "c20",
+      "topic": "pronoun-case",
+      "difficulty": "Hard",
+      "passage": "A research foundation offers a small grant for inventing a low-cost water filter. The award will go to ___ demonstrates that a working prototype removes both sediment and bacteria. Applicants may collaborate, but the foundation requires the person presenting the device to explain the testing procedure without assistance.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "whomever",
+        "whom",
+        "whose",
+        "whoever"
+      ],
+      "answer": 3,
+      "explanation": "The object of to is the entire clause whoever demonstrates that a working prototype removes both sediment and bacteria. Within that clause, whoever is the subject of demonstrates, so subject case is required.",
+      "optionExplanations": [
+        "Whomever is an object form, but the pronoun is the subject of demonstrates.",
+        "Whom is also an object form and leaves demonstrates without a subject.",
+        "Whose expresses possession and cannot stand as the subject here.",
+        "Whoever is the subject of demonstrates inside the clause that follows to."
+      ],
+      "lessonTip": "A preposition before an entire clause does not automatically make the clause's subject whomever."
+    },
+    {
+      "id": "c21",
+      "topic": "tense",
+      "difficulty": "Hard",
+      "passage": "An engineering team began testing a redesigned turbine in 1998. By the time those trials started, the team ___ the older model for more than a decade, so the comparison drew on an unusually extensive record. The published report treated the redesign as an incremental improvement rather than an entirely new invention.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "has operated",
+        "will operate",
+        "had operated",
+        "is operating"
+      ],
+      "answer": 2,
+      "explanation": "The operation of the older model predates the trials that started in 1998. Past perfect had operated marks that earlier completed interval in a past narrative.",
+      "optionExplanations": [
+        "Has operated connects to the present, but the stated reference point is 1998.",
+        "Will operate places the operation in the future rather than before the trials.",
+        "Had operated marks operation occurring before the past event started.",
+        "Is operating places the action in the present rather than before 1998."
+      ],
+      "lessonTip": "By the time plus a past event often establishes a past-perfect relationship."
+    },
+    {
+      "id": "c22",
+      "topic": "tense",
+      "difficulty": "Hard",
+      "passage": "Since 2016, a coastal monitoring station ___ daily measurements of seawater acidity, and it continues the same schedule today. The uninterrupted record allows researchers to separate seasonal fluctuations from a longer-term trend. Before the station opened, measurements were taken only during occasional expeditions along the shore.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "has recorded",
+        "had recorded",
+        "will record",
+        "was recording"
+      ],
+      "answer": 0,
+      "explanation": "Since 2016 and continues today establish an action extending from the past to the present. Present perfect has recorded expresses that connection.",
+      "optionExplanations": [
+        "Has recorded correctly links the 2016 starting point to the present.",
+        "Had recorded needs a past reference point and does not express the ongoing present record.",
+        "Will record incorrectly places the record in the future.",
+        "Was recording describes a past ongoing action rather than the continuous record through today."
+      ],
+      "lessonTip": "Since plus a starting date and an explicit present continuation calls for present perfect."
+    },
+    {
+      "id": "c23",
+      "topic": "tense",
+      "difficulty": "Hard",
+      "passage": "A restoration team discarded the original solvent after discovering that it damaged the mural's blue pigment. If the chemists had identified that reaction before treatment began, they ___ the unnecessary loss of color. Later tests on detached fragments confirmed that a milder solvent would have preserved the pigment.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "will prevent",
+        "would prevent",
+        "have prevented",
+        "would have prevented"
+      ],
+      "answer": 3,
+      "explanation": "The if clause describes an unreal past condition with had identified. Its unreal past result takes would have plus the participle prevented.",
+      "optionExplanations": [
+        "Will prevent refers to a future result, not a counterfactual past result.",
+        "Would prevent expresses a present or future hypothetical result, not the unreal past result here.",
+        "Have prevented does not provide the conditional construction required by the sentence.",
+        "Would have prevented correctly expresses the result of the unreal past condition."
+      ],
+      "lessonTip": "Pair if plus had with would have for a past event that did not occur."
+    },
+    {
+      "id": "c24",
+      "topic": "tense",
+      "difficulty": "Hard",
+      "passage": "In 1987, a linguist presented a new analysis of an endangered language at a regional conference. During the question period immediately following her talk, she ___ the claim that its unusual word order reflected random variation. Her response offered a systematic explanation based on the speaker's intended emphasis, which the proceedings published the following year.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "challenges",
+        "challenged",
+        "will challenge",
+        "has challenged"
+      ],
+      "answer": 1,
+      "explanation": "The completed conference and question period in 1987 establish a specific past event. Challenged is the correctly formed simple past verb for what the linguist did during that event.",
+      "optionExplanations": [
+        "Challenges shifts the specific completed question-period event to the present without a change in narrative time.",
+        "Challenged is the simple past form that matches the completed 1987 event.",
+        "Will challenge places the action after the narrative rather than during the conference.",
+        "Present perfect has challenged connects to the present, but the sentence locates this action within a completed question period in 1987."
+      ],
+      "lessonTip": "An explicit completed historical event supplies a simple-past frame."
+    },
+    {
+      "id": "c25",
+      "topic": "tense",
+      "difficulty": "Hard",
+      "passage": "A laboratory plans to finish a five-year materials study next September. By that deadline, its technicians ___ every sample to three hundred heating cycles, a threshold established when the experiment was designed. They will then compare the worn samples with unused controls stored under the same humidity conditions.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "had subjected",
+        "have subjected",
+        "will have subjected",
+        "were subjecting"
+      ],
+      "answer": 2,
+      "explanation": "By that deadline refers to a future completion point. Future perfect will have subjected expresses an action that will be complete by next September.",
+      "optionExplanations": [
+        "Had subjected places completion before a past reference point, not the future deadline.",
+        "Have subjected states present completion rather than completion by the specified future point.",
+        "Will have subjected expresses completion by the future deadline.",
+        "Were subjecting describes a past ongoing action and does not fit the future timeline."
+      ],
+      "lessonTip": "For completion by a future deadline, use will have plus a past participle."
+    },
+    {
+      "id": "c26",
+      "topic": "tense",
+      "difficulty": "Hard",
+      "passage": "During the 1972 field season, an archaeologist cataloged pottery while her assistant drew the excavation plan. As the archaeologist was recording the location of a large jar, the assistant ___ an overlooked doorway. This discovery forced the team to reconsider where the building's main entrance had originally been situated.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "notices",
+        "will notice",
+        "has noticed",
+        "noticed"
+      ],
+      "answer": 3,
+      "explanation": "The field season and was recording establish a completed past setting. Noticed is the finite simple past verb for the event that occurred during the ongoing recording.",
+      "optionExplanations": [
+        "Notices shifts to the present despite the explicitly past field season.",
+        "Will notice places the event in the future rather than during the past recording.",
+        "Has noticed connects an observation to the present rather than locating it during the specified 1972 recording session.",
+        "Noticed is the simple past verb for the event occurring during the past activity."
+      ],
+      "lessonTip": "An ongoing past activity can be interrupted by a simple-past event."
+    },
+    {
+      "id": "c27",
+      "topic": "tense",
+      "difficulty": "Hard",
+      "passage": "A live video feed shows a technician turning the detector's adjustment dial, and the calibration progress bar is still rising. At this very moment, the technician, whose earlier measurements revealed a small systematic error, ___ the detector against a reference source. The calibration has not yet been completed.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "is calibrating",
+        "had calibrated",
+        "will calibrate",
+        "was calibrating"
+      ],
+      "answer": 0,
+      "explanation": "The live feed, at this very moment, and still rising establish an action in progress now. Present progressive is calibrating expresses that current ongoing activity.",
+      "optionExplanations": [
+        "Is calibrating correctly describes the action visibly in progress at this very moment.",
+        "Had calibrated describes completion before a past reference point, but the calibration is happening now and remains incomplete.",
+        "Will calibrate places the action in the future even though the feed shows it is already in progress.",
+        "Was calibrating places the ongoing action in the past rather than at this very moment."
+      ],
+      "lessonTip": "For an action explicitly in progress now, use present be plus an -ing form."
+    },
+    {
+      "id": "c28",
+      "topic": "tense",
+      "difficulty": "Hard",
+      "passage": "The existing detector cannot distinguish particles with nearly identical energies. The engineers explain that if its sensor ___ twice as sensitive as it is now, the detector would separate those particles reliably. This hypothetical improvement has not yet been achieved, although a replacement sensor is under development.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "will be",
+        "were",
+        "has been",
+        "is being"
+      ],
+      "answer": 1,
+      "explanation": "The sentence describes an unreal present condition, signaled by as it is now and would separate. Were is the standard subjunctive form for this hypothetical condition.",
+      "optionExplanations": [
+        "Will be uses future indicative wording that does not match the unreal if condition.",
+        "Were expresses the unreal present condition paired with would separate.",
+        "Has been refers to an earlier condition connected to the present rather than the stated unreal condition.",
+        "Is being describes an actual current process rather than the hypothetical sensitivity."
+      ],
+      "lessonTip": "For an unreal present condition, if it were pairs with it would."
+    },
+    {
+      "id": "c29",
+      "topic": "tense",
+      "difficulty": "Hard",
+      "passage": "In 2005, a museum announced that a newly acquired collection would be displayed after conservation was complete. Its director predicted that the exhibition ___ visitors from several neighboring countries. Records show that the exhibition finally opened in 2008 and attracted more visitors than the director had anticipated.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "will draw",
+        "has drawn",
+        "would draw",
+        "is drawing"
+      ],
+      "answer": 2,
+      "explanation": "The prediction was made in the past about an event later than that past moment. Would draw expresses that future-in-the-past relationship.",
+      "optionExplanations": [
+        "Will draw shifts the prediction's time viewpoint to the present despite the completed historical narrative.",
+        "Has drawn presents a present-perfect result rather than the director's past prediction.",
+        "Would draw correctly presents the future from the director's past viewpoint.",
+        "Is drawing describes a current ongoing event, not the 2005 prediction."
+      ],
+      "lessonTip": "Would can express a future event viewed from a past reporting point."
+    },
+    {
+      "id": "c30",
+      "topic": "tense",
+      "difficulty": "Hard",
+      "passage": "The current survey began in April and is still in progress. So far, the team ___ thirty nesting sites, but several inaccessible cliffs remain unexamined. Researchers expect the final count to increase once a smaller drone can photograph ledges that the present equipment cannot safely reach.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "has identified",
+        "had identified",
+        "will identify",
+        "was identifying"
+      ],
+      "answer": 0,
+      "explanation": "So far and still in progress link completed identifications to an ongoing present survey. Has identified is the correctly formed present perfect construction.",
+      "optionExplanations": [
+        "Has identified describes the cumulative result up to the present.",
+        "Had identified would require a past reference point rather than the current survey.",
+        "Will identify refers to future detections, but so far gives the total already detected up to now.",
+        "Was identifying places an ongoing action in the past rather than reporting the cumulative total in the current survey."
+      ],
+      "lessonTip": "So far in a still-active project generally points to present perfect."
+    },
+    {
+      "id": "c31",
+      "topic": "verb-forms",
+      "difficulty": "Hard",
+      "passage": "The scientists compared the recovered pollen with specimens preserved in a reference collection. Having ___ the grains by shape and surface texture, they could estimate which plant groups had grown near the ancient lake. The comparison provided evidence independent of the chemical measurements taken from the same sediment layer.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "classify",
+        "classifying",
+        "classified",
+        "classifies"
+      ],
+      "answer": 2,
+      "explanation": "Having is followed by a past participle in a perfect participial phrase. Classified completes Having classified and indicates classification occurred before the estimate.",
+      "optionExplanations": [
+        "Classify is the base form, but having requires a past participle here.",
+        "Classifying would create the incorrect combination having classifying.",
+        "Classified is the past participle required after Having.",
+        "Classifies is a finite present form, not a participle after Having."
+      ],
+      "lessonTip": "Having plus a past participle introduces an action completed before the main action."
+    },
+    {
+      "id": "c32",
+      "topic": "verb-forms",
+      "difficulty": "Hard",
+      "passage": "A new account of the city's development draws on tax records that earlier historians rarely consulted. The account, while acknowledging that the records omit many informal transactions, ___ that small workshops contributed more to local employment than surviving factory reports suggest. Its conclusion depends on comparing several independent categories of evidence.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "arguing",
+        "to argue",
+        "having argued",
+        "argues"
+      ],
+      "answer": 3,
+      "explanation": "The main subject account needs a finite verb. The intervening while phrase does not supply one, so argues completes the main clause.",
+      "optionExplanations": [
+        "Arguing is a participle and leaves the main clause without a finite verb.",
+        "To argue is an infinitive and cannot independently complete the main clause.",
+        "Having argued is a participial phrase, not a finite main verb.",
+        "Argues is a finite verb agreeing with singular account."
+      ],
+      "lessonTip": "Set aside interrupting modifiers and identify the main subject-verb pair."
+    },
+    {
+      "id": "c33",
+      "topic": "verb-forms",
+      "difficulty": "Hard",
+      "passage": "Before transferring a fragile fungal specimen to a new container, the curator checked whether the original mounting medium could be removed safely. The museum's records indicate that the specimen appears ___ mislabeled when it first entered the collection in 1912. Correcting the label will require identifying its original source.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "to have been",
+        "to having been",
+        "have been",
+        "having been"
+      ],
+      "answer": 0,
+      "explanation": "Appears takes an infinitival complement. To have been supplies a perfect passive infinitive: the specimen received the mislabeling at an earlier time.",
+      "optionExplanations": [
+        "To have been forms the required perfect passive infinitive after appears.",
+        "To having been incorrectly uses an -ing form after infinitival to.",
+        "Have been omits the to required by the appears complement.",
+        "Having been is a participial phrase, but appears requires an infinitival complement in this sentence."
+      ],
+      "lessonTip": "A perfect passive infinitive has the structure to have been plus a past participle."
+    },
+    {
+      "id": "c34",
+      "topic": "verb-forms",
+      "difficulty": "Hard",
+      "passage": "Excavators working beside a shallow river exposed a cluster of wooden posts preserved in waterlogged soil. To avoid ___ the fragile surfaces, they left the posts in place until a conservation team arrived. The resulting delay allowed the conservators to document tool marks that rapid removal might have destroyed.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "to disturb",
+        "disturbing",
+        "disturbed",
+        "disturb"
+      ],
+      "answer": 1,
+      "explanation": "The verb avoid takes a gerund as its complement. Disturbing correctly names the action that the excavators intended to avoid.",
+      "optionExplanations": [
+        "Avoid does not take the infinitive to disturb in this construction.",
+        "Disturbing is the gerund complement required after avoid.",
+        "Disturbed cannot name the avoided action in this construction.",
+        "The bare form disturb is not the complement required after avoid."
+      ],
+      "lessonTip": "Learn common verb-complement patterns: avoid doing, not avoid to do."
+    },
+    {
+      "id": "c35",
+      "topic": "verb-forms",
+      "difficulty": "Hard",
+      "passage": "The original bridge crossed a narrow channel where strong tides repeatedly damaged temporary supports. According to municipal records, the permanent span was ___ in stages so that boats could continue to reach the inner harbor. The records also identify the craftsmen responsible for shaping its unusually long stone beams.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "building",
+        "build",
+        "builds",
+        "built"
+      ],
+      "answer": 3,
+      "explanation": "The span receives the construction action. Was built is a passive construction formed with be plus the past participle built.",
+      "optionExplanations": [
+        "Was building would make the span the actor performing construction.",
+        "Build is the base form, not the participle required after was in this passive.",
+        "Builds is a finite present form and cannot follow was here.",
+        "Built is the past participle that forms the passive was built."
+      ],
+      "lessonTip": "Passive verbs use be plus a past participle, and the subject receives the action."
+    },
+    {
+      "id": "c36",
+      "topic": "verb-forms",
+      "difficulty": "Hard",
+      "passage": "To investigate seasonal variation, researchers analyzed sediment samples ___ from the lake's deepest basin during the previous winter. Those samples contained fewer airborne spores than material gathered near the shore. The contrast helped the team distinguish signals carried by wind from those introduced by streams flowing into the lake.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "collected",
+        "collect",
+        "collects",
+        "were collected"
+      ],
+      "answer": 0,
+      "explanation": "Collected begins a participial phrase modifying samples. The main clause already has the finite verb analyzed, so another unattached finite verb would break the structure.",
+      "optionExplanations": [
+        "Collected correctly modifies samples with a reduced passive description.",
+        "Collect is a base verb and does not form the required modifier.",
+        "Collects is a finite verb and cannot directly modify samples here.",
+        "Were collected would introduce a second finite clause without a relative pronoun or conjunction."
+      ],
+      "lessonTip": "A noun can take a past-participial modifier when the main clause already has its verb."
+    },
+    {
+      "id": "c37",
+      "topic": "verb-forms",
+      "difficulty": "Hard",
+      "passage": "An essay on medieval trade challenges a long-standing assumption about the movement of luxury cloth. The author, drawing on shipping lists and overlooked correspondence, ___ that merchants used several small ports rather than a single dominant harbor. This interpretation explains why similar fabrics appear in settlements with no documented direct connection.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "suggesting",
+        "suggests",
+        "to suggest",
+        "having suggested"
+      ],
+      "answer": 1,
+      "explanation": "The author is the main subject, and drawing on introduces a modifier. Suggests supplies the finite verb needed to complete the main clause.",
+      "optionExplanations": [
+        "Suggesting is a participle and leaves the main clause incomplete.",
+        "Suggests is a finite verb that agrees with singular author.",
+        "To suggest is an infinitive and cannot serve as the main finite verb.",
+        "Having suggested is a participial phrase rather than the main clause's verb."
+      ],
+      "lessonTip": "A descriptive -ing phrase does not replace the main verb."
+    },
+    {
+      "id": "c38",
+      "topic": "verb-forms",
+      "difficulty": "Hard",
+      "passage": "The conservation laboratory has ___ a long-term study of how ultraviolet light affects a recently developed protective varnish. Technicians will compare coated and uncoated panels under identical conditions, measuring changes in both color and flexibility. The project is intended to guide treatment decisions for paintings displayed in naturally lit galleries.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "begin",
+        "began",
+        "begun",
+        "beginning"
+      ],
+      "answer": 2,
+      "explanation": "The auxiliary has requires the past participle begun. Began is the simple past, while begin and beginning cannot complete this perfect construction.",
+      "optionExplanations": [
+        "Begin is the base form and cannot follow has in this construction.",
+        "Began is the simple past form, not the required past participle.",
+        "Begun is the past participle required by has.",
+        "Beginning would need been to form has been beginning."
+      ],
+      "lessonTip": "Perfect constructions use a past participle, which may differ from the simple past."
+    },
+    {
+      "id": "c39",
+      "topic": "verb-forms",
+      "difficulty": "Hard",
+      "passage": "A chemist prepared a cloudy solution containing suspended mineral particles. Before taking a measurement, she let the particles ___ to the bottom of the tube rather than filtering them out. This procedure preserved the dissolved compounds while removing the suspended material that would otherwise distort the instrument's optical reading.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "settled",
+        "settling",
+        "to settle",
+        "settle"
+      ],
+      "answer": 3,
+      "explanation": "In the causative construction let the particles settle, let takes an object followed by a bare infinitive. Settle is the required base form without to.",
+      "optionExplanations": [
+        "Settled is a past or participial form, not the bare infinitive required after let.",
+        "Settling is an -ing form and does not complete this let construction.",
+        "To settle incorrectly adds to after causative let.",
+        "Settle is the bare infinitive required after let the particles."
+      ],
+      "lessonTip": "Let plus an object takes a bare infinitive: let it settle."
+    },
+    {
+      "id": "c40",
+      "topic": "verb-forms",
+      "difficulty": "Hard",
+      "passage": "A newly designed telescope mirror will be shipped to a remote observatory next month. Before installation, the mirror is expected ___ under simulated nighttime temperatures, since slight distortions could affect the instrument's focus. Engineers will use those measurements to adjust the supports that hold the mirror in position.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "to be tested",
+        "to testing",
+        "to being tested",
+        "be tested"
+      ],
+      "answer": 0,
+      "explanation": "Expected takes an infinitive, and the mirror receives the testing. To be tested is the passive infinitive required by both the grammar and the meaning.",
+      "optionExplanations": [
+        "To be tested is the passive infinitive: the mirror will receive the testing.",
+        "To testing is not an infinitival verb phrase after expected.",
+        "Infinitival to must be followed by base-form be, not being, in this construction.",
+        "Be tested omits the to required by expected in this construction."
+      ],
+      "lessonTip": "For an expected action received by the subject, use expected to be plus a participle."
+    },
+    {
+      "id": "c41",
+      "topic": "modifiers",
+      "difficulty": "Hard",
+      "passage": "A paleontologist examined unusually thin cross sections of a fossilized bone. Comparing the internal growth rings with those of living reptiles, ___ that the extinct animal matured gradually rather than in a single rapid burst. The finding challenged an earlier interpretation based solely on the fossil's large overall dimensions.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "the fossil suggested",
+        "the paleontologist concluded",
+        "the animal's maturity showed",
+        "the growth rings indicated"
+      ],
+      "answer": 1,
+      "explanation": "The person who compares the growth rings is the paleontologist. Placing that actor immediately after the introductory modifier prevents the comparison from dangling.",
+      "optionExplanations": [
+        "The fossil cannot perform the act of comparing growth rings.",
+        "The paleontologist can logically perform the introductory comparison.",
+        "The abstract noun maturity cannot compare specimens.",
+        "The growth rings are being compared; they do not perform the comparison."
+      ],
+      "lessonTip": "After an introductory -ing phrase, name the actor performing that action."
+    },
+    {
+      "id": "c42",
+      "topic": "modifiers",
+      "difficulty": "Hard",
+      "passage": "The number of distant stars in a survey depended on whether faint objects could be distinguished from sensor noise. Seeking to estimate the instrument's detection limit, ___ with artificial points of light inserted into otherwise empty images. The results helped determine which apparent stars belonged in the final published catalog.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "a simulation was carried out by the astronomers",
+        "the detection limit was tested by the astronomers",
+        "artificial points of light were used by the astronomers",
+        "the astronomers conducted a simulation"
+      ],
+      "answer": 3,
+      "explanation": "The astronomers perform the purposeful action of estimating the limit. They must be the main-clause subject after To estimate; an actor appearing only in a by phrase would not repair the modifier.",
+      "optionExplanations": [
+        "A simulation is not the actor estimating the limit; astronomers in a by phrase does not repair this.",
+        "The detection limit cannot estimate itself.",
+        "Artificial points of light cannot perform the act of estimating.",
+        "The astronomers are the logical actors who estimate the detection limit."
+      ],
+      "lessonTip": "An introductory purpose phrase should attach to the actor who has that purpose."
+    },
+    {
+      "id": "c43",
+      "topic": "modifiers",
+      "difficulty": "Hard",
+      "passage": "Mineralogists distinguish two crystalline forms of calcium carbonate partly by the arrangement of their atoms. Unlike calcite, ___ under certain laboratory conditions. This difference explains why a shell containing both forms may change in structure even when its overall chemical composition remains essentially constant during the experiment.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "aragonite can transform into another crystal form",
+        "the researchers can transform aragonite into another crystal form",
+        "a transformation of aragonite is possible",
+        "the crystal structure can be studied by researchers"
+      ],
+      "answer": 0,
+      "explanation": "Unlike calcite must introduce a comparable mineral. Aragonite is the other crystalline form, so it is the logical subject of the comparison.",
+      "optionExplanations": [
+        "Aragonite and calcite are comparable mineral forms.",
+        "The researchers are people, so the sentence illogically compares them with calcite.",
+        "A transformation is a process, not the mineral form being compared with calcite.",
+        "The crystal structure is a property rather than the second mineral form."
+      ],
+      "lessonTip": "An unlike comparison should put the corresponding thing immediately after the comma."
+    },
+    {
+      "id": "c44",
+      "topic": "modifiers",
+      "difficulty": "Hard",
+      "passage": "The municipal archive contains an early sketch of a public library that was never built. Trained as a cabinetmaker before studying architecture, ___ a practical understanding of how wooden joints respond to stress. That experience is evident in the unusually detailed drawings of the library's proposed roof supports.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "the sketch reveals",
+        "the proposed library reflects",
+        "the architect possessed",
+        "the architect's drawings demonstrate"
+      ],
+      "answer": 2,
+      "explanation": "Trained as a cabinetmaker describes the architect, a person who could receive that training. The actual subject must therefore be the architect, not the sketch, building, or drawings.",
+      "optionExplanations": [
+        "A sketch cannot be trained as a cabinetmaker.",
+        "A proposed library cannot receive vocational training.",
+        "The architect is the person described by the introductory training phrase.",
+        "The head noun is drawings, which cannot be trained; the possessive architect's does not fix the modifier."
+      ],
+      "lessonTip": "A possessive person's name does not make that person the sentence's subject."
+    },
+    {
+      "id": "c45",
+      "topic": "modifiers",
+      "difficulty": "Hard",
+      "passage": "Curators planned to exhibit a recently excavated textile whose threads had weakened after centuries underground. Although extremely fragile, ___ once placed inside a specially designed support frame. The frame distributed the textile's weight evenly, allowing visitors to examine its woven pattern without exposing the fabric to repeated handling.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "the curators could display the textile",
+        "the textile could be displayed",
+        "a support frame could hold the textile",
+        "the exhibition could include the textile"
+      ],
+      "answer": 1,
+      "explanation": "Although extremely fragile describes the textile. Making the textile the main subject correctly attaches that reduced descriptive clause.",
+      "optionExplanations": [
+        "This wording describes the curators as extremely fragile rather than the textile.",
+        "The textile is the thing described as extremely fragile.",
+        "The support frame is not the fragile thing identified in the context.",
+        "The exhibition is not the fragile textile described by the modifier."
+      ],
+      "lessonTip": "A reduced clause such as although fragile modifies the following subject."
+    },
+    {
+      "id": "c46",
+      "topic": "modifiers",
+      "difficulty": "Hard",
+      "passage": "The research team tried to determine whether subtle differences in wing shape could predict migration distance. Using high-resolution photographs of preserved specimens, ___ a more reliable set of measurements than earlier hand-drawn outlines had provided. Those measurements revealed a relationship that was strongest among species traveling across open water.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "a reliable pattern was obtained by the researchers",
+        "the specimens provided",
+        "the photographs yielded",
+        "the researchers obtained"
+      ],
+      "answer": 3,
+      "explanation": "The researchers use the photographs. They must be the subject following Using; specimens, photographs, and an abstract pattern cannot perform that deliberate action.",
+      "optionExplanations": [
+        "A pattern cannot use photographs, and a later by phrase does not repair the opening modifier.",
+        "The specimens do not use photographs of themselves.",
+        "The photographs are the tools being used, not the actors using them.",
+        "The researchers logically perform the action introduced by Using."
+      ],
+      "lessonTip": "Tools are usually the objects in a using phrase; the following subject should be their user."
+    },
+    {
+      "id": "c47",
+      "topic": "modifiers",
+      "difficulty": "Hard",
+      "passage": "A historian found a ledger whose faded entries recorded purchases for a rural observatory. Once transcribed into a searchable database, ___ a series of payments for imported lenses that had escaped notice during manual inspection. The discovery helped explain how the observatory maintained instruments despite its limited funding.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "the ledger revealed",
+        "the historian discovered",
+        "a team of researchers found",
+        "the database designers identified"
+      ],
+      "answer": 0,
+      "explanation": "The ledger, or its contents, is what was transcribed. The ledger must be the subject following Once transcribed, rather than the people who examined it.",
+      "optionExplanations": [
+        "The ledger is the object whose entries were transcribed.",
+        "This wording says the historian was transcribed into a database.",
+        "This wording says a team of people was transcribed into a database.",
+        "This wording makes the designers, rather than the ledger, the thing transcribed."
+      ],
+      "lessonTip": "After once plus a past participle, identify the thing that received that action."
+    },
+    {
+      "id": "c48",
+      "topic": "modifiers",
+      "difficulty": "Hard",
+      "passage": "A musicologist compared two surviving versions of an eighteenth-century symphony. Unlike the later printed edition, ___ several passages requiring instruments that were uncommon outside the composer's home city. Those passages suggest that the original work was intended for a particular ensemble rather than for broad commercial distribution.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "the musicologist identified",
+        "an unusual orchestration characterizes",
+        "the handwritten score includes",
+        "the composer's intentions emerge from"
+      ],
+      "answer": 2,
+      "explanation": "The opening compares two versions of the symphony. The handwritten score is comparable to the later printed edition and is therefore the appropriate subject.",
+      "optionExplanations": [
+        "A musicologist is a person, not a version comparable to an edition.",
+        "An orchestration is a feature rather than the counterpart score being compared.",
+        "The handwritten score and printed edition are the comparable versions described in the context.",
+        "Intentions are abstract ideas, not the counterpart version being compared with the edition."
+      ],
+      "lessonTip": "When comparing versions, put the other version in the subject position."
+    },
+    {
+      "id": "c49",
+      "topic": "modifiers",
+      "difficulty": "Hard",
+      "passage": "Biologists studying a tiny freshwater crustacean needed to distinguish true movement from motion caused by water currents. Holding the observation chamber level throughout each trial, ___ that the animal actively changed direction when exposed to a chemical signal. Repeated trials confirmed that the response did not depend on the chamber's orientation.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "the animal's movement demonstrated",
+        "the biologists confirmed",
+        "a chemical response indicated",
+        "the observation chamber showed"
+      ],
+      "answer": 1,
+      "explanation": "The biologists hold the observation chamber level. They need to be the subject of the clause that follows the introductory holding phrase.",
+      "optionExplanations": [
+        "Movement cannot hold an observation chamber level.",
+        "The biologists are the actors who can hold the chamber level.",
+        "A response cannot physically hold a chamber.",
+        "The chamber cannot hold itself level throughout the trial."
+      ],
+      "lessonTip": "Ask who can literally carry out the introductory action."
+    },
+    {
+      "id": "c50",
+      "topic": "modifiers",
+      "difficulty": "Hard",
+      "passage": "An art historian studied a small bronze figure that had been stored in a damp basement for decades. Covered with a thick layer of corrosion, ___ before its engraved inscription could be read. Once the inscription became visible, it supplied an unexpectedly precise date for the figure's manufacture.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "the historian requested careful cleaning",
+        "a conservator began the cleaning process",
+        "the cleaning process had to proceed carefully",
+        "the bronze figure required careful cleaning"
+      ],
+      "answer": 3,
+      "explanation": "Covered with corrosion describes the bronze figure. Putting that figure immediately after the modifier correctly identifies the thing receiving the description.",
+      "optionExplanations": [
+        "This wording says the historian is covered with corrosion.",
+        "This wording attaches the corrosion description to the conservator.",
+        "A process cannot be the corroded object described in the introduction.",
+        "The bronze figure is the thing covered with corrosion and needing cleaning."
+      ],
+      "lessonTip": "A past-participial description belongs next to the object it describes."
+    }
+  ]
+}

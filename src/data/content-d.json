@@ -1,0 +1,1270 @@
+{
+  "topics": [
+    {
+      "id": "parallelism",
+      "title": "Parallel structures",
+      "group": "Clarity & expression",
+      "summary": "Coordinated items should have matching grammatical roles. Parallelism supports Standard English conventions and makes comparisons and paired constructions easier to follow.",
+      "rule": "Match the grammatical structure of items joined by and, or, both…and, either…or, neither…nor, and not only…but also. A shared auxiliary or infinitive marker can apply to an entire series.",
+      "steps": [
+        "Locate the words joining the items.",
+        "Identify the grammatical form of the first item: noun, verb, gerund, infinitive, or clause.",
+        "Check which words are shared across the series.",
+        "Choose a completion that performs the same grammatical role."
+      ],
+      "examples": [
+        {
+          "incorrect": "The archive helps scholars identify authors, tracing sources, and date manuscripts.",
+          "correct": "The archive helps scholars identify authors, trace sources, and date manuscripts.",
+          "why": "The shared verb helps is followed by three parallel base-form verbs."
+        },
+        {
+          "incorrect": "The committee recommended both that the roof be repaired and replacing the windows.",
+          "correct": "The committee recommended both that the roof be repaired and that the windows be replaced.",
+          "why": "Both…and connects two parallel that-clauses."
+        }
+      ],
+      "traps": [
+        "Do not add to before every verb when an earlier to already governs the series.",
+        "Similarity in meaning does not fix a mismatch in grammatical structure.",
+        "Do not require identical endings when the surrounding sentence already supplies a shared word."
+      ],
+      "takeaway": "Read the coordinated items without their modifiers and make their grammatical jobs match."
+    },
+    {
+      "id": "comparisons",
+      "title": "Logical comparisons",
+      "group": "Clarity & expression",
+      "summary": "A clear comparison matches equivalent things: an organism with an organism, or one measurement with another. These skills support SAT sentence clarity and Standard English conventions.",
+      "rule": "Compare like entities. Use that for a singular noun and those for a plural noun when replacing a repeated comparison target. When comparing one member with the rest of its group, use other to avoid comparing the member with itself.",
+      "steps": [
+        "Identify the two things being compared.",
+        "Name the actual comparison target, such as density, instruments, or buildings.",
+        "Check whether a substitute should be singular that or plural those.",
+        "Make sure introductory comparison phrases describe the subject that follows."
+      ],
+      "examples": [
+        {
+          "incorrect": "The density of basalt is greater than granite.",
+          "correct": "The density of basalt is greater than that of granite.",
+          "why": "The revised sentence compares density with density."
+        },
+        {
+          "incorrect": "Unlike the paintings of her contemporaries, Rivera used pale colors.",
+          "correct": "Unlike her contemporaries, Rivera used pale colors.",
+          "why": "The opening phrase now compares the painter with other painters."
+        }
+      ],
+      "traps": [
+        "A nearby noun may be the wrong comparison target.",
+        "Those cannot replace a singular measurement.",
+        "Than any includes the subject unless other excludes it.",
+        "Use fewer for countable items and less for an amount."
+      ],
+      "takeaway": "Ask “What is being compared with what?” before choosing a comparison phrase."
+    },
+    {
+      "id": "idioms",
+      "title": "Idioms, prepositions & usage",
+      "group": "Clarity & expression",
+      "summary": "Learn conventional combinations such as attribute to and distinguish from. These are supporting writing skills; the digital SAT primarily emphasizes sentence structure, punctuation, and other Standard English conventions rather than an isolated idiom vocabulary list.",
+      "rule": "Some verbs, adjectives, and paired expressions select particular prepositions or partners. Preserve both the grammatical construction and its intended meaning; distinguish commonly confused words such as affect and effect.",
+      "steps": [
+        "Identify the governing verb, adjective, or paired expression.",
+        "Determine the relationship the sentence means to express.",
+        "Check the conventional partner: attribute to, capable of, between…and, or distinguish from.",
+        "For word-use questions, identify whether the blank needs a noun or verb and what it must mean."
+      ],
+      "examples": [
+        {
+          "incorrect": "The team attributed the delay with equipment failure.",
+          "correct": "The team attributed the delay to equipment failure.",
+          "why": "Attribute a result to its cause is the conventional construction."
+        },
+        {
+          "incorrect": "The amendment will effect how permits are reviewed.",
+          "correct": "The amendment will affect how permits are reviewed.",
+          "why": "Affect means influence; effect as a verb means bring about."
+        }
+      ],
+      "traps": [
+        "An option can have a plausible meaning but the wrong preposition.",
+        "Adapt to a condition differs from adapt something for a use.",
+        "Effect can be a verb, so determine meaning rather than assuming it is always a noun.",
+        "Between pairs with and, even when the two items have long modifiers."
+      ],
+      "takeaway": "Use context and the governing word together; do not choose a preposition in isolation."
+    },
+    {
+      "id": "concision",
+      "title": "Concise, precise expression",
+      "group": "Clarity & expression",
+      "summary": "Concision removes repetition while preserving every essential distinction. This is a supporting editing skill; digital SAT expression questions place greater emphasis on transitions and rhetorical synthesis than on isolated wordiness edits.",
+      "rule": "Choose the shortest grammatically complete wording that preserves the specific information required by the context. Do not remove contrasts, quantities, causes, timing, or qualifications merely to make a phrase shorter.",
+      "steps": [
+        "Identify the information that must survive the revision.",
+        "Remove phrases that repeat nearby words or express the same idea twice.",
+        "Check for unnecessary noun phrases such as made an evaluation of.",
+        "Reject a shorter option if it changes the cause, degree, time, or scope."
+      ],
+      "examples": [
+        {
+          "incorrect": "The team made a comparison of the two samples.",
+          "correct": "The team compared the two samples.",
+          "why": "The direct verb compared expresses the same action in fewer words."
+        },
+        {
+          "incorrect": "The site contains approximately about forty structures.",
+          "correct": "The site contains approximately forty structures.",
+          "why": "Approximately and about duplicate the same qualification."
+        }
+      ],
+      "traps": [
+        "The shortest option may omit necessary information.",
+        "Avoid changing correlation into causation.",
+        "A redundant phrase can sound formal without adding meaning.",
+        "Preserve words such as preliminary, some, and temporarily when the context requires them."
+      ],
+      "takeaway": "Keep the meaning, remove the repetition, and prefer a direct verb when it says the same thing."
+    },
+    {
+      "id": "punctuation",
+      "title": "Punctuation in context",
+      "group": "Clarity & expression",
+      "summary": "Apply punctuation rules to the complete sentence, including long subjects, objects, quotations, and embedded questions. These are central Standard English conventions on the digital SAT.",
+      "rule": "Do not separate a subject from its verb or a verb from its object with punctuation unless a complete parenthetical interruption requires a matched pair. Direct questions use question syntax and a question mark; embedded questions use statement word order. Under standard American quotation conventions, commas and periods fall inside closing quotation marks.",
+      "steps": [
+        "Find the sentence subject and its main verb.",
+        "Identify whether a quotation is an object, a direct question, or a quoted term.",
+        "Look for required pairs around any interruption.",
+        "Determine whether the whole sentence asks a question or reports one."
+      ],
+      "examples": [
+        {
+          "incorrect": "The arrangement of specimens in the two cabinets, reveals a pattern.",
+          "correct": "The arrangement of specimens in the two cabinets reveals a pattern.",
+          "why": "The long subject must connect directly to reveals."
+        },
+        {
+          "incorrect": "The analyst asked where were the missing files.",
+          "correct": "The analyst asked where the missing files were.",
+          "why": "An embedded question uses statement word order."
+        },
+        {
+          "incorrect": "“Is the telescope ready?”, the engineer asked.",
+          "correct": "“Is the telescope ready?” the engineer asked.",
+          "why": "A quoted question keeps its question mark and takes no additional comma before the attribution."
+        }
+      ],
+      "traps": [
+        "A long subject does not automatically need a comma before its verb.",
+        "A colon cannot interrupt a verb and its required object.",
+        "A quoted question mark replaces a comma before an attribution.",
+        "Quotation marks do not make an ordinary word into a standalone sentence."
+      ],
+      "takeaway": "Map the sentence structure first; punctuation must serve that structure, not its length."
+    }
+  ],
+  "questions": [
+    {
+      "id": "d01",
+      "topic": "parallelism",
+      "difficulty": "Hard",
+      "passage": "To assess whether an artificial reef could support juvenile fish, marine ecologists designed a study with three linked objectives. The project would measure seasonal changes in water temperature, document the abundance of small crustaceans, and ___ the shelter provided by different arrangements of concrete modules.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "evaluating",
+        "evaluate",
+        "an evaluation of",
+        "to evaluating"
+      ],
+      "answer": 1,
+      "explanation": "The auxiliary would governs three parallel base-form verbs: measure, document, and evaluate.",
+      "optionExplanations": [
+        "Evaluating breaks the base-form verb series governed by would.",
+        "Evaluate matches measure and document after the shared auxiliary would.",
+        "An evaluation of is a noun phrase, not the third verb required by would.",
+        "To evaluating is not a grammatical infinitive and does not match the coordinated verbs."
+      ],
+      "lessonTip": "Look for a shared auxiliary before deciding whether each verb needs its own marker."
+    },
+    {
+      "id": "d02",
+      "topic": "parallelism",
+      "difficulty": "Hard",
+      "passage": "A recently digitized collection contains thousands of letters written by nineteenth-century merchants. The historian leading the project is interested not only in determining how goods moved between ports but also in ___ the informal networks that allowed traders to obtain credit before modern banking systems became widespread.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "reconstructed",
+        "reconstruct",
+        "reconstructing",
+        "to reconstruct"
+      ],
+      "answer": 2,
+      "explanation": "The repeated preposition in should introduce parallel gerunds: in determining and in reconstructing.",
+      "optionExplanations": [
+        "Reconstructed is a past participle, not the gerund required after in in this construction.",
+        "Reconstruct cannot follow in in this construction.",
+        "Reconstructing matches determining and functions as the object of in.",
+        "To reconstruct cannot follow the preposition in here."
+      ],
+      "lessonTip": "After not only…but also, compare the forms immediately following the repeated introductory words."
+    },
+    {
+      "id": "d03",
+      "topic": "parallelism",
+      "difficulty": "Hard",
+      "passage": "Laboratory tests initially suggested that the new coating would protect steel in saltwater. Before recommending it for bridges, however, the engineers needed to establish both that the coating remained effective after repeated freezing and ___ under prolonged exposure to ultraviolet light, which can weaken many protective materials.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "its resistance to persist",
+        "that its resistance persisting",
+        "that the persistence of its resistance",
+        "that its resistance persisted"
+      ],
+      "answer": 3,
+      "explanation": "Both connects two that-clauses: that the coating remained effective and that its resistance persisted.",
+      "optionExplanations": [
+        "Its resistance to persist is not a complete clause parallel to the first that-clause.",
+        "This lacks the finite verb required in a that-clause; persisting alone is a participle.",
+        "This starts a that-clause but provides no predicate.",
+        "That its resistance persisted repeats the complete clause structure introduced by both that."
+      ],
+      "lessonTip": "When both introduces a that-clause, check that the second item is also a that-clause."
+    },
+    {
+      "id": "d04",
+      "topic": "parallelism",
+      "difficulty": "Hard",
+      "passage": "The restoration team avoided making the ancient vessel look new. Instead, its members concentrated on stabilizing the surviving clay, recording the placement of loose fragments, and ___ enough of the original surface to allow future researchers to distinguish ancient repairs from interventions made during the present conservation effort.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "preserving",
+        "preserve",
+        "to preserve",
+        "having preserve"
+      ],
+      "answer": 0,
+      "explanation": "The shared preposition on governs the parallel gerunds stabilizing, recording, and preserving.",
+      "optionExplanations": [
+        "Preserving matches the other two gerunds governed by on.",
+        "Preserve is a base-form verb and cannot serve as this object of on.",
+        "To preserve is an infinitive, not a gerund parallel to stabilizing and recording.",
+        "Having preserve is ungrammatical; a perfect gerund would require a past participle."
+      ],
+      "lessonTip": "A preposition can govern several coordinated gerunds without being repeated."
+    },
+    {
+      "id": "d05",
+      "topic": "parallelism",
+      "difficulty": "Hard",
+      "passage": "Because small observatories often operate with limited staff, the designers prioritized equipment that could withstand heavy use. They wanted the replacement mount to be inexpensive to manufacture, straightforward to repair, and ___ without specialized lifting equipment, so that two technicians could complete an installation safely during a single afternoon.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "ease of transported",
+        "easy to transport",
+        "its transportation was easy",
+        "ease to transport"
+      ],
+      "answer": 1,
+      "explanation": "The subject complement lists three parallel adjective phrases: inexpensive to manufacture, straightforward to repair, and easy to transport.",
+      "optionExplanations": [
+        "Ease of transported is ungrammatical and cannot function as an adjective complement.",
+        "Easy to transport matches the two preceding adjective-plus-infinitive phrases.",
+        "Its transportation was easy introduces an independent clause where an adjective phrase is needed.",
+        "Ease is a noun, not the adjective easy required in this complement; ease to transport is not a grammatical phrase."
+      ],
+      "lessonTip": "Compare the heads of list items: here, inexpensive, straightforward, and easy are adjectives."
+    },
+    {
+      "id": "d06",
+      "topic": "parallelism",
+      "difficulty": "Hard",
+      "passage": "At first, the anomalous measurements appeared to undermine the proposed model of the glacier. Further investigation showed that the equipment had performed correctly. The revised analysis neither dismissed the original observations nor ___ them as random noise; instead, it identified a previously overlooked channel through which meltwater moved beneath the ice.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "their classification",
+        "classifying",
+        "classified",
+        "to classify"
+      ],
+      "answer": 2,
+      "explanation": "Neither…nor joins the parallel past-tense verbs dismissed and classified, both with analysis as their subject.",
+      "optionExplanations": [
+        "Their classification is a noun phrase, not a predicate parallel to dismissed.",
+        "Classifying is a participle and does not supply a parallel past-tense predicate.",
+        "Classified matches dismissed and takes them as its object.",
+        "To classify is an infinitive and cannot function as the second finite predicate here."
+      ],
+      "lessonTip": "Strip away the objects and modifiers to compare the paired verbs."
+    },
+    {
+      "id": "d07",
+      "topic": "parallelism",
+      "difficulty": "Hard",
+      "passage": "An analysis of the excavation records revealed that earlier teams had carefully mapped the foundations, cataloged the pottery, and ___ the routes of several buried drains. Those details allowed the current researchers to reconstruct how rainwater had moved through the settlement even though much of the original street surface had disappeared.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "traced",
+        "tracing",
+        "the tracing of",
+        "to trace"
+      ],
+      "answer": 0,
+      "explanation": "Had is shared by the three past participles mapped, cataloged, and traced.",
+      "optionExplanations": [
+        "Traced is the past participle required by the shared auxiliary had.",
+        "Tracing does not form the parallel past-perfect verb phrase with had.",
+        "The tracing of is a noun phrase, breaking the coordinated verb series.",
+        "To trace is an infinitive and does not combine with had to form the required past perfect."
+      ],
+      "lessonTip": "Do not repeat an auxiliary unnecessarily, but keep every coordinated verb in the form it requires."
+    },
+    {
+      "id": "d08",
+      "topic": "parallelism",
+      "difficulty": "Hard",
+      "passage": "A linguistic survey of the valley involved more than recording familiar vocabulary. The researchers moved from identifying sounds that differed between neighboring villages to ___ the social settings in which speakers selected one pronunciation over another. Interviews with residents suggested that age and occupation sometimes mattered more than geographic distance.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "to investigate",
+        "an investigation was made of",
+        "investigate",
+        "investigating"
+      ],
+      "answer": 3,
+      "explanation": "In from identifying…to investigating, to is a preposition paired with from, so its object should be a gerund parallel to identifying.",
+      "optionExplanations": [
+        "A second to creates to to investigate and is ungrammatical in the sentence.",
+        "An investigation was made of is a clause, not the object needed after to.",
+        "Investigate is a base-form verb, but the preposition to here requires a noun or gerund.",
+        "Investigating supplies the parallel gerund after the preposition to."
+      ],
+      "lessonTip": "To can be a preposition rather than an infinitive marker; inspect its partner and its grammatical role."
+    },
+    {
+      "id": "d09",
+      "topic": "parallelism",
+      "difficulty": "Hard",
+      "passage": "The committee evaluating a proposed wetland reserve focused on three practical questions: whether the land could absorb seasonal flooding, whether nearby farmers would retain access to irrigation channels, and ___ the required maintenance. Answers to all three would shape the final boundary, since ecological benefits alone could not determine a workable management plan.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "whether funding for",
+        "whether the municipality could fund",
+        "whether the municipality funding",
+        "whether funded"
+      ],
+      "answer": 1,
+      "explanation": "The series contains indirect-question clauses introduced by whether; the third item must match that clause structure.",
+      "optionExplanations": [
+        "Whether funding for lacks the subject and finite verb needed to form this indirect-question clause.",
+        "Whether the municipality could fund matches the first two complete whether-clauses.",
+        "This lacks a finite verb; funding alone is a participle, not the needed predicate.",
+        "Whether funded lacks a subject and a complete predicate for the third indirect question."
+      ],
+      "lessonTip": "A series can coordinate whole clauses, not just individual words."
+    },
+    {
+      "id": "d10",
+      "topic": "parallelism",
+      "difficulty": "Hard",
+      "passage": "The visiting curator described the exhibition as an attempt to reconnect artifacts with the communities that had produced them. Achieving that goal required negotiating loans, arranging translations of the labels, and ___ with local educators. Each task depended on sustained discussion rather than decisions made solely by the museum staff.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "collaborate",
+        "to collaborate",
+        "collaborating",
+        "collaboration was needed"
+      ],
+      "answer": 2,
+      "explanation": "Required takes three parallel gerunds as its objects: negotiating, arranging, and collaborating.",
+      "optionExplanations": [
+        "Collaborate is a base-form verb rather than a noun-like gerund object of required.",
+        "To collaborate changes the coordinated series from gerunds to an infinitive.",
+        "Collaborating matches the two preceding gerunds.",
+        "Collaboration was needed is an independent clause and cannot serve as this third coordinated object."
+      ],
+      "lessonTip": "Read the list after required on its own: negotiating, arranging, collaborating."
+    },
+    {
+      "id": "d11",
+      "topic": "comparisons",
+      "difficulty": "Hard",
+      "passage": "In controlled trials, a desert moss retained water unusually well after a brief simulated rainstorm. The researchers found that the water-storage capacity of its outer cell walls was substantially greater than ___, helping explain how the moss could resume photosynthesis quickly despite long intervals without measurable rainfall.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "a woodland moss",
+        "those of a woodland moss",
+        "that of a woodland moss",
+        "woodland mosses"
+      ],
+      "answer": 2,
+      "explanation": "The comparison is between one water-storage capacity and another, so the singular substitute that is required.",
+      "optionExplanations": [
+        "This compares a capacity with an organism rather than another capacity.",
+        "Those is plural, but the comparison target capacity is singular.",
+        "That replaces the singular water-storage capacity and makes a like-to-like comparison.",
+        "Woodland mosses are organisms, not the water-storage capacity being compared."
+      ],
+      "lessonTip": "Identify the measurement being compared before selecting that or those."
+    },
+    {
+      "id": "d12",
+      "topic": "comparisons",
+      "difficulty": "Hard",
+      "passage": "An architectural historian examined two civic buildings designed by the same studio fifty years apart. Unlike ___, the later building admits daylight through narrow openings high in its walls. This difference reflects a change in the studio’s approach to controlling summer heat while maintaining usable illumination in its public rooms.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "the studio’s earlier building",
+        "the windows of the earlier building",
+        "the studio’s earlier design team",
+        "the earlier building’s daylight"
+      ],
+      "answer": 0,
+      "explanation": "The sentence compares the later building with the studio’s earlier building, equivalent entities.",
+      "optionExplanations": [
+        "This compares one building with the other building.",
+        "The main subject is the later building, so comparing it with windows is illogical.",
+        "This compares a building with a group of designers.",
+        "This compares a building with daylight, not another building."
+      ],
+      "lessonTip": "The noun after an introductory unlike phrase must be the thing being compared."
+    },
+    {
+      "id": "d13",
+      "topic": "comparisons",
+      "difficulty": "Hard",
+      "passage": "A wildlife biologist recorded the calls of two closely related bird species using the same microphones and analysis software. Although their call durations were similar, the average frequency of the coastal species’ call was lower than ___. The difference remained consistent across recordings made at several widely separated nesting sites.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "the inland species",
+        "those of the inland species’ call",
+        "the inland species’ calls",
+        "that of the inland species’ call"
+      ],
+      "answer": 3,
+      "explanation": "Average frequency is singular and must be compared with another average frequency; that substitutes for the repeated measurement.",
+      "optionExplanations": [
+        "The comparison would incorrectly match an average frequency with a species.",
+        "Those is plural and cannot stand for the singular average frequency.",
+        "This compares a frequency with the calls themselves.",
+        "That correctly stands for the average frequency of the inland species’ call."
+      ],
+      "lessonTip": "Ignore possessive modifiers when finding the singular or plural head of the comparison target."
+    },
+    {
+      "id": "d14",
+      "topic": "comparisons",
+      "difficulty": "Hard",
+      "passage": "A materials laboratory measured how quickly several fabrics dried under identical conditions. The new woven sample dried faster than ___, although the untreated fibers from which it was made absorbed more water initially. Microscopic images suggested that channels created by the weaving process, rather than the fibers’ chemical composition, accounted for the result.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "the drying time of a conventional cotton sample",
+        "a conventional cotton sample did",
+        "that of a conventional cotton sample",
+        "a conventional cotton sample’s drying time"
+      ],
+      "answer": 1,
+      "explanation": "The clause compares what two samples did: the new sample dried faster than a conventional cotton sample did.",
+      "optionExplanations": [
+        "This compares a sample’s action with a drying-time quantity rather than another sample’s action.",
+        "The auxiliary did substitutes for dried and completes the parallel comparison of actions.",
+        "That of substitutes for a noun, but the comparison here needs the action of another sample.",
+        "This mismatches the act of drying with a drying-time noun phrase."
+      ],
+      "lessonTip": "For comparisons of actions, an auxiliary such as did can replace the repeated verb."
+    },
+    {
+      "id": "d15",
+      "topic": "comparisons",
+      "difficulty": "Hard",
+      "passage": "The team reviewed every storage jar recovered from the site, measuring each one with the same method. Jar 47, which held 18 liters, had a larger capacity than ___ in the collection: all remaining jars held between 6 and 15 liters. Its unusual size may indicate that it served a communal rather than household purpose.",
+      "prompt": "Which choice completes the text with the most logical comparison?",
+      "choices": [
+        "any jar",
+        "every jar",
+        "any other jar",
+        "all jars"
+      ],
+      "answer": 2,
+      "explanation": "Any other jar excludes Jar 47 itself, making the comparison logically possible and consistent with the data.",
+      "optionExplanations": [
+        "Any jar includes Jar 47, suggesting that its capacity exceeded its own.",
+        "Every jar also includes Jar 47 and creates a self-comparison.",
+        "Any other jar excludes Jar 47 and correctly refers to the remaining collection.",
+        "All jars includes the subject jar and therefore overstates the comparison."
+      ],
+      "lessonTip": "Exclude the subject with other when comparing one member with its whole group."
+    },
+    {
+      "id": "d16",
+      "topic": "comparisons",
+      "difficulty": "Hard",
+      "passage": "A survey of urban trees found that the leaves of mature ginkgo trees resisted tearing during strong gusts. Like ___, the leaves of young ginkgo trees also have branching veins that distribute mechanical stress. The researchers therefore investigated leaf thickness, rather than the basic pattern of veins, as a possible explanation for age-related differences in damage.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "those of mature ginkgo trees",
+        "mature ginkgo trees",
+        "the thickness of mature ginkgo leaves",
+        "a mature ginkgo tree"
+      ],
+      "answer": 0,
+      "explanation": "Those replaces the plural leaves, so the comparison matches young leaves with mature leaves.",
+      "optionExplanations": [
+        "Those refers to leaves and creates a logical leaf-to-leaf comparison.",
+        "This compares leaves with whole trees.",
+        "This compares leaves with a measurement of thickness.",
+        "This compares plural leaves with an individual tree rather than its leaves."
+      ],
+      "lessonTip": "Match the compared entities as well as the number of their substitute pronouns."
+    },
+    {
+      "id": "d17",
+      "topic": "comparisons",
+      "difficulty": "Hard",
+      "passage": "A city converted several disused warehouses into rehearsal spaces while a neighboring city built new facilities. The average renovation cost per room in the first city was lower than ___. Officials cautioned that the difference reflected the existing warehouses’ sound structures and should not be assumed for buildings requiring extensive foundation repairs.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "the neighboring city",
+        "the neighboring city’s new facilities",
+        "the rooms in the neighboring city",
+        "the average construction cost per room in the neighboring city"
+      ],
+      "answer": 3,
+      "explanation": "The blank must compare one average cost per room with another average cost per room.",
+      "optionExplanations": [
+        "A city is not the cost being compared.",
+        "Facilities are objects, not an average cost per room.",
+        "Rooms are not equivalent to the stated average renovation cost.",
+        "This matches the first average cost with the neighboring city’s average cost."
+      ],
+      "lessonTip": "Keep both sides of a numerical comparison at the same level: cost per room with cost per room."
+    },
+    {
+      "id": "d18",
+      "topic": "comparisons",
+      "difficulty": "Hard",
+      "passage": "During a field trial, two robotic vehicles crossed the same rocky course while carrying identical sensors. Compared with ___, the newer vehicle maintained a steadier orientation on steep slopes. Engineers attributed this improvement to a redesigned suspension, because both vehicles used the same navigation software and had nearly identical overall masses.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "the older vehicle’s stability",
+        "the older vehicle",
+        "the older vehicle’s suspension",
+        "the older vehicle’s sensors"
+      ],
+      "answer": 1,
+      "explanation": "The opening comparison must pair the newer vehicle, the main subject, with the older vehicle.",
+      "optionExplanations": [
+        "This compares the newer vehicle with a property of the older vehicle.",
+        "This compares the two vehicles directly.",
+        "This compares an entire vehicle with a suspension component.",
+        "This compares an entire vehicle with a set of sensors."
+      ],
+      "lessonTip": "Find the main subject immediately after an introductory comparison phrase."
+    },
+    {
+      "id": "d19",
+      "topic": "comparisons",
+      "difficulty": "Hard",
+      "passage": "Archaeologists counted pottery fragments in two adjacent trenches, both of which were excavated to the same depth. The northern trench contained ___ fragments than the southern trench did, but its fragments were, on average, larger. The unequal counts therefore did not by themselves establish which trench had contained more complete vessels.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "less",
+        "a lesser amount of",
+        "fewer",
+        "a lower quantity"
+      ],
+      "answer": 2,
+      "explanation": "Fragments are individually countable objects, so fewer is the comparative modifier that directly and correctly describes their number.",
+      "optionExplanations": [
+        "Less ordinarily modifies an amount rather than countable plural fragments.",
+        "A lesser amount of treats the countable fragments as an undifferentiated amount.",
+        "Fewer correctly modifies the countable plural noun fragments.",
+        "A lower quantity would need of before fragments and does not fit as written."
+      ],
+      "lessonTip": "Use fewer with plural things that can be counted individually; use less with an amount."
+    },
+    {
+      "id": "d20",
+      "topic": "comparisons",
+      "difficulty": "Hard",
+      "passage": "Experiments with an insulating foam showed that it could reduce heat transfer through a wall without increasing the wall’s thickness. Its thermal conductivity was approximately half ___, a widely used conventional insulator. Because lower conductivity indicates better insulation, the researchers considered the foam promising despite its higher manufacturing cost.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "that of mineral wool",
+        "mineral wool",
+        "those of mineral wool",
+        "mineral wool’s fibers"
+      ],
+      "answer": 0,
+      "explanation": "The singular measurement thermal conductivity must be compared with that of mineral wool; the appositive then describes mineral wool.",
+      "optionExplanations": [
+        "That stands for thermal conductivity, producing a measurement-to-measurement comparison.",
+        "This compares a measurement with the material itself.",
+        "Those cannot stand for the singular conductivity.",
+        "This compares conductivity with physical fibers."
+      ],
+      "lessonTip": "A repeated technical property often needs that of, not just the name of the second material."
+    },
+    {
+      "id": "d21",
+      "topic": "idioms",
+      "difficulty": "Hard",
+      "passage": "When the newly installed seismometer reported unusually strong vibrations, technicians first suspected a fault in its electronics. Subsequent tests showed that the instrument was functioning normally. The researchers ultimately attributed the elevated readings ___ traffic on a nearby bridge, whose expansion joints generated rhythmic impacts whenever heavy trucks crossed them.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "with",
+        "for",
+        "by",
+        "to"
+      ],
+      "answer": 3,
+      "explanation": "The conventional construction is attribute an observed result to its cause.",
+      "optionExplanations": [
+        "Attribute a result with a cause is not the standard construction.",
+        "For does not introduce the cause in the attribute construction.",
+        "By would introduce an agent in other structures, but does not complete attributed the readings here.",
+        "To correctly introduces the cause to which the readings were attributed."
+      ],
+      "lessonTip": "Remember the complete pattern: attribute something to something."
+    },
+    {
+      "id": "d22",
+      "topic": "idioms",
+      "difficulty": "Hard",
+      "passage": "The paleobotanists compared pollen preserved in sediments from two lakes. One species was common in both records, but the dates of its first appearance differed substantially. To explain the discrepancy, the team had to distinguish a genuine change in vegetation ___ an apparent change produced by the uneven preservation of fragile pollen grains.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "than",
+        "from",
+        "with",
+        "by"
+      ],
+      "answer": 1,
+      "explanation": "The standard construction distinguish one thing from another identifies two things being differentiated.",
+      "optionExplanations": [
+        "Than is used in comparisons, not after distinguish in this construction.",
+        "From correctly separates the two phenomena being distinguished.",
+        "With does not mark the contrast required after distinguish here.",
+        "By would introduce a distinguishing criterion, not the second phenomenon in this contrast."
+      ],
+      "lessonTip": "Distinguish A from B identifies alternatives; distinguish A by B identifies a characteristic."
+    },
+    {
+      "id": "d23",
+      "topic": "idioms",
+      "difficulty": "Hard",
+      "passage": "In developing a biodegradable package, the chemists tested a polymer derived from seaweed. The material was capable ___ forming a flexible film without petroleum-based additives, but its sensitivity to humidity limited its practical use. A second round of experiments focused on maintaining that flexibility while reducing the film’s tendency to absorb water.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "of",
+        "to",
+        "for",
+        "with"
+      ],
+      "answer": 0,
+      "explanation": "Capable takes of followed by a noun or gerund: capable of forming.",
+      "optionExplanations": [
+        "Of correctly connects capable with the gerund forming.",
+        "Capable to forming is not a standard construction.",
+        "For does not complete the adjective capable in this sense.",
+        "With does not introduce the ability described after capable."
+      ],
+      "lessonTip": "Pair capable with of; pair able with to and a base-form verb."
+    },
+    {
+      "id": "d24",
+      "topic": "idioms",
+      "difficulty": "Hard",
+      "passage": "A conservation scientist compared the pigment’s behavior in darkness ___ its behavior under continuous museum lighting. The two conditions produced different rates of fading, even though temperature and humidity were held constant. This result suggested that a lighting schedule could help protect the paintings without requiring changes to the exhibition room’s climate-control system.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "between",
+        "from",
+        "with",
+        "than"
+      ],
+      "answer": 2,
+      "explanation": "Compare A with B is the standard construction used to examine similarities or differences between two conditions.",
+      "optionExplanations": [
+        "Between cannot follow compared A to introduce the second object.",
+        "From belongs to distinguish A from B, not this comparison structure.",
+        "With introduces the second behavior being compared.",
+        "Than follows comparative expressions such as faster, not compared in this construction."
+      ],
+      "lessonTip": "Identify the governing verb before choosing a preposition that belongs to a different construction."
+    },
+    {
+      "id": "d25",
+      "topic": "idioms",
+      "difficulty": "Hard",
+      "passage": "The regional archive receives requests from both professional historians and community volunteers. Its new index provides a distinction between documents whose authors are known ___ documents whose authors remain uncertain. That distinction helps users judge how confidently a passage can be connected to a particular person rather than merely to a place or institution.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "to",
+        "and",
+        "than",
+        "with"
+      ],
+      "answer": 1,
+      "explanation": "The paired expression between A and B requires and, even when A is a long noun phrase.",
+      "optionExplanations": [
+        "To does not complete the paired expression between A and B.",
+        "And correctly connects the two categories governed by between.",
+        "Than does not pair with between.",
+        "With does not provide the required partner for between."
+      ],
+      "lessonTip": "Long modifiers can hide paired expressions; reduce this one to between documents and documents."
+    },
+    {
+      "id": "d26",
+      "topic": "idioms",
+      "difficulty": "Hard",
+      "passage": "To investigate how nocturnal moths orient themselves, researchers altered the arrangement of dim lights around an enclosed flight area. They expected changes in the lights’ positions to ___ the insects’ paths, but they did not expect the insects to stop flying altogether. The resulting pauses prompted a separate study of light intensity.",
+      "prompt": "Which choice completes the text with the most precise and grammatically appropriate word?",
+      "choices": [
+        "effect",
+        "effects",
+        "affects",
+        "affect"
+      ],
+      "answer": 3,
+      "explanation": "The infinitive needs the base-form verb affect, meaning influence the insects’ paths; effect would mean bring those paths about.",
+      "optionExplanations": [
+        "Effect means bring about, which does not express the expected influence on already occurring flight paths.",
+        "Effects is not the base form required after to and also has the wrong meaning.",
+        "Affects is not the base form required after to.",
+        "Affect is the base-form verb meaning influence."
+      ],
+      "lessonTip": "Use both syntax and meaning: affect means influence; effect as a verb means bring about."
+    },
+    {
+      "id": "d27",
+      "topic": "idioms",
+      "difficulty": "Hard",
+      "passage": "A small grant allowed the museum to purchase adjustable supports for fragile textiles. The conservators hoped the equipment would ___ a lasting improvement in storage conditions rather than merely change the appearance of the collection. The supports were designed to prevent folds from becoming permanent without exposing the fabrics to unnecessary stretching.",
+      "prompt": "Which choice completes the text with the most precise and grammatically appropriate word?",
+      "choices": [
+        "effect",
+        "affect",
+        "effects",
+        "affects"
+      ],
+      "answer": 0,
+      "explanation": "The base-form verb effect means bring about, which fits bringing about an improvement after would.",
+      "optionExplanations": [
+        "Effect means bring about and correctly takes a lasting improvement as its object.",
+        "Affect means influence, but the context calls for creating the improvement, not influencing an existing one.",
+        "Effects is not the base form required after would.",
+        "Affects is not the base form required after would and does not express bringing about the improvement."
+      ],
+      "lessonTip": "Effect can function as a verb when the intended meaning is cause something to happen."
+    },
+    {
+      "id": "d28",
+      "topic": "idioms",
+      "difficulty": "Hard",
+      "passage": "Researchers originally developed a sensor to monitor vibrations in industrial equipment. A marine science team later adapted the device ___ use on submerged recording stations, sealing its electrical connections and replacing components that corroded in saltwater. The modified sensor helped the team distinguish underwater landslides from ordinary disturbances caused by waves.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "of",
+        "with",
+        "for",
+        "by"
+      ],
+      "answer": 2,
+      "explanation": "Adapt something for a use means modify it to serve that purpose.",
+      "optionExplanations": [
+        "Of does not introduce the intended use after adapted the device.",
+        "With would introduce a means or addition, not the purpose use on submerged stations.",
+        "For correctly introduces the use for which the device was modified.",
+        "By would introduce an agent or method, not the intended purpose."
+      ],
+      "lessonTip": "Adapt a device for a purpose; adapt to a changed condition."
+    },
+    {
+      "id": "d29",
+      "topic": "idioms",
+      "difficulty": "Hard",
+      "passage": "A biologist investigating a salt-tolerant grass found that its roots excluded much of the sodium dissolved in the soil. The grass was therefore unusually resistant ___ the damage that high sodium concentrations caused in several related species. This trait suggested that its root structure might offer clues for improving crops grown near coastal wetlands.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "against",
+        "from",
+        "than",
+        "to"
+      ],
+      "answer": 3,
+      "explanation": "The adjective resistant conventionally takes to when introducing the thing resisted.",
+      "optionExplanations": [
+        "Resistant against is not the standard adjective-preposition combination here.",
+        "From does not complete resistant in this sense.",
+        "Than cannot introduce the object of resistance.",
+        "To correctly introduces the damage the grass resisted."
+      ],
+      "lessonTip": "Check adjective-preposition partnerships rather than borrowing the preposition from a related verb."
+    },
+    {
+      "id": "d30",
+      "topic": "idioms",
+      "difficulty": "Hard",
+      "passage": "A historian found that several letters attributed to a well-known traveler used paper manufactured after the traveler’s death. The evidence cast doubt ___ the proposed attribution, although it did not identify the actual author. Further analysis of handwriting and ink was needed before the archive could offer a more specific account of the letters’ origins.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "to",
+        "on",
+        "for",
+        "with"
+      ],
+      "answer": 1,
+      "explanation": "The idiomatic expression cast doubt on introduces the claim whose reliability is questioned.",
+      "optionExplanations": [
+        "To does not complete the expression cast doubt on.",
+        "On correctly introduces the proposed attribution being questioned.",
+        "For does not identify the object of doubt in this construction.",
+        "With does not complete the expression cast doubt on."
+      ],
+      "lessonTip": "Learn expressions as complete units: evidence can cast doubt on a claim."
+    },
+    {
+      "id": "d31",
+      "topic": "concision",
+      "difficulty": "Hard",
+      "passage": "Ecologists have surveyed the island’s seabird nests each September since 2008, using the same routes and counting method. The surveys are ___, allowing the team to compare population estimates from one year to the next. Volunteers receive fresh training before each survey so that changes in personnel do not compromise the consistency of the observations.",
+      "prompt": "Which choice completes the text with the most concise wording that preserves the essential meaning?",
+      "choices": [
+        "conducted annually each year",
+        "performed on a yearly annual basis",
+        "conducted annually",
+        "conducted whenever volunteers become available"
+      ],
+      "answer": 2,
+      "explanation": "Conducted annually states the yearly frequency once. The two longer alternatives repeat it, and the last option changes the fixed schedule.",
+      "optionExplanations": [
+        "Annually and each year repeat the same information.",
+        "Yearly and annual duplicate the same timing information.",
+        "Conducted annually preserves the yearly schedule without redundant words.",
+        "This changes a fixed annual survey into an irregular survey based on availability."
+      ],
+      "lessonTip": "Delete duplicate expressions of frequency, but preserve the actual schedule."
+    },
+    {
+      "id": "d32",
+      "topic": "concision",
+      "difficulty": "Hard",
+      "passage": "A laboratory compared two methods for preserving seeds from endangered plants. After measuring germination rates in all samples, the researchers ___ and found that seeds dried slowly at low temperatures remained viable longer. Their report also cautioned that the result applied only to the three species tested, not to every plant in the collection.",
+      "prompt": "Which choice completes the text with the most concise wording that preserves the essential meaning?",
+      "choices": [
+        "evaluated the results",
+        "made an evaluative evaluation of the results",
+        "performed an evaluation of the results obtained in the evaluation",
+        "evaluated every plant in the collection"
+      ],
+      "answer": 0,
+      "explanation": "Evaluated the results expresses the action directly and keeps its object. The longer versions are redundant, and the last changes what was evaluated.",
+      "optionExplanations": [
+        "This directly states the evaluation of the measured results.",
+        "Evaluative evaluation repeats the concept and uses an unnecessary noun construction.",
+        "This unnecessarily repeats evaluation and results.",
+        "This changes the object to every plant, contradicting the limited scope of the study."
+      ],
+      "lessonTip": "A direct verb often replaces a wordy verb-plus-noun expression without losing meaning."
+    },
+    {
+      "id": "d33",
+      "topic": "concision",
+      "difficulty": "Hard",
+      "passage": "The archaeological team recovered forty-two inscribed fragments from a collapsed storeroom. Most preserved only a few letters, but six were ___ and could be matched to entries in an ancient inventory. The team photographed all the fragments before attempting any joins, ensuring that the initial condition of each piece remained documented.",
+      "prompt": "Which choice completes the text with the most concise wording that preserves the essential meaning?",
+      "choices": [
+        "large in size enough to preserve complete names",
+        "of a sufficiently large enough size to preserve complete names",
+        "so large that every letter had been lost",
+        "large enough to preserve complete names"
+      ],
+      "answer": 3,
+      "explanation": "Large enough to preserve complete names retains the surviving information without redundant phrases such as in size or sufficiently large enough. The alternative about losing every letter contradicts the matching of names to inventory entries.",
+      "optionExplanations": [
+        "In size is redundant after large.",
+        "Sufficiently and enough repeat the same qualification, and of a…size is unnecessary.",
+        "This changes the meaning and contradicts the fact that these fragments could be matched to inventory entries.",
+        "This concisely retains both sufficient size and the preservation of complete names."
+      ],
+      "lessonTip": "Keep the detail that explains what enough means; remove redundant size expressions."
+    },
+    {
+      "id": "d34",
+      "topic": "concision",
+      "difficulty": "Hard",
+      "passage": "A team studying urban drainage installed sensors in a park where rainwater frequently pooled near the entrance. The sensors recorded water depth at five-minute intervals ___ during each storm. These measurements revealed that the entrance flooded before the larger lawn, suggesting that the blockage was local rather than a failure of the entire drainage network.",
+      "prompt": "Which choice completes the text with the most concise wording that preserves the essential meaning?",
+      "choices": [
+        "for the purpose of monitoring the rise and increase in water levels",
+        "to monitor rising water levels",
+        "so as to carry out the monitoring of water levels as they rose upward",
+        "to prevent rising water levels"
+      ],
+      "answer": 1,
+      "explanation": "To monitor rising water levels concisely states the purpose of the measurements. The other purpose statements are redundant or change observation into prevention.",
+      "optionExplanations": [
+        "Rise and increase duplicate one another, and for the purpose of is unnecessarily long.",
+        "This directly states the purpose without repetition.",
+        "Carry out the monitoring and rose upward add unnecessary words.",
+        "Recording water depth monitors flooding; it does not itself prevent rising water."
+      ],
+      "lessonTip": "A purpose can often be expressed with to plus a direct verb."
+    },
+    {
+      "id": "d35",
+      "topic": "concision",
+      "difficulty": "Hard",
+      "passage": "Researchers investigating a medieval dye tested a small sample under conditions designed to replicate those described in a surviving workshop manual. Their ___ suggested that the color depended on the sequence in which two ingredients were added. Because only one sample had been tested, they planned additional trials before drawing a firm conclusion.",
+      "prompt": "Which choice completes the text with the most concise wording that preserves the essential meaning?",
+      "choices": [
+        "preliminary initial findings at the beginning of the investigation",
+        "final findings",
+        "preliminary findings",
+        "findings that were preliminary in their initial nature"
+      ],
+      "answer": 2,
+      "explanation": "Preliminary findings retains the necessary qualification without repeating the idea of an early stage; final findings contradicts the planned further trials.",
+      "optionExplanations": [
+        "Preliminary, initial, and at the beginning repeat the same qualification.",
+        "Final removes and reverses the important qualification that the evidence is preliminary.",
+        "This preserves the tentative stage of the evidence concisely.",
+        "Preliminary and initial nature duplicate the same meaning."
+      ],
+      "lessonTip": "Concision should preserve qualifications that limit how strong a conclusion is."
+    },
+    {
+      "id": "d36",
+      "topic": "concision",
+      "difficulty": "Hard",
+      "passage": "Engineers inspecting a coastal footbridge discovered that salt had accumulated inside several joints. They proposed ___, which would let maintenance workers remove the deposits without dismantling the surrounding deck. The proposed change addressed access to the joints; it did not alter the bridge’s load-bearing structure or the material from which the deck was made.",
+      "prompt": "Which choice completes the text with the most concise wording that preserves the essential meaning?",
+      "choices": [
+        "adding removable access panels",
+        "adding additional removable access panels that could be removed",
+        "making an addition of removable panels for the purpose of access",
+        "replacing the load-bearing structure"
+      ],
+      "answer": 0,
+      "explanation": "Adding removable access panels names the proposed change directly. The longer alternatives add redundancy, and replacing the structure changes the proposal.",
+      "optionExplanations": [
+        "This names the proposed addition and its function in a compact phrase.",
+        "Adding additional is redundant, and removable repeats could be removed.",
+        "Making an addition and for the purpose of access are unnecessarily wordy.",
+        "This contradicts the statement that the load-bearing structure would remain unchanged."
+      ],
+      "lessonTip": "Retain the object and its purpose; remove repeated actions or properties."
+    },
+    {
+      "id": "d37",
+      "topic": "concision",
+      "difficulty": "Hard",
+      "passage": "The observatory’s old detector recorded each exposure on a separate sheet of film. Its replacement transmitted images directly to a server, enabling the staff to ___ before deciding whether another exposure was necessary. The faster review process reduced wasted telescope time, although it did not increase the detector’s sensitivity to faint objects.",
+      "prompt": "Which choice completes the text with the most concise wording that preserves the essential meaning?",
+      "choices": [
+        "review each image in a quick and rapid manner",
+        "make a rapid review of each image quickly",
+        "increase the detector’s sensitivity",
+        "review each image quickly"
+      ],
+      "answer": 3,
+      "explanation": "Review each image quickly expresses the needed action and speed once; the sensitivity option changes the claimed benefit.",
+      "optionExplanations": [
+        "Quick and rapid express the same quality twice.",
+        "Rapid and quickly repeat the speed, and make a review is wordier than review.",
+        "This changes the benefit to increased sensitivity, which the text explicitly rules out.",
+        "This preserves review of each image and the speed of that review without redundancy."
+      ],
+      "lessonTip": "Use a direct verb and a single modifier when they preserve the entire claim."
+    },
+    {
+      "id": "d38",
+      "topic": "concision",
+      "difficulty": "Hard",
+      "passage": "A study of community gardens found that residents who participated reported more frequent contact with neighbors. The authors emphasized that the study showed ___, since people who already knew their neighbors might have been more likely to join. A randomized study would be needed to establish whether gardening itself increased social interaction.",
+      "prompt": "Which choice completes the text with the most concise wording that preserves the essential meaning?",
+      "choices": [
+        "gardening caused more neighbor contact",
+        "an association between participation and neighbor contact",
+        "an associative association connecting participation together with neighbor contact",
+        "a relationship of association that associated participation with contact with neighbors"
+      ],
+      "answer": 1,
+      "explanation": "An association between participation and neighbor contact preserves the limited claim concisely. The causal alternative overstates what the design establishes.",
+      "optionExplanations": [
+        "This changes association into causation, which the paragraph says has not been established.",
+        "This states the association clearly without repeating the relationship.",
+        "Associative association and connecting together are redundant.",
+        "Relationship of association that associated repeatedly expresses the same relationship."
+      ],
+      "lessonTip": "A shorter claim is incorrect if it changes correlation into causation."
+    },
+    {
+      "id": "d39",
+      "topic": "concision",
+      "difficulty": "Hard",
+      "passage": "For two weeks, a library moved its rare manuscripts to a climate-controlled storage room while workers repaired a leaking roof. The collection was ___, and researchers resumed using it when the repairs were complete. The library’s regular circulating books remained available throughout the project because they were housed in a different wing.",
+      "prompt": "Which choice completes the text with the most concise wording that preserves the essential meaning?",
+      "choices": [
+        "inaccessible forever",
+        "temporarily unavailable for a temporary period of time",
+        "temporarily unavailable",
+        "unavailable on a temporary and nonpermanent basis"
+      ],
+      "answer": 2,
+      "explanation": "Temporarily unavailable preserves the limited interruption without repeating its duration; inaccessible forever contradicts resumed access.",
+      "optionExplanations": [
+        "Forever contradicts the collection’s availability after two weeks.",
+        "Temporarily and for a temporary period of time repeat the same limitation.",
+        "This preserves the temporary loss of access concisely.",
+        "Temporary and nonpermanent express the same limitation twice."
+      ],
+      "lessonTip": "Keep a time limitation once when the distinction between temporary and permanent matters."
+    },
+    {
+      "id": "d40",
+      "topic": "concision",
+      "difficulty": "Hard",
+      "passage": "A geologist analyzed a crystal whose center contained less magnesium than its outer layers. This pattern indicated that the magma’s composition had changed ___, rather than remaining constant during formation. The finding helped reconstruct the sequence of chemical conditions even though the surrounding rock no longer preserved all stages of the crystal’s development.",
+      "prompt": "Which choice completes the text with the most concise wording that preserves the essential meaning?",
+      "choices": [
+        "while the crystal grew",
+        "during the time period when the crystal was in the process of growing",
+        "while the crystal was growing in growth",
+        "before the crystal began to grow"
+      ],
+      "answer": 0,
+      "explanation": "While the crystal grew preserves the timing and removes unnecessary phrases. Before growth changes the sequence described by the layered crystal.",
+      "optionExplanations": [
+        "This states the relevant timing directly and completely.",
+        "During the time period and in the process of add unnecessary words.",
+        "Growing in growth repeats the same action.",
+        "This changes a change during crystal growth to a change before growth."
+      ],
+      "lessonTip": "Remove wordy time expressions without changing when the event occurred."
+    },
+    {
+      "id": "d41",
+      "topic": "punctuation",
+      "difficulty": "Hard",
+      "passage": "Astronomers investigating an unusually dim star combined measurements from three observatories. The pattern of changes in brightness recorded over the six-month observation period ___ that dust periodically crossed the star’s face. Because the dips were irregular, the researchers favored a shifting dust cloud over a single planet following a stable orbit.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "suggests",
+        " , suggests",
+        "; suggests",
+        ": suggests"
+      ],
+      "answer": 0,
+      "explanation": "The complete subject, The pattern of changes…period, must connect directly to its main verb suggests. None of the intervening words is a parenthetical interruption.",
+      "optionExplanations": [
+        "Suggests directly connects the long subject with its main verb.",
+        "A comma would incorrectly separate the subject from its main verb.",
+        "A semicolon requires an independent clause before it, but the preceding words contain no main verb.",
+        "A colon cannot separate the subject from its main verb."
+      ],
+      "lessonTip": "A long subject does not take punctuation merely because it is long."
+    },
+    {
+      "id": "d42",
+      "topic": "punctuation",
+      "difficulty": "Hard",
+      "passage": "The laboratory uses one microscope for routine examinations and a second for unusually large samples. The primary microscope ___ are checked against the same calibration slide each morning, ensuring that measurements remain comparable. This practice lets researchers switch instruments during a study without introducing an avoidable difference in the reported dimensions of microscopic structures.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "and its backup,",
+        ", and its backup,",
+        "and its backup",
+        ", and its backup"
+      ],
+      "answer": 2,
+      "explanation": "The coordinated subject The primary microscope and its backup takes the plural verb are; no punctuation should split the compound subject or separate it from its verb.",
+      "optionExplanations": [
+        "The comma separates the complete compound subject from are.",
+        "The commas wrongly present the second subject as parenthetical while the plural verb requires the compound subject.",
+        "This correctly joins the two subject nouns and connects them directly to are.",
+        "The comma unnecessarily interrupts the compound subject."
+      ],
+      "lessonTip": "A compound subject joined by and normally connects directly to its plural verb."
+    },
+    {
+      "id": "d43",
+      "topic": "punctuation",
+      "difficulty": "Hard",
+      "passage": "The museum’s handbook explains how conservators distinguish reversible repairs from permanent alterations. In the section on adhesives, the author argues that ___ because future specialists may develop safer treatment methods. That principle guides the selection of materials even when a stronger adhesive would make an object easier to display in the short term.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "“every repair should be removable.”",
+        ", “every repair should be removable”",
+        "“every repair should be removable”;",
+        "“every repair should be removable”"
+      ],
+      "answer": 3,
+      "explanation": "The quotation is integrated into the that-clause and is followed by a necessary because-clause. It takes no comma before the quotation or punctuation that breaks the clause after it.",
+      "optionExplanations": [
+        "The period ends the sentence before the dependent because-clause, leaving that explanation as a sentence fragment.",
+        "A comma cannot separate that from the clause it introduces.",
+        "The semicolon separates an incomplete that-clause structure from a dependent because-clause.",
+        "The quoted words form the content of the that-clause and continue directly into because."
+      ],
+      "lessonTip": "A quotation that fits inside a sentence follows the sentence’s normal grammatical structure."
+    },
+    {
+      "id": "d44",
+      "topic": "punctuation",
+      "difficulty": "Hard",
+      "passage": "The new acoustic model accurately predicted most sounds recorded inside the concert hall. One result remained unexplained, however. The researchers asked ___ but their initial measurements could not resolve the issue. They therefore placed additional microphones near the balcony, where reflective surfaces might concentrate particular frequencies and prolong the fading sound.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "why did the lowest notes persist longer?",
+        "why the lowest notes persisted longer,",
+        "why the lowest notes persisted longer?",
+        "why did the lowest notes persist longer,"
+      ],
+      "answer": 1,
+      "explanation": "Asked introduces an embedded question, which uses statement word order: why the lowest notes persisted longer. A comma then separates that independent clause from the independent clause beginning but.",
+      "optionExplanations": [
+        "Embedded questions do not invert the subject and auxiliary or take a question mark in this declarative sentence.",
+        "This uses correct embedded-question order and the comma needed before but joining two independent clauses.",
+        "The whole sentence reports a question rather than asking one, so a question mark incorrectly breaks the sentence.",
+        "This uses inverted direct-question order inside an embedded question."
+      ],
+      "lessonTip": "An embedded question keeps statement word order even when its content expresses uncertainty."
+    },
+    {
+      "id": "d45",
+      "topic": "punctuation",
+      "difficulty": "Hard",
+      "passage": "A historian examining a census report noticed a surprising change in terminology. The report’s term ___ referred to households that shared a single courtyard, regardless of whether their residents were related. Understanding that usage prevented the historian from treating every listed household as a separate building when estimating the town’s population density.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "“compound,”",
+        "“compound”;",
+        "“compound”",
+        "“compound”:"
+      ],
+      "answer": 2,
+      "explanation": "The quoted word identifies the term within the subject The report’s term “compound.” No punctuation should separate that complete subject from the main verb referred.",
+      "optionExplanations": [
+        "The comma separates the subject from its main verb referred.",
+        "The words before the semicolon form a subject rather than an independent clause.",
+        "The quoted term fits inside the subject, which connects directly to referred.",
+        "A colon cannot separate the subject from its main verb."
+      ],
+      "lessonTip": "A quotation within a subject does not create a sentence boundary or require a comma."
+    },
+    {
+      "id": "d46",
+      "topic": "punctuation",
+      "difficulty": "Hard",
+      "passage": "After reviewing the sediment cores, the geologist asked a question that redirected the project. “Could the dark layer mark a brief volcanic eruption?” ___ before proposing a chemical analysis of the ash. The team had previously interpreted the layer as evidence of a prolonged drought, so the alternative explanation required a different set of tests.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "she asked",
+        ", she asked",
+        "She asked",
+        "; she asked"
+      ],
+      "answer": 0,
+      "explanation": "A quoted direct question retains its question mark. The following attribution she asked begins with lowercase she and takes no additional comma or semicolon.",
+      "optionExplanations": [
+        "This is the correctly punctuated lowercase attribution after a quoted question.",
+        "The question mark already supplies the punctuation before the attribution, so an extra comma is incorrect.",
+        "The attribution continues the sentence and should not begin with capitalized She.",
+        "A semicolon incorrectly interrupts the quotation and its reporting clause."
+      ],
+      "lessonTip": "After a quoted question, keep the question mark and continue directly with the lowercase attribution."
+    },
+    {
+      "id": "d47",
+      "topic": "punctuation",
+      "difficulty": "Hard",
+      "passage": "The restoration report summarized what remained of a mural concealed behind later plaster. It identified three surviving features: a central figure, whose face was missing___ two smaller attendants, whose outlines were clear; and a border, whose pigments retained unusual brightness. Distinguishing those features helped the team plan treatments appropriate to each area’s condition.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        ",",
+        ";",
+        ":",
+        "—"
+      ],
+      "answer": 1,
+      "explanation": "The three list items contain internal commas and are separated by semicolons. The blank must match the semicolon already separating the second and third items.",
+      "optionExplanations": [
+        "A comma would blur the boundary between the first and second items, which already contain internal commas.",
+        "A semicolon clearly separates the first complex item from the second and matches the later separator.",
+        "A colon would incorrectly introduce the second item as an explanation of the first.",
+        "A dash would not provide the consistent separators needed for this complex three-item list."
+      ],
+      "lessonTip": "Use semicolons between list items when internal commas make the item boundaries unclear."
+    },
+    {
+      "id": "d48",
+      "topic": "punctuation",
+      "difficulty": "Hard",
+      "passage": "A soil scientist tested whether a thin layer of organic material could protect newly planted seedlings from rapid drying. The final report emphasized ___ the protective layer slowed evaporation but did not eliminate the need for watering. Gardeners therefore needed to consider both the treatment’s benefits and the amount of rainfall expected during the first weeks of growth.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        ": that",
+        "; that",
+        ", that",
+        "that"
+      ],
+      "answer": 3,
+      "explanation": "Emphasized takes the following that-clause as its object, so no punctuation should separate the verb from that object.",
+      "optionExplanations": [
+        "A colon cannot separate emphasized from its required object clause.",
+        "A semicolon incorrectly separates a verb from its object and lacks an independent clause after it.",
+        "A comma cannot separate the reporting verb from the that-clause functioning as its object.",
+        "That directly introduces the object clause of emphasized."
+      ],
+      "lessonTip": "A colon requires a complete introductory clause; do not place it between a verb and its object."
+    },
+    {
+      "id": "d49",
+      "topic": "punctuation",
+      "difficulty": "Hard",
+      "passage": "A linguist studying a coastal dialect found a local name for a particular winter wind. Residents called the wind ___ The term appears in fishing logs from the early twentieth century, suggesting that it was established before the arrival of modern weather broadcasts and was not simply borrowed from a recent forecast vocabulary.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "“the cutter”.",
+        "“the cutter,”",
+        "“the cutter.”",
+        "“the cutter”;"
+      ],
+      "answer": 2,
+      "explanation": "The first sentence ends after the quoted term. Under standard American quotation conventions, its period belongs inside the closing quotation mark.",
+      "optionExplanations": [
+        "In standard American usage, a sentence-ending period goes inside the closing quotation mark.",
+        "A comma would not close the sentence before the capitalized independent sentence The term appears.",
+        "This correctly closes the sentence with the period inside the quotation mark.",
+        "A semicolon does not fit the capitalization and intended sentence boundary, and would ordinarily take a lowercase following clause."
+      ],
+      "lessonTip": "In standard American quotation conventions, periods and commas go inside closing quotation marks."
+    },
+    {
+      "id": "d50",
+      "topic": "punctuation",
+      "difficulty": "Hard",
+      "passage": "The field team submitted measurements from three sampling stations to an independent laboratory. The downstream samples, unlike ___ contained unusually high metal concentrations. Investigators requested a second round of testing to rule out accidental contamination before concluding that the nearby industrial site had affected the river’s water quality.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "those from upstream,",
+        "those from upstream",
+        "those from upstream;",
+        "those from upstream:"
+      ],
+      "answer": 0,
+      "explanation": "The contrasting phrase unlike those from upstream interrupts the subject and its verb. Its opening comma after samples requires a matching closing comma after upstream.",
+      "optionExplanations": [
+        "The comma closes the interruption begun by the comma after samples.",
+        "This leaves the introductory comma of the interruption unmatched.",
+        "A semicolon cannot close this parenthetical phrase or separate the subject from its verb.",
+        "A colon cannot close this interruption or separate the subject from its verb."
+      ],
+      "lessonTip": "An interruption between subject and verb needs both its opening and closing punctuation."
+    }
+  ]
+}

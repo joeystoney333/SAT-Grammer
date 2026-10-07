@@ -1,0 +1,1331 @@
+{
+  "topics": [
+    {
+      "id": "boundaries",
+      "title": "Sentence boundaries",
+      "group": "Punctuation",
+      "summary": "Recognize complete clauses before choosing punctuation. Length, pauses, and academic vocabulary do not make a word group a sentence.",
+      "rule": "An independent clause has a subject, a finite verb, and a complete thought. Separate two independent clauses with a period, a semicolon, or a comma plus a coordinating conjunction. A comma alone creates a comma splice; no boundary creates a run-on. A dependent clause, relative clause, participial phrase, or appositive cannot normally stand alone as a sentence. Do not put a boundary between a subject and its verb, a verb and its object, or a preposition and its object.",
+      "steps": [
+        "Locate the main subject and its finite verb on each side of the blank. Ignore prepositional phrases and interrupting descriptions temporarily.",
+        "Check for dependence markers such as although, because, when, that, which, and who; check whether an -ing or -ed form actually has a helping verb.",
+        "If both sides are complete, choose a legal clause boundary. A following transition such as however does not by itself join the clauses.",
+        "If one side is a fragment or an essential continuation, attach it to the complete clause with the punctuation its grammatical role requires.",
+        "Check capitalization after a period and make sure you have not separated a subject from its predicate."
+      ],
+      "examples": [
+        {
+          "incorrect": "The excavation revealed a kiln, its walls still retained traces of pigment.",
+          "correct": "The excavation revealed a kiln; its walls still retained traces of pigment.",
+          "why": "Both word groups have subjects and finite verbs. A comma cannot join them by itself."
+        },
+        {
+          "incorrect": "Although the sensor was calibrated. The readings remained inconsistent.",
+          "correct": "Although the sensor was calibrated, the readings remained inconsistent.",
+          "why": "Although makes the first clause dependent, so it must attach to a main clause."
+        },
+        {
+          "incorrect": "The maps in the archive, reveal an earlier coastline.",
+          "correct": "The maps in the archive reveal an earlier coastline.",
+          "why": "The prepositional phrase does not change the subject–verb connection: maps reveal."
+        },
+        {
+          "incorrect": "The rover crossed the crater. Collecting samples along the way.",
+          "correct": "The rover crossed the crater, collecting samples along the way.",
+          "why": "Collecting samples is a participial phrase, not an independent clause."
+        }
+      ],
+      "traps": [
+        "A long group of words can still lack a finite verb.",
+        "An -ing word alone is not a finite verb: was collecting is a predicate, but collecting alone is not.",
+        "A transition such as however, consequently, or for example is not a coordinating conjunction.",
+        "The nearest noun may belong to a modifying phrase rather than be the main subject.",
+        "A semicolon requires a complete clause on both sides unless it separates items in a complex series."
+      ],
+      "takeaway": "Test grammatical completeness before choosing a boundary."
+    },
+    {
+      "id": "conjunctions",
+      "title": "Coordinating and subordinating conjunctions",
+      "group": "Punctuation",
+      "summary": "Choose punctuation by asking whether the connector joins complete clauses, shared-subject predicates, or a dependent clause and a main clause.",
+      "rule": "The coordinating conjunctions for, and, nor, but, or, yet, and so can join independent clauses with a preceding comma. When a conjunction joins two words, phrases, or predicates that share one subject, a comma is normally unnecessary. A subordinating conjunction such as although, because, if, unless, while, or when makes its clause dependent. An introductory dependent clause is normally followed by a comma; an essential dependent clause after the main clause normally has no comma. Correlative pairs such as either/or and not only/but also should join parallel elements.",
+      "steps": [
+        "Identify the conjunction and determine whether it coordinates or subordinates.",
+        "Find the subjects and finite verbs on both sides. If both sides can stand alone, use comma plus coordinating conjunction.",
+        "If the two predicates share a subject, do not add a clause-separating comma merely because the phrases are long.",
+        "Attach an introductory dependent clause to its main clause with a comma, and avoid a period or semicolon between them.",
+        "Read the logic: because gives a cause, although concedes a contrast, and so introduces a result."
+      ],
+      "examples": [
+        {
+          "incorrect": "The chamber was sealed but moisture entered through a fissure.",
+          "correct": "The chamber was sealed, but moisture entered through a fissure.",
+          "why": "Each clause has its own subject and predicate, so comma plus but joins them."
+        },
+        {
+          "incorrect": "The technician cleaned the lens, and recalibrated the detector.",
+          "correct": "The technician cleaned the lens and recalibrated the detector.",
+          "why": "The two predicates share technician as their subject."
+        },
+        {
+          "incorrect": "Because the record is incomplete; the date remains uncertain.",
+          "correct": "Because the record is incomplete, the date remains uncertain.",
+          "why": "Because creates an introductory dependent clause; a semicolon cannot detach it."
+        },
+        {
+          "incorrect": "The material expands, when its temperature rises.",
+          "correct": "The material expands when its temperature rises.",
+          "why": "The following when-clause supplies an essential condition and does not require a comma."
+        }
+      ],
+      "traps": [
+        "However and therefore are transitions, not coordinating conjunctions.",
+        "A conjunction alone does not repair a fragment created by an unnecessary period.",
+        "Do not assume every and or but needs a comma; first inspect the structures it joins.",
+        "Avoid double connectors such as although ... but when both introduce the same clause relationship.",
+        "Use nor with the appropriate inverted order when it starts a negative independent clause: nor did they respond."
+      ],
+      "takeaway": "A connector’s grammatical job determines its punctuation."
+    },
+    {
+      "id": "semicolons",
+      "title": "Semicolons and conjunctive adverbs",
+      "group": "Punctuation",
+      "summary": "A semicolon joins independent clauses or separates complicated list items. Conjunctive adverbs explain a relationship without joining clauses grammatically.",
+      "rule": "Use a semicolon between closely related independent clauses. If the second clause begins with however, therefore, nevertheless, consequently, instead, or a similar transition, a common pattern is independent clause; transition, independent clause. A period can also separate the clauses. An interrupting conjunctive adverb inside one clause may take commas on both sides instead. Use semicolons to separate list items that already contain commas, keeping the same separator between all major items.",
+      "steps": [
+        "Decide whether the blank lies between two independent clauses, inside one clause, or between complex list items.",
+        "At a clause boundary, verify that neither clause begins with a subordinating word or lacks a subject or finite verb.",
+        "When a transition opens the second clause, separate the clauses first and then set off the transition as needed.",
+        "Inside a clause, treat an interrupting transition as a parenthetical phrase; do not split the subject from its verb with a semicolon.",
+        "For a complex series, identify the major items before choosing separators."
+      ],
+      "examples": [
+        {
+          "incorrect": "The sample was small, however, the pattern was consistent.",
+          "correct": "The sample was small; however, the pattern was consistent.",
+          "why": "However cannot turn the comma between two independent clauses into a legal join."
+        },
+        {
+          "incorrect": "The sample, however; was uncontaminated.",
+          "correct": "The sample, however, was uncontaminated.",
+          "why": "However interrupts one clause between its subject and predicate."
+        },
+        {
+          "incorrect": "The panel included Ada, a chemist, Luis, a historian, and Mei, a statistician.",
+          "correct": "The panel included Ada, a chemist; Luis, a historian; and Mei, a statistician.",
+          "why": "Semicolons distinguish the three people from the commas inside each descriptive item."
+        },
+        {
+          "incorrect": "The signals weakened; because the battery was failing.",
+          "correct": "The signals weakened because the battery was failing.",
+          "why": "A because-clause is dependent and cannot follow a clause-joining semicolon."
+        }
+      ],
+      "traps": [
+        "A comma before however is not enough when complete clauses appear on both sides.",
+        "A semicolon before and is usually unnecessary in a simple compound sentence.",
+        "Do not capitalize an ordinary word merely because it follows a semicolon.",
+        "Not every use of however is a parenthetical transition: however carefully means no matter how carefully.",
+        "The complete-clause requirement does not apply to semicolons used as complex-series separators."
+      ],
+      "takeaway": "A transition supplies meaning; the boundary still needs its own punctuation."
+    },
+    {
+      "id": "colons",
+      "title": "Colons: lists, explanations, and quotations",
+      "group": "Punctuation",
+      "summary": "Use a colon after a complete introduction when the following material explains, identifies, quotes, or enumerates what came before.",
+      "rule": "In ordinary prose, the words before a colon must form an independent clause. What follows may be a complete clause, a list, a phrase, or a quotation that explains or specifies the introduction. Do not place a colon immediately after a verb, preposition, including, or such as when it separates that word from its required complement. A colon may introduce just one item. When the text after a colon is a fragment, a semicolon cannot substitute for it.",
+      "steps": [
+        "Read the words before the proposed colon without the following material. Check that they form a complete sentence.",
+        "Ask whether the following words explain, identify, exemplify, or list the preceding statement.",
+        "If the left side ends with include, are, consists of, such as, or another expression still awaiting its object, remove the colon.",
+        "Check the right side: a phrase or list can follow a colon, but not a clause-joining semicolon.",
+        "For a quotation, distinguish a complete introductory claim from a reporting verb that directly introduces the quoted words."
+      ],
+      "examples": [
+        {
+          "incorrect": "The study tracked: rainfall, runoff, and evaporation.",
+          "correct": "The study tracked three variables: rainfall, runoff, and evaporation.",
+          "why": "The first introduction separates tracked from its objects. The revised introduction is complete before the colon."
+        },
+        {
+          "incorrect": "The archive had a single weakness; its incomplete index.",
+          "correct": "The archive had a single weakness: its incomplete index.",
+          "why": "The noun phrase after the colon identifies the weakness but cannot stand alone after a semicolon."
+        },
+        {
+          "incorrect": "The team relied on: satellite images and field surveys.",
+          "correct": "The team relied on satellite images and field surveys.",
+          "why": "A colon cannot separate the preposition on from its objects."
+        },
+        {
+          "incorrect": "The finding was decisive, the crater predated the settlement.",
+          "correct": "The finding was decisive: the crater predated the settlement.",
+          "why": "The second independent clause explains the first. A colon is valid here; a comma splice is not."
+        }
+      ],
+      "traps": [
+        "A list does not automatically require a colon. The introduction must be complete.",
+        "Do not use a colon after such as or including when those words already introduce examples.",
+        "A colon can introduce one identifying phrase, not only a multi-item list.",
+        "A colon and an em dash can sometimes serve similar purposes; analyze the actual options and clause structure.",
+        "A semicolon is not interchangeable with a colon before a fragment."
+      ],
+      "takeaway": "A colon points forward from a complete statement to its explanation."
+    },
+    {
+      "id": "lists",
+      "title": "Commas in series and complex lists",
+      "group": "Punctuation",
+      "summary": "Mark the boundaries between equal list items without splitting an item internally or disconnecting the series from the rest of the sentence.",
+      "rule": "Separate three or more parallel words, phrases, or clauses with commas. In formal academic writing, a serial comma before the final conjunction is useful, especially when it prevents ambiguity; English does not always require it in an otherwise unambiguous list. Two simple items joined by and or or ordinarily take no comma. Use semicolons between major items that already contain commas. Coordinate adjectives can take commas when their order can be reversed and and can fit between them; cumulative adjectives jointly classify a noun and normally take no comma. A series functioning as a subject still connects directly to its verb.",
+      "steps": [
+        "Identify the complete list items; treat each multiword phrase as one unit.",
+        "Count the items and use consistent separators between equal units.",
+        "Check for commas inside items. If needed, use semicolons between the major items to make their boundaries clear.",
+        "Do not add a comma between a two-item pair, inside an essential prepositional phrase, or between a subject series and its verb.",
+        "For adjective strings, distinguish independent descriptions from cumulative categories such as three ancient bronze coins."
+      ],
+      "examples": [
+        {
+          "incorrect": "The team measured temperature humidity, and pressure.",
+          "correct": "The team measured temperature, humidity, and pressure.",
+          "why": "Temperature and humidity are separate items and need a separator."
+        },
+        {
+          "incorrect": "The model compares urban, and rural populations.",
+          "correct": "The model compares urban and rural populations.",
+          "why": "A simple two-item pair does not need a comma before and."
+        },
+        {
+          "incorrect": "Rainfall, elevation, and soil composition, affect plant growth.",
+          "correct": "Rainfall, elevation, and soil composition affect plant growth.",
+          "why": "The series is the subject; no comma separates it from affect."
+        },
+        {
+          "incorrect": "The survey visited Salem, Oregon, Albany, New York, and Athens, Georgia.",
+          "correct": "The survey visited Salem, Oregon; Albany, New York; and Athens, Georgia.",
+          "why": "Semicolons keep city–state pairs together and separate the three major items."
+        },
+        {
+          "incorrect": "The curator found three, ancient, bronze coins.",
+          "correct": "The curator found three ancient bronze coins.",
+          "why": "Number, age, and material form a cumulative noun description rather than equal adjectives."
+        }
+      ],
+      "traps": [
+        "Do not treat every noun in a phrase as a separate list item.",
+        "The comma after the final item may belong to an interrupting phrase, but it should not separate a subject from its verb.",
+        "Do not label every missing serial comma an error; seek an actual structural or ambiguity problem.",
+        "Internal commas can hide how many major items a complex series contains.",
+        "Long paired phrases still form only two items when connected by and."
+      ],
+      "takeaway": "Find the real items first; punctuate their boundaries second."
+    }
+  ],
+  "questions": [
+    {
+      "id": "a01",
+      "topic": "boundaries",
+      "difficulty": "Hard",
+      "passage": "The acoustics of ancient theaters are often attributed entirely to their semicircular shape. In a recent simulation, however, researchers found that the spacing of limestone seats also filtered low-frequency background ___ filtering allowed distant listeners to distinguish speech more easily.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "noise, this",
+        "noise this",
+        "noise; this",
+        "noise; which"
+      ],
+      "answer": 2,
+      "explanation": "The clauses on both sides are independent: researchers found something, and this filtering allowed something. A semicolon joins them correctly.",
+      "optionExplanations": [
+        "A comma alone cannot join the two complete clauses.",
+        "Without punctuation or a conjunction, the two complete clauses form a run-on.",
+        "The semicolon legally separates two independent clauses.",
+        "Which makes the second word group dependent; a semicolon cannot introduce that relative clause."
+      ],
+      "lessonTip": "Count subjects and finite verbs on both sides of a proposed boundary."
+    },
+    {
+      "id": "a02",
+      "topic": "boundaries",
+      "difficulty": "Hard",
+      "passage": "Biologists studying a cave-dwelling fish initially expected its reduced eyesight to explain its unusual hunting behavior. Their experiments instead revealed enlarged sensory organs along the animal’s ___ it to detect tiny pressure changes caused by nearby prey even in complete darkness.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "head, enabling",
+        "head; enabling",
+        "head. Enabling",
+        "head enabling,"
+      ],
+      "answer": 0,
+      "explanation": "Enabling introduces a participial phrase that describes the result of the enlarged organs. It attaches to the preceding complete clause with a comma.",
+      "optionExplanations": [
+        "The comma correctly attaches the explanatory participial phrase.",
+        "Enabling it to detect is not an independent clause and cannot follow this semicolon.",
+        "Enabling it to detect lacks a finite main verb, so this choice creates a fragment.",
+        "This misplaces the comma after enabling and breaks the verb’s connection to its object."
+      ],
+      "lessonTip": "An -ing phrase without a helping verb is not a complete clause."
+    },
+    {
+      "id": "a03",
+      "topic": "boundaries",
+      "difficulty": "Hard",
+      "passage": "For decades, scholars dated a collection of trade documents by comparing their handwriting with that of better-preserved manuscripts. The discovery of a watermark visible only under ultraviolet ___ a more precise method of establishing when the paper was manufactured and, consequently, when the documents could have been written.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "light, provided",
+        "light; provided",
+        "light. Provided",
+        "light provided"
+      ],
+      "answer": 3,
+      "explanation": "The sentence’s subject is The discovery, and its main verb is provided. No punctuation should separate the long subject phrase from that verb.",
+      "optionExplanations": [
+        "The comma incorrectly divides the subject from its main verb.",
+        "The words before the semicolon contain no main verb and are not an independent clause.",
+        "The period leaves the long subject without a predicate and the next sentence without a subject.",
+        "The subject and predicate remain connected: The discovery provided a method."
+      ],
+      "lessonTip": "Remove modifiers mentally to reveal the main subject–verb pair."
+    },
+    {
+      "id": "a04",
+      "topic": "boundaries",
+      "difficulty": "Hard",
+      "passage": "A network of wetlands once surrounded the inland city, moderating summer temperatures and absorbing seasonal floods. Although most of those wetlands disappeared during twentieth-century ___ restoration projects have begun to recover their ecological functions, particularly in neighborhoods where intense rainfall routinely overwhelms drainage systems.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "construction; recent",
+        "construction, recent",
+        "construction. Recent",
+        "construction recent"
+      ],
+      "answer": 1,
+      "explanation": "Although makes the opening clause dependent. A comma closes that introductory clause before the independent clause beginning recent restoration projects.",
+      "optionExplanations": [
+        "A semicolon cannot separate an introductory dependent clause from its main clause.",
+        "The comma appropriately marks the end of the introductory although-clause.",
+        "The period leaves the although-clause as a sentence fragment.",
+        "The missing comma fails to mark the end of this substantial introductory dependent clause."
+      ],
+      "lessonTip": "Introductory although-clauses attach to a main clause with a comma."
+    },
+    {
+      "id": "a05",
+      "topic": "boundaries",
+      "difficulty": "Hard",
+      "passage": "Unlike a conventional lens, a metalens uses a surface patterned with structures smaller than the wavelengths of light it redirects. Engineers have now fabricated a version that focuses several colors at the same ___ achievement that could make compact imaging instruments substantially more practical.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "point; an",
+        "point. An",
+        "point, an",
+        "point an;"
+      ],
+      "answer": 2,
+      "explanation": "An achievement that could make ... is a noun phrase explaining the preceding result. A comma attaches this supplementary appositive; it cannot stand as a sentence.",
+      "optionExplanations": [
+        "The following noun phrase is not an independent clause.",
+        "The phrase beginning An achievement has no main predicate and becomes a fragment.",
+        "The comma attaches the supplementary noun phrase to the complete clause.",
+        "The semicolon is misplaced inside the noun phrase, and the boundary after point remains unmarked."
+      ],
+      "lessonTip": "A descriptive noun phrase can refer to an entire preceding clause."
+    },
+    {
+      "id": "a06",
+      "topic": "boundaries",
+      "difficulty": "Hard",
+      "passage": "Newly digitized shipping logs have complicated an established account of a nineteenth-century expedition. The logs identify two vessels bearing nearly identical ___ vessel long assumed to have reached the island actually remained in a mainland harbor while the second vessel completed the crossing.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "names. The",
+        "names, the",
+        "names the",
+        "names; although the"
+      ],
+      "answer": 0,
+      "explanation": "Both the logs identify two vessels and the vessel remained in a harbor are independent clauses. A period creates two complete sentences with appropriate capitalization.",
+      "optionExplanations": [
+        "The period correctly separates the two complete sentences.",
+        "A comma alone creates a comma splice.",
+        "Without a boundary, the complete clauses run together.",
+        "Although makes the following clause dependent, so it cannot follow this clause-joining semicolon."
+      ],
+      "lessonTip": "After a period, the new sentence must be complete and properly capitalized."
+    },
+    {
+      "id": "a07",
+      "topic": "boundaries",
+      "difficulty": "Hard",
+      "passage": "The glacier’s retreat exposed an unusually well-preserved stand of tree stumps. Radiocarbon analysis suggests that the trees grew during a brief warm ___ ended centuries before the region’s modern period of warming began, a finding that adds detail to an otherwise fragmentary climate record.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "interval; which",
+        "interval. Which",
+        "interval, and which",
+        "interval, which"
+      ],
+      "answer": 3,
+      "explanation": "Which ended ... is a relative clause modifying warm interval. The comma attaches this supplementary relative clause without turning it into a separate sentence.",
+      "optionExplanations": [
+        "Which introduces a dependent relative clause, which cannot follow a clause-joining semicolon.",
+        "The period creates a fragment beginning with Which.",
+        "And adds an unnecessary conjunction: no earlier coordinated relative clause is present.",
+        "The comma correctly introduces the supplementary which-clause."
+      ],
+      "lessonTip": "Which-clauses usually depend on a noun in the preceding clause."
+    },
+    {
+      "id": "a08",
+      "topic": "boundaries",
+      "difficulty": "Hard",
+      "passage": "To estimate the age of an abandoned canal, archaeologists compared sediment layers at several points along its course. The oldest layer containing transported ___ deposited shortly after a nearby river changed direction, indicating that the canal’s builders took advantage of a newly available water source.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "silt, was",
+        "silt was",
+        "silt; was",
+        "silt. Was"
+      ],
+      "answer": 1,
+      "explanation": "The oldest layer containing transported silt is the subject; was deposited is its finite verb phrase. These parts must stay connected without a comma or sentence boundary.",
+      "optionExplanations": [
+        "The comma separates the main subject from its verb.",
+        "The subject correctly connects to was deposited.",
+        "The material before the semicolon lacks its main verb.",
+        "This creates a subject-only fragment followed by a predicate-only fragment."
+      ],
+      "lessonTip": "A participial modifier inside the subject does not finish the clause."
+    },
+    {
+      "id": "a09",
+      "topic": "boundaries",
+      "difficulty": "Hard",
+      "passage": "Atmospheric models once represented airborne dust mainly as a collection of smooth spheres. Images taken with advanced microscopes show far more irregular ___ jagged surfaces alter how sunlight is scattered, forcing researchers to revise estimates of dust’s influence on regional temperatures.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "particles their",
+        "particles, their",
+        "particles. their",
+        "particles; their"
+      ],
+      "answer": 3,
+      "explanation": "The independent clauses have separate subjects: Images show particles; their jagged surfaces alter scattering. The semicolon supplies a correct boundary.",
+      "optionExplanations": [
+        "This choice creates a run-on by omitting a clause boundary.",
+        "A comma cannot join these complete clauses without a coordinating conjunction.",
+        "After a period, their would need capitalization to begin a new sentence.",
+        "The semicolon joins two closely related independent clauses."
+      ],
+      "lessonTip": "A semicolon does not require capitalization of an ordinary following word."
+    },
+    {
+      "id": "a10",
+      "topic": "boundaries",
+      "difficulty": "Hard",
+      "passage": "The discovery of a tiny engraved seal changed historians’ understanding of an early administrative system. The seal bears a symbol previously associated only with royal ___ that provincial officials may also have used the same system to authenticate goods moving between distant settlements.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "workshops, evidence",
+        "workshops; evidence",
+        "workshops. Evidence",
+        "workshops evidence;"
+      ],
+      "answer": 0,
+      "explanation": "Evidence that provincial officials ... is an explanatory noun phrase, not an independent clause. The comma attaches it as a supplementary description of the discovery.",
+      "optionExplanations": [
+        "The comma correctly attaches the explanatory noun phrase.",
+        "The words after the semicolon lack a main predicate.",
+        "Evidence followed by a that-clause remains a noun phrase and becomes a sentence fragment here.",
+        "The punctuation splits the explanatory phrase after evidence instead of attaching it at its beginning."
+      ],
+      "lessonTip": "A noun followed by a that-clause still needs a main verb to form a sentence."
+    },
+    {
+      "id": "a11",
+      "topic": "conjunctions",
+      "difficulty": "Hard",
+      "passage": "Scientists can reconstruct past ocean temperatures from chemical ratios in fossil shells, but only if the shells retain their original composition. The team excluded specimens showing microscopic signs of ___ it also analyzed surrounding sediment to check whether later mineral deposits had affected the surviving specimens.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "alteration and",
+        "alteration; as",
+        "alteration, and",
+        "alteration,"
+      ],
+      "answer": 2,
+      "explanation": "The team excluded and it analyzed are independent clauses. A comma before the coordinating conjunction and joins them correctly.",
+      "optionExplanations": [
+        "Both clauses have their own subjects, so a comma should precede and.",
+        "As makes the following clause dependent, so it cannot follow a clause-joining semicolon.",
+        "The comma plus coordinating conjunction correctly joins the independent clauses.",
+        "Without a conjunction, the comma alone creates a comma splice."
+      ],
+      "lessonTip": "If both sides of and have their own subject and predicate, mark the join with a comma."
+    },
+    {
+      "id": "a12",
+      "topic": "conjunctions",
+      "difficulty": "Hard",
+      "passage": "An early attempt to restore a damaged mural introduced pigments that darkened over time. To avoid repeating that mistake, conservators tested the proposed replacement materials under intense ___ monitored their color stability for several months before applying even a small amount to the original surface.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "light and",
+        "light and,",
+        "light; and",
+        "light. And"
+      ],
+      "answer": 0,
+      "explanation": "Conservators is the shared subject of tested and monitored. And joins two predicates, so no clause-separating punctuation is needed.",
+      "optionExplanations": [
+        "And correctly connects two predicates that share conservators as their subject.",
+        "The comma separates the coordinating conjunction from the predicate it introduces.",
+        "The words after the semicolon lack a separate subject and are not an independent clause.",
+        "The period creates a fragment beginning And monitored."
+      ],
+      "lessonTip": "Two verbs do not always mean two independent clauses."
+    },
+    {
+      "id": "a13",
+      "topic": "conjunctions",
+      "difficulty": "Hard",
+      "passage": "A high-altitude lake contains layers of sediment that record changes in surrounding vegetation. Because the fine particles settle slowly and the lake’s bottom rarely experiences ___ layer preserves a relatively distinct sample of pollen, allowing researchers to compare successive periods with unusual precision.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "disturbance; each",
+        "disturbance. Each",
+        "disturbance each",
+        "disturbance, each"
+      ],
+      "answer": 3,
+      "explanation": "Because introduces the entire opening dependent clause, including both coordinated conditions. A comma marks its end before the main clause each layer preserves.",
+      "optionExplanations": [
+        "The opening because-clause is dependent and cannot precede this semicolon.",
+        "The period leaves the because-clause without an attached main clause.",
+        "The introductory dependent clause should be separated from the main clause with a comma.",
+        "The comma closes the dependent clause and connects it to its main clause."
+      ],
+      "lessonTip": "A subordinate clause can contain its own and without becoming independent."
+    },
+    {
+      "id": "a14",
+      "topic": "conjunctions",
+      "difficulty": "Hard",
+      "passage": "Researchers once assumed that an isolated bird population had evolved a distinctive call because of its small size. Genetic evidence now suggests a different explanation: the population inherited the call from an ancestral ___ neighboring populations developed their current calls after diverging from that lineage.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "lineage, whereas,",
+        "lineage, whereas",
+        "lineage; whereas",
+        "lineage. Whereas"
+      ],
+      "answer": 1,
+      "explanation": "Whereas introduces a contrasting dependent clause. A comma before it marks the contrast; the conjunction should not be separated from its own subject by another comma.",
+      "optionExplanations": [
+        "The comma after whereas incorrectly separates the conjunction from the clause it introduces.",
+        "The comma correctly introduces the contrasting whereas-clause.",
+        "A semicolon requires an independent clause on the right, but whereas makes that clause dependent.",
+        "The period turns the whereas-clause into a fragment."
+      ],
+      "lessonTip": "Whereas marks a dependent contrast clause; it is not a conjunctive adverb."
+    },
+    {
+      "id": "a15",
+      "topic": "conjunctions",
+      "difficulty": "Hard",
+      "passage": "The proposed dating technique measures changes in trapped electrical charge within mineral grains. It can estimate when a pottery fragment was last ___ the fragment’s mineral composition falls within the range for which the instrument has been calibrated; outside that range, the readings become unreliable.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "heated, if,",
+        "heated; if",
+        "heated if",
+        "heated. If"
+      ],
+      "answer": 2,
+      "explanation": "The following if-clause supplies an essential condition for the technique’s usefulness. It attaches directly to the main clause without a comma or sentence boundary.",
+      "optionExplanations": [
+        "The second comma breaks if away from its clause, and the first is unnecessary for this essential condition.",
+        "The dependent if-clause cannot follow a clause-joining semicolon.",
+        "If correctly attaches the essential condition to the preceding main clause.",
+        "The period makes the if-clause a fragment before the next semicolon."
+      ],
+      "lessonTip": "A following essential if-clause normally attaches without a comma."
+    },
+    {
+      "id": "a16",
+      "topic": "conjunctions",
+      "difficulty": "Hard",
+      "passage": "After measuring hundreds of woven fragments, a historian found that a common pattern had persisted longer than previously believed. The pattern appeared in ceremonial garments from elite ___ it also occurred in ordinary cloth recovered from modest dwellings, challenging claims that its use marked social rank.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "households, but",
+        "households but",
+        "households, however",
+        "households; although"
+      ],
+      "answer": 0,
+      "explanation": "Two independent clauses are joined with but, a coordinating conjunction. The comma before but supplies the necessary compound-sentence punctuation.",
+      "optionExplanations": [
+        "Comma plus but correctly joins the two complete clauses.",
+        "Because it also occurred has its own subject and predicate, but should be preceded by a comma.",
+        "However is a conjunctive adverb and cannot repair the comma splice.",
+        "Although makes the following clause dependent, so a clause-joining semicolon cannot precede it."
+      ],
+      "lessonTip": "But coordinates clauses; however only signals their relationship."
+    },
+    {
+      "id": "a17",
+      "topic": "conjunctions",
+      "difficulty": "Hard",
+      "passage": "The robotic probe could operate for weeks without direct instruction from Earth. Its navigation software did not rely on a continuous satellite ___ did it require engineers to approve each movement, since onboard sensors could identify obstacles and adjust the planned route in real time.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "link nor",
+        "link, neither",
+        "link, nor,",
+        "link, nor"
+      ],
+      "answer": 3,
+      "explanation": "Nor connects the two negative independent clauses, and the second uses the required inverted order did it require. A comma precedes the coordinating conjunction.",
+      "optionExplanations": [
+        "The second clause is independent, so the join needs a comma before nor.",
+        "Neither does not serve as the coordinating conjunction required to join these clauses.",
+        "The comma after nor wrongly separates the conjunction from the clause it introduces.",
+        "The comma plus nor correctly connects the negative clauses, with did it require in inverted order."
+      ],
+      "lessonTip": "Nor can introduce an independent clause with auxiliary–subject inversion."
+    },
+    {
+      "id": "a18",
+      "topic": "conjunctions",
+      "difficulty": "Hard",
+      "passage": "Astronomers initially dismissed a faint fluctuation in a star’s brightness as instrument noise. When a second telescope recorded the same fluctuation at the same ___ team began considering an orbiting planet as the cause, though additional observations would be needed to rule out other explanations.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "interval; the",
+        "interval, the",
+        "interval. The",
+        "interval the"
+      ],
+      "answer": 1,
+      "explanation": "When introduces an opening dependent clause. The comma attaches it to the main clause the team began considering.",
+      "optionExplanations": [
+        "The when-clause cannot stand independently before a semicolon.",
+        "The comma marks the end of the introductory dependent clause.",
+        "The period separates a dependent fragment from its main clause.",
+        "A comma should mark the end of this substantial introductory when-clause."
+      ],
+      "lessonTip": "Identify the end of an introductory clause, even when it contains long modifying phrases."
+    },
+    {
+      "id": "a19",
+      "topic": "conjunctions",
+      "difficulty": "Hard",
+      "passage": "An experimental concrete contains bacteria that produce limestone when moisture enters a crack. The bacteria remain dormant while the material is ___ become active after water reaches the embedded capsules, a response that can seal narrow fissures without requiring workers to locate each one individually.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "intact but,",
+        "intact; but",
+        "intact but",
+        "intact. But"
+      ],
+      "answer": 2,
+      "explanation": "The bacteria is the shared subject of remain and become. But coordinates these predicates without a comma, even though the first predicate contains a while-clause.",
+      "optionExplanations": [
+        "The comma separates but from the predicate become active.",
+        "The right side does not have its own subject, so it cannot follow this semicolon.",
+        "But correctly joins two predicates sharing the bacteria as their subject.",
+        "The period leaves But become active as a fragment."
+      ],
+      "lessonTip": "A dependent clause inside one predicate does not create a new subject for the next predicate."
+    },
+    {
+      "id": "a20",
+      "topic": "conjunctions",
+      "difficulty": "Hard",
+      "passage": "Experiments on a flowering desert plant found that its seeds germinate after relatively modest rainfall. The seedlings, however, survive only when cooler weather ___ their roots cannot reach deeper moisture before hot conditions dry the upper soil, explaining why a brief shower seldom produces a lasting population.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "follows because",
+        "follows, because,",
+        "follows; because",
+        "follows. Because"
+      ],
+      "answer": 0,
+      "explanation": "Because introduces the essential explanation for the survival condition. It attaches to the main clause without a comma or sentence boundary.",
+      "optionExplanations": [
+        "Because correctly connects the following cause to the main clause.",
+        "The commas incorrectly set off because itself and disrupt the clause it introduces.",
+        "Because makes the following clause dependent, so it cannot follow a clause-joining semicolon.",
+        "The period creates a dependent fragment beginning Because."
+      ],
+      "lessonTip": "An essential following because-clause normally needs no separating punctuation."
+    },
+    {
+      "id": "a21",
+      "topic": "semicolons",
+      "difficulty": "Hard",
+      "passage": "A nineteenth-century map depicts a river flowing through the center of a modern dry plain. The map’s apparent precision initially impressed researchers; its ___ suggests that the cartographer copied an earlier diagram without correcting several geographical errors, so the depicted channel may never have existed.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "orientation; however,",
+        "orientation, however,",
+        "orientation, however;",
+        "orientation however;"
+      ],
+      "answer": 1,
+      "explanation": "Its orientation is the subject of suggests. However interrupts that single clause, so commas set it off without separating the subject from the verb with a semicolon.",
+      "optionExplanations": [
+        "The semicolon separates the subject its orientation from its predicate.",
+        "The paired commas correctly enclose the interrupting transition.",
+        "The semicolon after however separates the clause’s subject from its verb.",
+        "The semicolon before suggests creates an invalid subject–predicate boundary."
+      ],
+      "lessonTip": "Inside one clause, an interrupting however takes commas rather than a clause boundary."
+    },
+    {
+      "id": "a22",
+      "topic": "semicolons",
+      "difficulty": "Hard",
+      "passage": "Some desert beetles collect water from fog on textured surfaces of their bodies. A materials engineer replicated this texture on a laboratory ___ the droplets formed more readily than they did on an otherwise identical smooth surface, suggesting a possible design for low-energy water collection systems.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "panel, therefore,",
+        "panel therefore,",
+        "panel; therefore,",
+        "panel; therefore;"
+      ],
+      "answer": 2,
+      "explanation": "The first clause describes what the engineer did, and the second has the droplets as its subject. A semicolon separates the independent clauses, and a comma follows the opening transition therefore.",
+      "optionExplanations": [
+        "The comma alone cannot join the complete clauses; therefore is not a coordinating conjunction.",
+        "Therefore cannot join independent clauses without a boundary.",
+        "The semicolon supplies a clause boundary, and the comma sets off therefore.",
+        "The semicolon after therefore detaches the transition from the clause it introduces."
+      ],
+      "lessonTip": "Use independent clause; therefore, independent clause."
+    },
+    {
+      "id": "a23",
+      "topic": "semicolons",
+      "difficulty": "Hard",
+      "passage": "To compare approaches to urban cooling, the research group invited specialists from three fields. Its advisory panel included Nia Okafor, an atmospheric ___ Mateo Ruiz, a landscape architect; and Hana Park, a public-health researcher, each of whom reviewed a different part of the proposed field experiment.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "physicist;",
+        "physicist,",
+        "physicist:",
+        "physicist"
+      ],
+      "answer": 0,
+      "explanation": "The panel contains three major items, each with an internal comma separating a name from a professional description. Semicolons separate those major items consistently.",
+      "optionExplanations": [
+        "The semicolon matches the separator before the final panel member.",
+        "A comma obscures the boundary between two items that already contain commas and is inconsistent with the series.",
+        "A colon would incorrectly make the second and third members an explanation of physicist.",
+        "A separator is needed between the first and second major items."
+      ],
+      "lessonTip": "Use semicolons between major list items that already contain commas."
+    },
+    {
+      "id": "a24",
+      "topic": "semicolons",
+      "difficulty": "Hard",
+      "passage": "An adaptive filter must distinguish random background interference from a rapidly changing signal. The developers found that ___ they adjusted the filter’s settings, it still missed the briefest signal bursts, indicating that the device’s response time, rather than its sensitivity, limited its performance.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "however, rapidly",
+        "however; rapidly",
+        "however: rapidly",
+        "however rapidly"
+      ],
+      "answer": 3,
+      "explanation": "Here however rapidly means no matter how rapidly and introduces a concessive dependent clause. However is part of the phrase, so punctuation must not split it from rapidly.",
+      "optionExplanations": [
+        "The comma breaks the expression however rapidly into disconnected pieces.",
+        "However is not a complete clause that can stand before this semicolon.",
+        "A colon cannot split however from the adverb completing this expression.",
+        "However rapidly correctly means no matter how rapidly."
+      ],
+      "lessonTip": "However can mean no matter how; in that use it is not a parenthetical transition."
+    },
+    {
+      "id": "a25",
+      "topic": "semicolons",
+      "difficulty": "Hard",
+      "passage": "The research vessel’s acoustic instrument recorded a consistent echo far below the seafloor. The team eliminated several possible sources of interference before interpreting the pattern. Their ___ supports a geological explanation involving a dense mineral layer rather than an equipment fault or an unexpected biological source.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "analysis; consequently,",
+        "analysis, consequently;",
+        "analysis, consequently,",
+        "analysis consequently;"
+      ],
+      "answer": 2,
+      "explanation": "The subject Their analysis connects to supports. Consequently is a parenthetical interruption within that clause and belongs between commas.",
+      "optionExplanations": [
+        "The semicolon divides the subject from its verb.",
+        "The semicolon after consequently divides the subject from supports.",
+        "The paired commas correctly set off consequently within the clause.",
+        "The semicolon cannot separate this subject phrase from its predicate."
+      ],
+      "lessonTip": "Do not insert a semicolon inside a subject–verb connection."
+    },
+    {
+      "id": "a26",
+      "topic": "semicolons",
+      "difficulty": "Hard",
+      "passage": "Ancient grain samples recovered from a storage pit contained unusually high proportions of a drought-tolerant species. The pit’s contents may not represent everyday ___ the finding provides evidence that farmers maintained a crop capable of surviving dry conditions, even if they relied on other grains in wetter years.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "diets; nevertheless,",
+        "diets, nevertheless,",
+        "diets nevertheless,",
+        "diets; nevertheless;"
+      ],
+      "answer": 0,
+      "explanation": "The pit’s contents may not represent diets and the finding provides evidence are independent clauses. The semicolon separates them, and the comma sets off nevertheless at the start of the second.",
+      "optionExplanations": [
+        "The semicolon and following comma correctly handle the boundary and transition.",
+        "Nevertheless does not turn a comma splice into a valid clause join.",
+        "The clauses need a boundary before nevertheless.",
+        "The second semicolon wrongly detaches nevertheless from the clause it introduces."
+      ],
+      "lessonTip": "A concessive transition such as nevertheless still needs a legal clause boundary."
+    },
+    {
+      "id": "a27",
+      "topic": "semicolons",
+      "difficulty": "Hard",
+      "passage": "A paleontologist used three-dimensional scans to test whether a fossil’s flattened shape reflected its original anatomy. The reconstruction produced a much rounder ___ several broken sections could be fitted together only when the distortion caused by surrounding rock was reversed, revealing how burial had altered the specimen.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "outline; because",
+        "outline. Because",
+        "outline, because,",
+        "outline because"
+      ],
+      "answer": 3,
+      "explanation": "Because introduces an essential dependent clause explaining why the reconstruction had that shape. It attaches directly to the main clause; it does not take a semicolon.",
+      "optionExplanations": [
+        "The because-clause is dependent, so it cannot follow a clause-joining semicolon.",
+        "The period creates a fragment beginning Because.",
+        "The comma after because wrongly separates the conjunction from its clause.",
+        "Because correctly attaches the essential explanatory clause without a boundary."
+      ],
+      "lessonTip": "A semicolon cannot introduce a because-clause."
+    },
+    {
+      "id": "a28",
+      "topic": "semicolons",
+      "difficulty": "Hard",
+      "passage": "A team designing a lightweight bridge initially planned to imitate the structure of a hollow bird bone. Tests showed that this design bent too easily under uneven ___ instead, the engineers adopted a pattern inspired by the branching veins of leaves, which distributed forces across the entire support.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "loads,",
+        "loads;",
+        "loads",
+        "loads; because"
+      ],
+      "answer": 1,
+      "explanation": "Both the tests showed a weakness and the engineers adopted a pattern are complete clauses. Instead introduces the second clause; a semicolon before it and the existing comma after it form the correct pattern.",
+      "optionExplanations": [
+        "The comma creates a splice between complete clauses; instead is not a coordinating conjunction.",
+        "The semicolon separates the independent clauses before the transition instead.",
+        "The missing boundary creates a run-on.",
+        "Because makes the following clause dependent, so it cannot follow a clause-joining semicolon."
+      ],
+      "lessonTip": "Transitions such as instead do not grammatically coordinate sentences."
+    },
+    {
+      "id": "a29",
+      "topic": "semicolons",
+      "difficulty": "Hard",
+      "passage": "A newly uncovered inscription includes a title previously believed to have emerged only after a major political reform. The stone’s location might suggest an early ___ however, nearby pottery indicates that the stone was moved into place much later, so its present surroundings cannot establish when the inscription was carved.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "date,",
+        "date.",
+        "date;",
+        "date; although"
+      ],
+      "answer": 2,
+      "explanation": "The first clause has location as its subject; the next has pottery as its subject. A semicolon supplies the needed boundary before however, which is already followed by a comma.",
+      "optionExplanations": [
+        "A comma alone cannot join the complete clauses, even with however present.",
+        "A period would require capitalizing however to start the new sentence.",
+        "The semicolon supplies a proper boundary before the second independent clause.",
+        "Although would make the second clause dependent, and it also produces the ungrammatical sequence although however."
+      ],
+      "lessonTip": "Check the punctuation already present after a transition before filling the blank."
+    },
+    {
+      "id": "a30",
+      "topic": "semicolons",
+      "difficulty": "Hard",
+      "passage": "The exhibition traces how architects adapted buildings to unusually demanding environments. Featured projects include a research station in Svalbard, where winter darkness lasts ___ a clinic in the Atacama Desert, where water is scarce; and a floating school in Bangladesh, where seasonal flooding restricts travel.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "months;",
+        "months,",
+        "months:",
+        "months"
+      ],
+      "answer": 0,
+      "explanation": "Each project is a major list item containing an internal comma and a where-clause. Semicolons, including the one already before and, distinguish the three items.",
+      "optionExplanations": [
+        "The semicolon separates complex items consistently.",
+        "A comma does not clearly separate these items and does not match the later semicolon.",
+        "A colon would incorrectly make the following projects explain how long winter darkness lasts.",
+        "The first project needs a boundary before the next one."
+      ],
+      "lessonTip": "Identify an entire complex item before choosing its separator."
+    },
+    {
+      "id": "a31",
+      "topic": "colons",
+      "difficulty": "Hard",
+      "passage": "An interdisciplinary team reconstructed the seasonal movements of a prehistoric community without relying on a single type of artifact. Its analysis combined three independent sources of ___ chemical signatures in tooth enamel, the distribution of stone tools, and microscopic plant remains preserved in cooking vessels.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "evidence;",
+        "evidence.",
+        "evidence",
+        "evidence:"
+      ],
+      "answer": 3,
+      "explanation": "The clause Its analysis combined three independent sources of evidence is complete. A colon introduces the list identifying those sources; the list itself is not an independent clause.",
+      "optionExplanations": [
+        "The list is not an independent clause, so a semicolon cannot introduce it.",
+        "The period creates a fragment beginning with uncapitalized chemical; the list has no main predicate.",
+        "Without a colon or other suitable mark, the explanatory list is not attached correctly.",
+        "The colon introduces a list explaining the complete preceding statement."
+      ],
+      "lessonTip": "Before a colon introducing a list, make sure the introduction can stand alone."
+    },
+    {
+      "id": "a32",
+      "topic": "colons",
+      "difficulty": "Hard",
+      "passage": "To reconstruct an extinct language’s sound system, linguists examined how borrowed words were spelled in neighboring languages. They focused on recurring patterns such as ___ and alternating consonant symbols, reasoning that systematic variation could reflect sounds unfamiliar to the scribes rather than mere copying errors.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "doubled vowels",
+        "doubled vowels:",
+        "doubled vowels;",
+        "doubled, vowels"
+      ],
+      "answer": 0,
+      "explanation": "Such as already introduces the examples, doubled vowels and alternating consonant symbols. The two-item pair connects with and, so no punctuation belongs after the first item.",
+      "optionExplanations": [
+        "The examples correctly form a two-item pair after such as.",
+        "The colon separates the first item from its coordinated second item without a complete introduction.",
+        "The first item is a noun phrase, not a clause that can precede a clause-joining semicolon.",
+        "The comma incorrectly separates doubled from the noun it modifies, vowels."
+      ],
+      "lessonTip": "Such as introduces examples directly; a simple pair joined by and needs no separator."
+    },
+    {
+      "id": "a33",
+      "topic": "colons",
+      "difficulty": "Hard",
+      "passage": "The abandoned observatory contained dozens of notebooks documenting routine instrument maintenance. One notebook, however, offered something more ___ a detailed description of an unrecorded meteor shower, including estimates of its intensity and the directions from which the brightest meteors appeared to travel.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "remarkable;",
+        "remarkable:",
+        "remarkable",
+        "remarkable."
+      ],
+      "answer": 1,
+      "explanation": "One notebook offered something more remarkable is an independent clause. The noun phrase after it identifies that remarkable finding, so a colon is appropriate.",
+      "optionExplanations": [
+        "A detailed description is a noun phrase rather than an independent clause.",
+        "The colon introduces the phrase identifying what was remarkable.",
+        "The identifying phrase needs punctuation to attach to the complete preceding statement.",
+        "The period creates a new sentence beginning with an uncapitalized a, and the following noun phrase also lacks a main predicate."
+      ],
+      "lessonTip": "A colon can introduce one identifying noun phrase."
+    },
+    {
+      "id": "a34",
+      "topic": "colons",
+      "difficulty": "Hard",
+      "passage": "An urban ecologist compared tree cover in neighborhoods built during different decades. Rather than treating all green space as equivalent, her model distinguished ___ that shaded pavement directly and vegetation that cooled the air mainly through evaporation, since the two mechanisms affected pedestrian comfort in different ways.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "vegetation:",
+        "vegetation;",
+        "vegetation",
+        "vegetation,"
+      ],
+      "answer": 2,
+      "explanation": "Distinguished needs its objects: vegetation that shaded pavement and vegetation that cooled the air. No punctuation should separate vegetation from its essential that-clause.",
+      "optionExplanations": [
+        "The colon incorrectly separates the noun vegetation from the defining clause that shaded pavement.",
+        "That shaded pavement is dependent and cannot follow a clause-joining semicolon.",
+        "Vegetation correctly connects to its essential defining clause.",
+        "The comma incorrectly turns an essential that-clause into an interruption."
+      ],
+      "lessonTip": "Do not put punctuation between a noun and an essential that-clause defining it."
+    },
+    {
+      "id": "a35",
+      "topic": "colons",
+      "difficulty": "Hard",
+      "passage": "A historian argues that early navigation manuals should be studied as records of collaboration rather than as the work of isolated experts. Her introduction states the central ___ no single sailor could have assembled the observations required to describe an entire ocean basin with such precision.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "claim; that",
+        "claim,",
+        "claim:",
+        "claim."
+      ],
+      "answer": 2,
+      "explanation": "Her introduction states the central claim is a complete clause. The following independent clause explains that claim, so a colon is valid. A period would require capitalizing no.",
+      "optionExplanations": [
+        "That makes the following word group dependent, so it cannot follow a clause-joining semicolon.",
+        "A comma alone cannot join these independent clauses.",
+        "The colon introduces the explanation of the central claim.",
+        "The period leaves no uncapitalized at the start of the new sentence."
+      ],
+      "lessonTip": "A colon can introduce a full clause explaining a preceding statement."
+    },
+    {
+      "id": "a36",
+      "topic": "colons",
+      "difficulty": "Hard",
+      "passage": "A marine engineer modeled how a vessel’s hull behaves in steep waves before building a scale prototype. The analysis depended ___ of the hull’s curvature and estimates of the water’s force, both of which had to be refined after the first trial revealed unexpected twisting near the bow.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "on: measurements",
+        "on measurements",
+        "on; measurements",
+        "on, measurements"
+      ],
+      "answer": 1,
+      "explanation": "The preposition on requires its object measurements. A colon, semicolon, or comma cannot separate this preposition from the objects on which the analysis depended.",
+      "optionExplanations": [
+        "The colon splits the preposition on from its object.",
+        "On measurements correctly preserves the preposition–object connection.",
+        "On measurements is not a clause boundary where a semicolon belongs.",
+        "The comma incorrectly divides on from its object."
+      ],
+      "lessonTip": "Do not put a colon after a preposition that still needs its object."
+    },
+    {
+      "id": "a37",
+      "topic": "colons",
+      "difficulty": "Hard",
+      "passage": "Researchers studying a fossilized burrow found no remains of the animal that had constructed it. Nevertheless, the structure preserved one informative ___ a spiral passage narrowing steadily toward its center, a feature that allowed the team to compare it with burrows made by several living species.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "detail:",
+        "detail;",
+        "detail",
+        "detail; namely,"
+      ],
+      "answer": 0,
+      "explanation": "The structure preserved one informative detail is a complete statement. The following noun phrase identifies that detail, so a colon introduces it.",
+      "optionExplanations": [
+        "The colon correctly introduces the identifying noun phrase.",
+        "The following noun phrase is not an independent clause and cannot follow a semicolon.",
+        "The explanatory phrase needs a boundary after the complete introduction.",
+        "Namely does not turn the identifying noun phrase into an independent clause, so it cannot follow this semicolon."
+      ],
+      "lessonTip": "A complete introduction plus an identifying fragment is a useful colon pattern."
+    },
+    {
+      "id": "a38",
+      "topic": "colons",
+      "difficulty": "Hard",
+      "passage": "A weather station on a remote plateau failed to transmit data during several unusually cold nights. Engineers inspecting the equipment determined that the principal ___ ice accumulating around the antenna, not a loss of battery power as the initial diagnostic report had suggested.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "cause was:",
+        "cause: was",
+        "cause was;",
+        "cause was"
+      ],
+      "answer": 3,
+      "explanation": "Was links the subject the principal cause to its complement ice accumulating around the antenna. The sentence must not place a colon between the linking verb and that complement.",
+      "optionExplanations": [
+        "The colon separates the linking verb was from its required complement.",
+        "The colon separates the subject cause from its verb was.",
+        "Ice accumulating around the antenna is not an independent clause that can follow a semicolon.",
+        "The subject, linking verb, and complement remain connected without punctuation."
+      ],
+      "lessonTip": "A linking verb such as is or was does not by itself create a complete colon introduction."
+    },
+    {
+      "id": "a39",
+      "topic": "colons",
+      "difficulty": "Hard",
+      "passage": "When estimating the age of a written document, a specialist cannot rely on handwriting alone. The team required agreement among three separate ___ the paper’s manufacture date, the chemical composition of the ink, and the historical events mentioned in the text, each of which could expose a modern imitation.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "indicators.",
+        "indicators;",
+        "indicators:",
+        "indicators"
+      ],
+      "answer": 2,
+      "explanation": "The team required agreement among three separate indicators is an independent clause. The colon introduces the three indicators; a semicolon cannot introduce this fragmentary list.",
+      "optionExplanations": [
+        "The period produces a new sentence beginning with uncapitalized the, and the following list lacks a main predicate.",
+        "The list is not an independent clause, so it cannot follow a clause-joining semicolon.",
+        "The colon correctly introduces the list identifying the indicators.",
+        "The explanatory list needs punctuation after the complete introduction."
+      ],
+      "lessonTip": "A list naming the items in a complete introduction can follow a colon."
+    },
+    {
+      "id": "a40",
+      "topic": "colons",
+      "difficulty": "Hard",
+      "passage": "An ethnomusicologist documented instruments whose designs changed as makers adopted new materials. For each surviving instrument, she recorded ___ the body, the arrangement of the strings, and the dimensions of the resonating chamber, details that allowed her to compare objects separated by centuries and considerable geographical distance.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "the shape of:",
+        "the shape of",
+        "the shape of;",
+        "the shape of,"
+      ],
+      "answer": 1,
+      "explanation": "The preposition of introduces the body, so punctuation must not split of from its object. The commas separating the three recorded details already appear later in the sentence.",
+      "optionExplanations": [
+        "The colon separates of from its required object the body.",
+        "The shape of the body correctly forms the first object in the series.",
+        "The semicolon splits a prepositional phrase and cannot serve as a clause boundary here.",
+        "The comma incorrectly divides the preposition from its object."
+      ],
+      "lessonTip": "Do not mistake the inside of a list item for a boundary between items."
+    },
+    {
+      "id": "a41",
+      "topic": "lists",
+      "difficulty": "Hard",
+      "passage": "A historian studying an early census wanted to understand more than the number of people recorded. Her analysis considered how households were ___ whether temporary residents were included, and why certain occupations appeared under multiple labels, questions that exposed important differences between the census and later population surveys.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "classified",
+        "classified;",
+        "classified,",
+        "classified:"
+      ],
+      "answer": 2,
+      "explanation": "The analysis considered three parallel noun clauses beginning how, whether, and why. A comma separates the first two items; they are not independent clauses that should be divided by semicolons.",
+      "optionExplanations": [
+        "A comma is missing between the first two parallel items.",
+        "The parallel items do not contain internal commas requiring semicolons, and the existing separator before and is a comma.",
+        "The comma separates the first and second items in the three-part series.",
+        "The colon would make the remaining items an explanation of classified rather than equal objects of considered."
+      ],
+      "lessonTip": "A list item can be an entire dependent clause, not just a noun."
+    },
+    {
+      "id": "a42",
+      "topic": "lists",
+      "difficulty": "Hard",
+      "passage": "A research team evaluated a coastal barrier using two complementary approaches. It compared computer simulations of waves striking the proposed ___ measurements of waves striking an existing barrier nearby, recognizing that neither an idealized model nor observations from a different location could independently establish the design’s effectiveness.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "structure and,",
+        "structure and",
+        "structure; and",
+        "structure: and"
+      ],
+      "answer": 1,
+      "explanation": "The verb compared has two lengthy objects: computer simulations ... and measurements .... And joins this simple two-item pair without punctuation.",
+      "optionExplanations": [
+        "The comma separates and from the second object it introduces.",
+        "And correctly joins the two objects of compared without a comma.",
+        "The two items are not independent clauses, and no complex-series separator is needed.",
+        "A colon cannot introduce the second item after the first object in this two-item pair."
+      ],
+      "lessonTip": "Long items still form a two-item pair when a single and joins them."
+    },
+    {
+      "id": "a43",
+      "topic": "lists",
+      "difficulty": "Hard",
+      "passage": "Preparing a newly excavated manuscript for digital study required several coordinated tasks. Cleaning the fragile ___ reconstructing the order of detached sheets, and identifying faint markings beneath later annotations demanded different kinds of expertise, so the project brought together conservators, textual scholars, and specialists in imaging technology.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "pages,",
+        "pages",
+        "pages;",
+        "pages, and,"
+      ],
+      "answer": 0,
+      "explanation": "The subject is a three-item series of gerund phrases: Cleaning ..., reconstructing ..., and identifying .... A comma must separate the first two items.",
+      "optionExplanations": [
+        "The comma correctly separates the first and second gerund phrases.",
+        "Without a comma, the first two independent items in the series run together.",
+        "The simple series uses commas; this semicolon does not match its other separators.",
+        "The comma after and separates the conjunction from the item it introduces."
+      ],
+      "lessonTip": "Gerund phrases can form a series functioning as one sentence’s subject."
+    },
+    {
+      "id": "a44",
+      "topic": "lists",
+      "difficulty": "Hard",
+      "passage": "To study how daylight affects work schedules, a social scientist selected cities at different latitudes. Data came from Bergen, ___ Quito, Ecuador; and Dunedin, New Zealand, with each local team using the same questionnaire so that seasonal differences would not be confused with differences in survey design.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "Norway,",
+        "Norway:",
+        "Norway",
+        "Norway;"
+      ],
+      "answer": 3,
+      "explanation": "The three items are city–country pairs, each with an internal comma. A semicolon after Norway matches the semicolon before and and keeps each pair intact.",
+      "optionExplanations": [
+        "The comma fails to distinguish the major item boundary consistently from the commas inside city–country pairs.",
+        "The colon would incorrectly introduce Quito and Dunedin as an explanation of Norway.",
+        "The first city–country pair needs a separator before the second pair.",
+        "The semicolon separates complex list items consistently."
+      ],
+      "lessonTip": "Use matching semicolons between city–country pairs that already contain commas."
+    },
+    {
+      "id": "a45",
+      "topic": "lists",
+      "difficulty": "Hard",
+      "passage": "A ceramic vessel recovered from a flooded workshop retained an outer coating unlike those found on neighboring objects. Microscopic analysis revealed a ___ glaze that fractured into tiny interconnected plates, suggesting that the maker had experimented with a mineral mixture poorly suited to repeated heating and cooling.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "brittle; translucent",
+        "brittle: translucent",
+        "brittle, translucent",
+        "brittle, translucent,"
+      ],
+      "answer": 2,
+      "explanation": "Brittle and translucent are coordinate adjectives independently describing glaze: a brittle and translucent glaze. A comma separates them, but no comma belongs between the final adjective and its noun.",
+      "optionExplanations": [
+        "The adjectives are not independent clauses, so a semicolon cannot separate them.",
+        "Brittle alone does not form a complete clause that can introduce an explanation with a colon.",
+        "The comma correctly separates coordinate adjectives without separating translucent from glaze.",
+        "The final comma incorrectly separates the adjective translucent from the noun glaze."
+      ],
+      "lessonTip": "Coordinate adjectives accept and between them, but the last adjective stays attached to the noun."
+    },
+    {
+      "id": "a46",
+      "topic": "lists",
+      "difficulty": "Hard",
+      "passage": "An archaeologist identified a group of miniature objects as ritual offerings rather than ordinary tools. Among them were three ___ bronze mirrors, each too small to serve a practical purpose but sufficiently detailed to imitate the decoration of full-sized mirrors found in contemporary burial chambers.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "small",
+        "small,",
+        "small;",
+        "small:"
+      ],
+      "answer": 0,
+      "explanation": "Three small bronze mirrors uses cumulative modifiers: number, size, and material. Small modifies bronze mirrors as a unit, so no punctuation separates small and bronze.",
+      "optionExplanations": [
+        "Small bronze mirrors correctly uses cumulative adjectives without a comma.",
+        "The comma treats size and material as independent coordinate descriptions rather than a cumulative noun phrase.",
+        "A semicolon cannot divide adjectives inside this noun phrase.",
+        "The introduction three small is incomplete and cannot precede a colon."
+      ],
+      "lessonTip": "Number, size, and material often form cumulative descriptions without commas."
+    },
+    {
+      "id": "a47",
+      "topic": "lists",
+      "difficulty": "Hard",
+      "passage": "The laboratory’s revised protocol aimed to make comparisons between field samples more reliable. It required recording the depth at which each sample was ___ documenting the conditions under which it was transported, and verifying that all storage containers had remained sealed until processing began, steps omitted from earlier experiments.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "collected",
+        "collected;",
+        "collected:",
+        "collected,"
+      ],
+      "answer": 3,
+      "explanation": "The objects of required are three gerund phrases: recording ..., documenting ..., and verifying .... A comma separates the first two equal items.",
+      "optionExplanations": [
+        "The missing comma runs the first two list items together.",
+        "The simple series uses commas, not semicolons, and the first item is not an independent clause.",
+        "The remaining actions are parallel requirements, not an explanation introduced by a complete clause.",
+        "The comma correctly separates the recording and documenting items."
+      ],
+      "lessonTip": "Treat every complete gerund phrase as one list item."
+    },
+    {
+      "id": "a48",
+      "topic": "lists",
+      "difficulty": "Hard",
+      "passage": "A conservation biologist compared three ways of restoring a damaged grassland. The study evaluated methods of ___ native seeds, protecting existing seedlings from grazers, and removing invasive shrubs, with each method tested in plots exposed to similar rainfall and soil conditions over five consecutive growing seasons.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "distributing,",
+        "distributing",
+        "distributing;",
+        "distributing:"
+      ],
+      "answer": 1,
+      "explanation": "Distributing native seeds is the entire first item. No punctuation can separate the gerund distributing from its direct object native seeds; list commas occur after the complete items.",
+      "optionExplanations": [
+        "The comma separates distributing from its object before the first item is complete.",
+        "Distributing correctly remains attached to native seeds.",
+        "The semicolon splits the first list item internally.",
+        "A colon cannot follow this incomplete verb phrase and separate it from its object."
+      ],
+      "lessonTip": "Put separators between complete items, never between a verb and its object."
+    },
+    {
+      "id": "a49",
+      "topic": "lists",
+      "difficulty": "Hard",
+      "passage": "A museum’s reconstruction of an ancient dwelling combined evidence from unevenly preserved sites. Its designers consulted three sources: a study of hearth placement, published in ___ a survey of timber joints, completed in 2011; and an analysis of floor coverings, issued in 2018, grounding each major feature in independent research.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "2006;",
+        "2006,",
+        "2006:",
+        "2006"
+      ],
+      "answer": 0,
+      "explanation": "Each publication and its date form one item containing an internal comma. A semicolon separates the first two major items, matching the semicolon before the third.",
+      "optionExplanations": [
+        "The semicolon correctly marks the major boundary in this complex series.",
+        "The comma blurs the item boundary and is inconsistent with the semicolon used before the final consultant.",
+        "The colon incorrectly makes the remaining sources an explanation of the date 2006.",
+        "A separator is needed between the first publication and the second publication."
+      ],
+      "lessonTip": "In a complex series, keep a publication and its descriptive information within the same item."
+    },
+    {
+      "id": "a50",
+      "topic": "lists",
+      "difficulty": "Hard",
+      "passage": "The movement of sand across a coastal dune depends on more than wind speed alone. Grain size, the moisture retained near the surface, and the density of stabilizing ___ influence how quickly the dune migrates, making accurate forecasts impossible without measurements of both physical and biological conditions.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "vegetation,",
+        "vegetation;",
+        "vegetation",
+        "vegetation:"
+      ],
+      "answer": 2,
+      "explanation": "The complete series Grain size, the moisture ..., and the density ... is the subject of influence. No punctuation separates the final subject item from the main verb.",
+      "optionExplanations": [
+        "The comma incorrectly separates the entire subject series from its verb influence.",
+        "The words before the semicolon are a subject without a main predicate.",
+        "The subject series correctly connects directly to influence.",
+        "A colon cannot divide a subject from its main verb."
+      ],
+      "lessonTip": "The end of a subject list is not a boundary before its predicate."
+    }
+  ]
+}

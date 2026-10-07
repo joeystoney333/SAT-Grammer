@@ -1,0 +1,1291 @@
+{
+  "topics": [
+    {
+      "id": "transitions-contrast",
+      "title": "Contrast & concession",
+      "group": "Expression of ideas",
+      "summary": "Recognize when a second idea differs from a first idea or remains true despite a reason to expect otherwise.",
+      "rule": "A contrast transition marks a difference: however, by contrast, conversely. A concession transition grants the first point while presenting an unexpected outcome: nevertheless, nonetheless, even so. Identify the relationship between the complete ideas before comparing the transition words. A contrast can appear between two groups, two methods, two periods, or an expectation and a result.",
+      "steps": [
+        "Read the sentences on both sides of the blank as complete claims.",
+        "State the relationship without a transition: difference, unexpected result, or limitation.",
+        "Choose a contrast or concession word that matches that relationship.",
+        "Reject cause, addition, and sequence choices even when their wording sounds fluent."
+      ],
+      "examples": [
+        {
+          "incorrect": "The map omits several minor roads. Therefore, it remains useful for regional travel.",
+          "correct": "The map omits several minor roads. Nevertheless, it remains useful for regional travel.",
+          "why": "Its usefulness persists despite the omission; the omission does not cause its usefulness."
+        },
+        {
+          "incorrect": "The coastal samples contained mostly quartz. Similarly, the inland samples contained mostly basalt.",
+          "correct": "The coastal samples contained mostly quartz. By contrast, the inland samples contained mostly basalt.",
+          "why": "The compositions differ, so a similarity transition misrepresents the comparison."
+        },
+        {
+          "incorrect": "The revised design uses less steel. As a result, it takes longer to assemble.",
+          "correct": "The revised design uses less steel. However, it takes longer to assemble.",
+          "why": "The passage presents a drawback alongside a benefit, without establishing that less steel causes slower assembly."
+        }
+      ],
+      "traps": [
+        "A negative word does not automatically establish contrast; two negative findings can support each other.",
+        "Do not infer causation just because a benefit is followed by a drawback.",
+        "Conversely usually reverses a relationship; nevertheless emphasizes persistence despite an obstacle.",
+        "Use the author’s claims, not an assumption about what usually happens."
+      ],
+      "takeaway": "Contrast means difference; concession means despite that. Translate the two ideas into one of those relationships first."
+    },
+    {
+      "id": "transitions-cause",
+      "title": "Cause, conclusions & inferences",
+      "group": "Expression of ideas",
+      "summary": "Link evidence to a supported conclusion or an established cause to its consequence.",
+      "rule": "Therefore, thus, consequently, accordingly, and as a result introduce a consequence or inference. Because and since introduce reasons. A result transition is justified only when the first idea supplies the cause or evidence for the second; mere sequence or similarity is insufficient. On the SAT, the conclusion can be a recommendation, a classification, or a qualification drawn from the evidence.",
+      "steps": [
+        "Identify whether the sentence after the blank is an outcome, judgment, or recommendation.",
+        "Find the specific evidence or cause before the blank.",
+        "Check the direction: evidence or cause first, conclusion or effect second.",
+        "Select the transition that signals this inference without adding an unsupported relationship."
+      ],
+      "examples": [
+        {
+          "incorrect": "All three dated layers were deposited after the settlement was abandoned. However, the layers cannot explain why residents left.",
+          "correct": "All three dated layers were deposited after the settlement was abandoned. Therefore, the layers cannot explain why residents left.",
+          "why": "The dating evidence directly supports the conclusion about what the layers cannot explain."
+        },
+        {
+          "incorrect": "The detector failed during the second trial. Meanwhile, that trial produced no usable measurements.",
+          "correct": "The detector failed during the second trial. Consequently, that trial produced no usable measurements.",
+          "why": "The equipment failure caused the loss of usable measurements."
+        },
+        {
+          "incorrect": "The panels shaded the roof and lowered its temperature. For example, the designers expect cooling costs to decline.",
+          "correct": "The panels shaded the roof and lowered its temperature. Accordingly, the designers expect cooling costs to decline.",
+          "why": "Lower cooling costs are an inference from the temperature change, not an example of a shaded roof."
+        }
+      ],
+      "traps": [
+        "An event happening later does not prove that the earlier event caused it.",
+        "A result transition cannot justify a conclusion broader than the evidence.",
+        "Do not choose contrast simply because the conclusion includes a word such as cannot.",
+        "As a result introduces the effect, not the reason for an effect."
+      ],
+      "takeaway": "Ask whether the first idea answers “Why does the second idea follow?” If it does, use a consequence or inference transition."
+    },
+    {
+      "id": "transitions-sequence",
+      "title": "Sequence & time",
+      "group": "Expression of ideas",
+      "summary": "Follow the order of events, the stages of a process, and actions occurring at the same time.",
+      "rule": "Initially, first, next, subsequently, afterward, and finally mark positions in a sequence. Meanwhile and simultaneously mark overlap. Previously points backward; eventually signals a later outcome after an interval. Determine the actual chronology rather than assuming that the paragraph’s sentence order is the event order. A chronological transition need not imply a causal relationship.",
+      "steps": [
+        "Locate dates, stages, durations, and clues such as before, after, and at the same time.",
+        "Arrange the events on a short mental timeline.",
+        "Decide whether the blank introduces an earlier stage, a later stage, a final stage, or a concurrent event.",
+        "Choose the matching time transition and reject words that invent a cause or contrast."
+      ],
+      "examples": [
+        {
+          "incorrect": "The team sealed the containers on Monday. Previously, on Thursday, it reopened them for inspection.",
+          "correct": "The team sealed the containers on Monday. Subsequently, on Thursday, it reopened them for inspection.",
+          "why": "Thursday follows Monday; previously incorrectly moves the inspection backward in time."
+        },
+        {
+          "incorrect": "One group measured the river throughout the morning. Afterward, a second group measured the adjacent stream during that same morning.",
+          "correct": "One group measured the river throughout the morning. Meanwhile, a second group measured the adjacent stream during that same morning.",
+          "why": "The measurements overlap instead of forming successive stages."
+        },
+        {
+          "incorrect": "After all inspections and trials, the prototype received approval. Initially, the factory began full production.",
+          "correct": "After all inspections and trials, the prototype received approval. Finally, the factory began full production.",
+          "why": "Production is the last stage of the stated process, not its beginning."
+        }
+      ],
+      "traps": [
+        "Meanwhile requires overlapping events; it does not simply mean “another fact.”",
+        "Subsequently describes time order and does not claim that the first event caused the second.",
+        "Finally marks a final step; it is not the best choice for an intermediate stage followed by several others.",
+        "A historical flashback can require previously even when the date appears later in the paragraph."
+      ],
+      "takeaway": "Place the events on a timeline, then choose the transition that points in the correct direction."
+    },
+    {
+      "id": "transitions-addition",
+      "title": "Addition, examples & emphasis",
+      "group": "Expression of ideas",
+      "summary": "Distinguish another supporting point from a specific example, a clarification, an analogy, or an emphatic detail.",
+      "rule": "Moreover, furthermore, and additionally add supporting information. For example and for instance move from a general claim to a specific instance. Similarly and likewise connect comparable cases. Specifically narrows a broad statement, while in fact can strengthen or sharpen a claim. Read the function of the second idea: support, illustration, similarity, clarification, or emphasis.",
+      "steps": [
+        "Identify the broad claim or comparison before the blank.",
+        "Decide whether the next sentence adds another reason, supplies a case, narrows the claim, or parallels an earlier case.",
+        "Read the selected transition with both sentences to confirm the scope fits.",
+        "Eliminate transitions implying an unsupported contrast, consequence, or timeline."
+      ],
+      "examples": [
+        {
+          "incorrect": "Several organisms store water in their tissues. Nevertheless, certain succulents retain water in thick leaves.",
+          "correct": "Several organisms store water in their tissues. For example, certain succulents retain water in thick leaves.",
+          "why": "The succulent is a specific instance of the general water-storage claim."
+        },
+        {
+          "incorrect": "The library extended evening hours to improve access. Consequently, it also added remote research consultations for the same purpose.",
+          "correct": "The library extended evening hours to improve access. Furthermore, it also added remote research consultations for the same purpose.",
+          "why": "The consultations are a second initiative; the longer hours are not stated to have caused them."
+        },
+        {
+          "incorrect": "The first sensor responded only above a threshold temperature. By contrast, the second sensor also remained inactive below that threshold.",
+          "correct": "The first sensor responded only above a threshold temperature. Similarly, the second sensor also remained inactive below that threshold.",
+          "why": "The two sensors share a threshold behavior even though the descriptions use different wording."
+        }
+      ],
+      "traps": [
+        "For example needs an instance of the preceding category, not merely an associated detail.",
+        "Similarity can be expressed with different vocabulary; compare the underlying claims.",
+        "Additionally does not mean afterward, and a list of reasons is not necessarily chronological.",
+        "Specifically should narrow a claim; it should not introduce an unrelated topic."
+      ],
+      "takeaway": "Name what the next idea does: adds, illustrates, parallels, clarifies, or emphasizes."
+    },
+    {
+      "id": "synthesis",
+      "title": "Rhetorical synthesis",
+      "group": "Expression of ideas",
+      "summary": "Use a student’s notes selectively to write a sentence that accomplishes a precise rhetorical goal.",
+      "rule": "The correct synthesis uses accurate information from the notes and meets every part of the stated goal. A true statement can still be wrong if it compares the wrong things, omits the requested distinction, provides detail where an overview is requested, or repeats background an audience already knows. Select only the notes needed for the goal; incorporating every fact is unnecessary.",
+      "steps": [
+        "Read the goal before weighing the notes, and identify the required action: compare, introduce, explain, support, emphasize, or recommend.",
+        "Underline the notes that supply the requested relationship or detail.",
+        "Evaluate each answer for accuracy, relevance, and completeness against that goal.",
+        "Choose the sentence that meets all parts of the goal without adding unsupported claims."
+      ],
+      "examples": [
+        {
+          "incorrect": "Goal: emphasize a difference in methods. Response: Both teams studied the same estuary.",
+          "correct": "One team used fixed sensors to monitor the estuary continuously, whereas the other collected water samples once a week.",
+          "why": "The corrected response states the method difference; a shared study location does not satisfy the goal."
+        },
+        {
+          "incorrect": "Goal: introduce a finding to readers unfamiliar with the study. Response: The increase was 18 percent.",
+          "correct": "In a study of rooftop gardens, researchers found that shaded plots retained 18 percent more soil moisture than unshaded plots.",
+          "why": "The corrected response introduces the study context and explains what the measurement describes."
+        },
+        {
+          "incorrect": "Goal: explain why the museum used a replica. Response: The original instrument was made in 1842.",
+          "correct": "The museum displayed a replica because the original instrument was too fragile to operate safely.",
+          "why": "The age of the object is background; fragility supplies the stated reason for the replica."
+        }
+      ],
+      "traps": [
+        "A factually accurate choice may fail the student’s goal.",
+        "A comparison usually needs both subjects and the specific comparison requested.",
+        "Do not infer a cause, superiority, or exclusivity that the notes do not establish.",
+        "Audience instructions matter: avoid unnecessary introductions for familiar readers and unexplained references for unfamiliar readers."
+      ],
+      "takeaway": "Accuracy is necessary; accomplishing the exact goal is decisive."
+    }
+  ],
+  "questions": [
+    {
+      "id": "e01",
+      "topic": "transitions-contrast",
+      "difficulty": "Hard",
+      "passage": "Botanist Leila Ruan predicted that isolated rooftop gardens would support little genetic diversity because few pollinators reach them. Tall building walls and long distances between plantings appeared to reinforce that expectation. ___, the rooftop plants displayed greater genetic diversity than plants in several connected ground-level gardens.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Similarly",
+        "Nevertheless",
+        "For instance",
+        "Previously"
+      ],
+      "answer": 1,
+      "explanation": "The isolated gardens were expected to have little genetic diversity, but the actual comparison showed greater diversity than in several connected gardens. “Nevertheless” introduces the finding that contradicts the reinforced expectation.",
+      "optionExplanations": [
+        "The observed diversity contradicts the initial prediction instead of supplying a parallel result from another case.",
+        "This signals that the observed diversity defied the stated expectation.",
+        "The observed diversity is not an example of the height or distance barriers reinforcing the expectation of low diversity.",
+        "The text compares the plants’ genetic diversity; it does not introduce an observation from before the prediction."
+      ],
+      "lessonTip": "Identify the expectation supported by the preceding discussion, then compare it with the actual outcome."
+    },
+    {
+      "id": "e02",
+      "topic": "transitions-contrast",
+      "difficulty": "Hard",
+      "passage": "Two translations preserve the plot of an early maritime epic with comparable accuracy. In Calder’s version, long ceremonial speeches retain their elaborate sentence structures, requiring readers to pause frequently. ___, in Imani’s version, those speeches become brisk exchanges whose shorter sentences make the same events easier to follow.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Similarly",
+        "Afterward",
+        "By contrast",
+        "As a result"
+      ],
+      "answer": 2,
+      "explanation": "The passage compares the translators’ opposing treatments of the same speeches: elaborate structures versus short, brisk exchanges. “By contrast” marks that difference.",
+      "optionExplanations": [
+        "Although plot accuracy is shared, the specific sentence structures being compared differ.",
+        "The text compares versions; it does not say Imani translated the speeches later.",
+        "This correctly introduces the difference between the two versions’ sentence structures.",
+        "Calder’s stylistic decision is not said to have caused Imani’s decision."
+      ],
+      "lessonTip": "Choose the relationship between the details immediately surrounding the blank, not a shared fact elsewhere in the paragraph."
+    },
+    {
+      "id": "e03",
+      "topic": "transitions-contrast",
+      "difficulty": "Hard",
+      "passage": "The small clay vessels excavated beside a hilltop sanctuary have traditionally been labeled ceremonial because they bear unusually intricate decoration. The vessels’ shapes and painted symbols reinforce that interpretation. ___, repeated traces of lentils and cooking oils on their inner surfaces suggest an ordinary domestic function.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Nevertheless",
+        "For example",
+        "Consequently",
+        "Subsequently"
+      ],
+      "answer": 0,
+      "explanation": "The appearance supports a ceremonial interpretation, whereas the food residues support a domestic interpretation. “Nevertheless” introduces evidence that challenges the expectation created by the first two sentences.",
+      "optionExplanations": [
+        "This correctly introduces the conflicting evidence about the vessels’ use.",
+        "Food residues do not illustrate the preceding claim about ceremonial shapes and symbols.",
+        "The vessels’ ceremonial appearance does not cause or logically imply food residues.",
+        "The paragraph compares interpretations rather than describing the order in which analyses occurred."
+      ],
+      "lessonTip": "An apparent contrast in a paragraph does not determine every blank; focus on what the immediately preceding evidence supports."
+    },
+    {
+      "id": "e04",
+      "topic": "transitions-contrast",
+      "difficulty": "Hard",
+      "passage": "The economist’s dataset records every tax payment made in the district over forty years, allowing unusually precise estimates of changes in household wealth. The records’ consistent format also allows comparisons among distant decades. ___, they cannot reveal how particular families described or experienced those economic changes.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "In other words",
+        "For example",
+        "Likewise",
+        "Even so"
+      ],
+      "answer": 3,
+      "explanation": "The dataset is unusually precise, but it has a limitation: it cannot show families’ experiences. “Even so” introduces that limitation despite the dataset’s strength.",
+      "optionExplanations": [
+        "The inability to reveal experiences is a new limitation, not a restatement of the numerical coding detail.",
+        "The absence of family perspectives is a limitation, not an example of precise wealth estimates.",
+        "The second claim does not make a parallel positive claim about the dataset.",
+        "This marks the limitation that remains despite the dataset’s precision."
+      ],
+      "lessonTip": "A concession often introduces a source’s limitation after acknowledging its value."
+    },
+    {
+      "id": "e05",
+      "topic": "transitions-contrast",
+      "difficulty": "Hard",
+      "passage": "Engineers evaluating two battery designs found that the newer model stored substantially more energy in the same volume. This gain could allow electric vehicles to travel farther between stops. ___, the newer model required longer to recharge, making it less attractive for vehicles used continuously throughout the day.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "However",
+        "Accordingly",
+        "Similarly",
+        "Earlier"
+      ],
+      "answer": 0,
+      "explanation": "The new battery offers a range benefit but a charging drawback. “However” marks the shift from advantage to disadvantage without inventing a causal link.",
+      "optionExplanations": [
+        "This correctly introduces a drawback that offsets the preceding benefit.",
+        "The text does not establish that increased storage caused the slower charging.",
+        "A charging disadvantage is not parallel to the range advantage.",
+        "No earlier event or prior testing stage is being described."
+      ],
+      "lessonTip": "A benefit followed by a drawback usually requires contrast unless the passage explicitly establishes causation."
+    },
+    {
+      "id": "e06",
+      "topic": "transitions-contrast",
+      "difficulty": "Hard",
+      "passage": "To reduce shoreline erosion, a restoration team planted reeds along two stretches of a tidal inlet. At the sheltered stretch, reed roots trapped sediment and stabilized the bank. ___, at the exposed stretch, waves uprooted the plants, and the disturbed soil washed away faster than it had before planting.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Moreover",
+        "Consequently",
+        "In contrast",
+        "Eventually"
+      ],
+      "answer": 2,
+      "explanation": "The two sites had opposing results from the same intervention: stabilization versus accelerated erosion. “In contrast” expresses that difference.",
+      "optionExplanations": [
+        "The second result differs from, rather than simply reinforcing, the successful first result.",
+        "The sheltered site’s stabilization did not cause the exposed site’s erosion.",
+        "This directly marks the opposing outcomes at the two sites.",
+        "The paragraph compares sites and supplies no interval establishing a later eventual outcome."
+      ],
+      "lessonTip": "Compare the outcomes, not the fact that both sites received the same treatment."
+    },
+    {
+      "id": "e07",
+      "topic": "transitions-contrast",
+      "difficulty": "Hard",
+      "passage": "Critics sometimes assume that extensive annotations make a poem less accessible by constantly interrupting the reader. The notes in Neri’s new edition are indeed longer than those in earlier editions. ___, they explain unfamiliar allusions so clearly that first-time readers report finding the poem easier to understand.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "In other words",
+        "Nonetheless",
+        "For example",
+        "Thereafter"
+      ],
+      "answer": 1,
+      "explanation": "The longer notes might be expected to impede access, yet they improve comprehension. “Nonetheless” introduces the result despite the acknowledged length of the annotations.",
+      "optionExplanations": [
+        "Clear explanations and improved comprehension do not restate the claim that the notes are longer.",
+        "This correctly marks an outcome contrary to the assumed effect of lengthy annotations.",
+        "The improvement is not an example of annotations being long.",
+        "The text does not describe a chronological stage following publication."
+      ],
+      "lessonTip": "Words such as indeed can concede a premise before a transition introduces an unexpected result."
+    },
+    {
+      "id": "e08",
+      "topic": "transitions-contrast",
+      "difficulty": "Hard",
+      "passage": "A desalination prototype circulates seawater through wider channels, reducing the pressure needed to move it through the system. Early tests confirmed the expected reduction in energy use. ___, particles accumulated in the wider channels more rapidly than anticipated, creating a maintenance burden that could offset the savings.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "For instance",
+        "Therefore",
+        "Likewise",
+        "Nevertheless"
+      ],
+      "answer": 3,
+      "explanation": "The expected efficiency gain is followed by an unexpected maintenance problem. “Nevertheless” signals that the successful energy result does not eliminate this complication.",
+      "optionExplanations": [
+        "Particle accumulation does not exemplify reduced energy consumption.",
+        "The preceding efficiency evidence does not establish the cause of particle accumulation.",
+        "The maintenance burden is not a parallel advantage.",
+        "This correctly introduces the drawback despite the confirmed efficiency benefit."
+      ],
+      "lessonTip": "Distinguish evidence of success from a complication that qualifies that success."
+    },
+    {
+      "id": "e09",
+      "topic": "transitions-contrast",
+      "difficulty": "Hard",
+      "passage": "An urban-planning model predicted that lowering bus fares would draw most new riders from private cars and sharply reduce automobile traffic. After fares fell, bus ridership rose by almost a quarter. ___, surveys showed that most additional passengers had previously walked or cycled, and automobile traffic declined only slightly.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "For example",
+        "Consequently",
+        "However",
+        "Likewise"
+      ],
+      "answer": 2,
+      "explanation": "Higher ridership might appear to confirm the model, but the new riders’ previous travel modes and the slight traffic decline challenge its central prediction. “However” introduces that qualification.",
+      "optionExplanations": [
+        "The survey finding does not illustrate a sharp reduction in automobile traffic.",
+        "A ridership increase does not establish that most new riders were formerly walkers or cyclists.",
+        "This marks the evidence that qualifies the apparent success of the model.",
+        "The limited traffic change differs from the predicted sharp reduction, rather than matching it."
+      ],
+      "lessonTip": "An initial prediction can be contradicted while a later conclusion follows directly from the new evidence."
+    },
+    {
+      "id": "e10",
+      "topic": "transitions-contrast",
+      "difficulty": "Hard",
+      "passage": "A severe fire destroyed the mature pine trees in a mountain plot, leaving its canopy absent for several years. Such damage might suggest a complete interruption of the species’ reproduction. ___, heat had opened surviving cones, releasing previously sealed seeds, and thousands of seedlings appeared during the following spring.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Even so",
+        "In other words",
+        "For instance",
+        "Similarly"
+      ],
+      "answer": 0,
+      "explanation": "The seedlings demonstrate reproduction despite damage that might suggest it had stopped. “Even so” expresses this concession.",
+      "optionExplanations": [
+        "This correctly connects the destructive fire and the unexpectedly successful regeneration.",
+        "The seedlings show that reproduction continued, so they do not restate the expectation of a complete interruption.",
+        "The seedlings are not an example of reproduction being completely interrupted.",
+        "Regeneration does not parallel the preceding idea of reproductive interruption."
+      ],
+      "lessonTip": "Identify whether a finding supports an expectation or overturns it."
+    },
+    {
+      "id": "e11",
+      "topic": "transitions-cause",
+      "difficulty": "Hard",
+      "passage": "A conservator determined that every layer of varnish on a portrait was applied decades after the painter’s death. None of those layers could have been part of the painter’s original color choices. ___, analyses of the painting’s intended palette must account for the alterations caused by later varnishing.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "In contrast",
+        "Accordingly",
+        "For example",
+        "Meanwhile"
+      ],
+      "answer": 1,
+      "explanation": "Because the varnish is later and can change the visible colors, reconstructing the original palette requires accounting for it. “Accordingly” introduces the methodological conclusion.",
+      "optionExplanations": [
+        "The need to account for later varnish follows from, rather than contradicts, its later date.",
+        "This correctly introduces the conclusion supported by the dating evidence.",
+        "The methodological requirement is a consequence, not a specific instance of a varnish layer.",
+        "No concurrent event or action is described."
+      ],
+      "lessonTip": "A recommendation can be the consequence of evidence, just as an observed event can."
+    },
+    {
+      "id": "e12",
+      "topic": "transitions-cause",
+      "difficulty": "Hard",
+      "passage": "In a sleep study, every participant completed a memory task twice, once after an uninterrupted night and once after a night with frequent awakenings. The researchers kept the task, room, and testing time identical. ___, differences in performance could be examined without those three conditions varying between sessions.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Nevertheless",
+        "Likewise",
+        "Previously",
+        "Thus"
+      ],
+      "answer": 3,
+      "explanation": "Keeping the three conditions identical removes their variation from the comparison. “Thus” signals that this design choice permits the stated examination of performance differences.",
+      "optionExplanations": [
+        "Controlling conditions enables the comparison; the comparison is not an unexpected outcome despite the control.",
+        "The final claim explains the implication of the controls rather than presenting a similar independent case.",
+        "The text does not shift to an earlier event.",
+        "This correctly marks the conclusion drawn from the controlled conditions."
+      ],
+      "lessonTip": "Look for an inference about what a study design permits, not only for a physical cause and effect."
+    },
+    {
+      "id": "e13",
+      "topic": "transitions-cause",
+      "difficulty": "Hard",
+      "passage": "A desert sensor sends measurements through a satellite link with a fixed daily data limit. Engineers doubled the number of measurements collected each hour without increasing that limit. The expanded files exceeded the available transmission capacity. ___, the station stored some measurements locally instead of sending them immediately.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Consequently",
+        "By contrast",
+        "For instance",
+        "Similarly"
+      ],
+      "answer": 0,
+      "explanation": "The transmission limit prevents all the expanded data from being sent at once, causing some measurements to be stored locally. “Consequently” marks that result.",
+      "optionExplanations": [
+        "This correctly presents local storage as an effect of the transmission constraint.",
+        "Local storage is the response to the constraint, not an opposing finding.",
+        "The storage decision is a consequence rather than an example of increasing measurements.",
+        "No comparable second situation is being presented."
+      ],
+      "lessonTip": "Follow the causal chain from a constraint to the response it requires."
+    },
+    {
+      "id": "e14",
+      "topic": "transitions-cause",
+      "difficulty": "Hard",
+      "passage": "The signature at the bottom of an unsigned-looking letter matches a clerk’s handwriting, not the novelist’s. Archival records show that the clerk regularly copied the novelist’s dictated correspondence. ___, the signature alone cannot establish that the letter’s wording originated with the clerk rather than with the novelist.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "In addition",
+        "Conversely",
+        "Therefore",
+        "Subsequently"
+      ],
+      "answer": 2,
+      "explanation": "The clerk’s role as a copier means handwriting is insufficient evidence of authorship. “Therefore” introduces the inference from that archival information.",
+      "optionExplanations": [
+        "The last statement interprets the evidence rather than adding an independent archival fact.",
+        "The evidentiary limitation follows from the clerk’s copying role; it does not reverse that relationship.",
+        "This correctly links the documented copying practice to the limitation of the signature as evidence.",
+        "The conclusion is not an event taking place later."
+      ],
+      "lessonTip": "A conclusion that says evidence is insufficient can still be a direct inference from what that evidence shows."
+    },
+    {
+      "id": "e15",
+      "topic": "transitions-cause",
+      "difficulty": "Hard",
+      "passage": "Two limestone samples contained equal amounts of a mineral that reacts with acidic water, but one sample had a much larger exposed surface area. Under identical conditions, that sample dissolved faster. ___, the experiment indicates that mineral quantity alone does not determine the rate of dissolution.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Likewise",
+        "For example",
+        "Meanwhile",
+        "Hence"
+      ],
+      "answer": 3,
+      "explanation": "Equal mineral amounts produced different dissolution rates, so mineral quantity cannot be the sole determinant. “Hence” introduces the conclusion from the experimental comparison.",
+      "optionExplanations": [
+        "The final sentence interprets both samples instead of describing a similar third case.",
+        "The conclusion is not a particular example of the faster dissolution.",
+        "The statement is an inference, not a simultaneous event.",
+        "This correctly signals the inference supported by the unequal rates despite equal mineral quantities."
+      ],
+      "lessonTip": "Controlled comparisons often support a conclusion about what is not sufficient to explain an outcome."
+    },
+    {
+      "id": "e16",
+      "topic": "transitions-cause",
+      "difficulty": "Hard",
+      "passage": "A city’s rebate program reimbursed homeowners for insulation only after they had paid the full installation cost. Interviews showed that many eligible households could not afford that initial payment. ___, the program excluded some residents it was designed to assist even though their eventual reimbursement would have been substantial.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Nevertheless",
+        "As a result",
+        "Specifically",
+        "Earlier"
+      ],
+      "answer": 1,
+      "explanation": "The requirement to pay first, combined with households’ inability to do so, prevented participation. “As a result” signals the consequence of that financial barrier.",
+      "optionExplanations": [
+        "Exclusion follows from the barrier; it is not a result despite the barrier.",
+        "This correctly introduces the participation consequence of the initial-payment requirement.",
+        "The sentence draws an implication from the interviews rather than merely specifying an amount or category.",
+        "The exclusion is not placed before the program’s requirement."
+      ],
+      "lessonTip": "Do not let the concession inside a sentence obscure the cause linking that sentence to the one before it."
+    },
+    {
+      "id": "e17",
+      "topic": "transitions-cause",
+      "difficulty": "Hard",
+      "passage": "The initial estimate of an ancient canal’s length included a straight depression extending beyond its stone walls. Later excavation showed that the depression was a natural drainage channel, disconnected from the canal. ___, the archaeologists revised their estimate downward rather than treating the depression as an additional constructed section.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Accordingly",
+        "Conversely",
+        "For instance",
+        "Simultaneously"
+      ],
+      "answer": 0,
+      "explanation": "The depression’s natural origin removes it from the constructed canal, justifying a shorter estimate. “Accordingly” introduces the revision supported by the new finding.",
+      "optionExplanations": [
+        "This correctly signals the estimate revision as a consequence of reclassifying the depression.",
+        "The revision agrees with the new evidence rather than reversing its implication.",
+        "The numerical revision is an inference from the classification, not an example of a natural channel.",
+        "The text does not establish that excavation and revision occurred at the same time."
+      ],
+      "lessonTip": "A reclassification can support a conclusion even when no numerical calculation is stated."
+    },
+    {
+      "id": "e18",
+      "topic": "transitions-cause",
+      "difficulty": "Hard",
+      "passage": "A language model was evaluated using sentences taken from the same collection used to train it. Several test sentences appeared verbatim in its training material, making memorization a possible explanation for high scores. ___, those scores provide limited evidence of the model’s ability to interpret previously unseen sentences.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Furthermore",
+        "In contrast",
+        "Thus",
+        "Previously"
+      ],
+      "answer": 2,
+      "explanation": "The overlap creates an alternative explanation for high performance, limiting the inference about unseen sentences. “Thus” signals that evidentiary limitation.",
+      "optionExplanations": [
+        "The limitation is a conclusion from the overlap, not an independent supporting observation.",
+        "The scores’ limitation follows from the memorization concern rather than contradicting it.",
+        "This correctly introduces the conclusion about what the scores can establish.",
+        "The text does not move to a prior evaluation."
+      ],
+      "lessonTip": "When an alternative explanation is possible, the resulting limitation is an inference, not necessarily a contrast."
+    },
+    {
+      "id": "e19",
+      "topic": "transitions-cause",
+      "difficulty": "Hard",
+      "passage": "The committee compared two routes for transporting delicate fossils. One crossed a shorter but heavily rutted road; the other used a longer paved highway. Vibration measurements showed that the paved route subjected the cargo to markedly less shaking. ___, the committee selected that route despite its greater distance.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "For example",
+        "Consequently",
+        "Nevertheless",
+        "Meanwhile"
+      ],
+      "answer": 1,
+      "explanation": "Lower shaking supports the committee’s selection because the fossils are delicate. “Consequently” connects the measurements to the choice; the greater distance is an internal concession.",
+      "optionExplanations": [
+        "Selecting the route is an outcome of the evidence, not an example of measuring vibration.",
+        "This correctly connects the lower vibration to the route selection.",
+        "The committee selected the route because of the vibration evidence, not despite it.",
+        "The choice is not introduced as concurrent with an unrelated activity."
+      ],
+      "lessonTip": "Locate the reason for a choice even when the chosen option also has a disadvantage."
+    },
+    {
+      "id": "e20",
+      "topic": "transitions-cause",
+      "difficulty": "Hard",
+      "passage": "A survey of a medieval trading port found imported pottery in residences of varying sizes, not merely in the largest houses. Smaller homes also contained several distinct imported styles. ___, access to these goods appears to have extended beyond the port’s wealthiest households, although the finds do not establish equal consumption.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Similarly",
+        "Afterward",
+        "For instance",
+        "Therefore"
+      ],
+      "answer": 3,
+      "explanation": "Imported goods in homes of several sizes support the limited conclusion that access was not confined to the wealthiest households. “Therefore” signals the inference while preserving its qualification.",
+      "optionExplanations": [
+        "The last sentence interprets the distribution of finds rather than presenting another similar site.",
+        "This is a conclusion, not a later excavation stage.",
+        "The claim about access generalizes from the finds rather than supplying a specific example of one.",
+        "This correctly marks the qualified inference supported by imports in smaller homes."
+      ],
+      "lessonTip": "The correct result transition can introduce a carefully limited conclusion rather than a sweeping claim."
+    },
+    {
+      "id": "e21",
+      "topic": "transitions-sequence",
+      "difficulty": "Hard",
+      "passage": "In 1911, the observatory began recording stars on glass photographic plates, a practice it continued for decades. The plates preserved faint details that visual observations had missed. ___, in 1987, the observatory adopted electronic detectors and began storing new observations as digital files rather than physical images.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Similarly",
+        "For example",
+        "Subsequently",
+        "Conversely"
+      ],
+      "answer": 2,
+      "explanation": "The change to electronic detectors occurred after the use of glass plates began. “Subsequently” signals that chronological progression without asserting a cause.",
+      "optionExplanations": [
+        "The sentence emphasizes a later change in recording technology, not a shared characteristic.",
+        "Adopting electronic detectors is not an example of recording on glass plates.",
+        "This correctly marks the move from 1911 to a later event in 1987.",
+        "The text presents a technological sequence rather than an inverse relationship."
+      ],
+      "lessonTip": "Explicit dates are reliable anchors for deciding whether a transition points forward or backward."
+    },
+    {
+      "id": "e22",
+      "topic": "transitions-sequence",
+      "difficulty": "Hard",
+      "passage": "During a six-hour eclipse observation, one team repeatedly measured changes in the atmosphere’s temperature at a coastal site. The readings continued throughout the eclipse. ___, a second team, working inland during those same six hours, tracked the shifting intensity of sunlight without interrupting the coastal team’s measurements.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Meanwhile",
+        "Consequently",
+        "Previously",
+        "In contrast"
+      ],
+      "answer": 0,
+      "explanation": "The teams worked during the same six-hour interval. “Meanwhile” marks their concurrent activities.",
+      "optionExplanations": [
+        "This correctly signals the overlap of the two observation efforts.",
+        "The coastal readings did not cause the inland team’s activity.",
+        "The inland measurements occurred at the same time, not earlier.",
+        "The passage emphasizes simultaneous work and gives no opposing result or behavior."
+      ],
+      "lessonTip": "Concurrent actions can involve different locations and measurements; they still require an overlap transition."
+    },
+    {
+      "id": "e23",
+      "topic": "transitions-sequence",
+      "difficulty": "Hard",
+      "passage": "A 1974 municipal ordinance formally protected the marsh from construction, ending several decades of dispute over its use. ___, in the 1950s, local officials had encouraged developers to consider draining the same marsh for industrial buildings. The contrast reflects a change in the city’s priorities over time.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "As a result",
+        "Moreover",
+        "Afterward",
+        "Previously"
+      ],
+      "answer": 3,
+      "explanation": "The paragraph moves from the 1974 protection to an earlier policy in the 1950s. “Previously” correctly introduces that backward movement in time.",
+      "optionExplanations": [
+        "The earlier development policy cannot be a result of the later ordinance.",
+        "The date creates a specific earlier-time relationship, not merely an added detail.",
+        "The 1950s precede 1974, so the event did not occur afterward.",
+        "This correctly introduces the policy that preceded the protection ordinance."
+      ],
+      "lessonTip": "Do not confuse paragraph order with event order; dates can reveal a flashback."
+    },
+    {
+      "id": "e24",
+      "topic": "transitions-sequence",
+      "difficulty": "Hard",
+      "passage": "To authenticate the manuscript, specialists first examined its paper, then compared its handwriting with dated examples, and afterward analyzed the ink. All three investigations supported the proposed date. ___, after completing those checks, the institution issued its formal authentication certificate, concluding the review process.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Similarly",
+        "Finally",
+        "Nevertheless",
+        "For example"
+      ],
+      "answer": 1,
+      "explanation": "The certificate is explicitly the last step, issued after all checks and concluding the process. “Finally” marks that endpoint.",
+      "optionExplanations": [
+        "Issuing a certificate is not a similar investigative test.",
+        "This correctly signals the last step of the stated review process.",
+        "The certificate agrees with the tests’ support for the date, rather than contrasting with it.",
+        "The certificate is not an example of an ink analysis or handwriting comparison."
+      ],
+      "lessonTip": "Choose finally when the passage clearly identifies an action as the process’s endpoint."
+    },
+    {
+      "id": "e25",
+      "topic": "transitions-sequence",
+      "difficulty": "Hard",
+      "passage": "The team’s survey eventually covered the entire mountain watershed, but its scope expanded in several stages over eight years. ___, during the project’s first season, researchers sampled only springs near the accessible southern road. They later added remote tributaries and, in the final season, high-elevation snowfields.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "As a result",
+        "In other words",
+        "Meanwhile",
+        "Initially"
+      ],
+      "answer": 3,
+      "explanation": "The blank introduces the project’s first stage before later expansions. “Initially” identifies that starting point.",
+      "optionExplanations": [
+        "The first season’s limited sampling was not a result of the eventual comprehensive coverage.",
+        "Sampling only accessible southern springs is the first stage, not a restatement of the project’s eventual coverage of the entire watershed.",
+        "The first season is not concurrent with the later and final seasons.",
+        "This correctly marks the first stage of the eight-year survey."
+      ],
+      "lessonTip": "An eventual outcome can be stated first, then followed by a transition back to the initial stage."
+    },
+    {
+      "id": "e26",
+      "topic": "transitions-sequence",
+      "difficulty": "Hard",
+      "passage": "The laboratory’s protocol required technicians to wash each sediment sample before drying it. Once washing was complete, the still-wet samples were placed in a drying cabinet overnight. ___, the dried material was weighed; only after weighing could technicians grind it and perform the chemical analysis.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Afterward",
+        "Nevertheless",
+        "For instance",
+        "Previously"
+      ],
+      "answer": 0,
+      "explanation": "Weighing comes after overnight drying and before grinding and analysis. “Afterward” correctly places this intermediate step.",
+      "optionExplanations": [
+        "This correctly indicates that the dried material was weighed after drying.",
+        "The weighing follows the protocol instead of conflicting with it.",
+        "Weighing is the next stage, not an example of placing wet samples in a cabinet.",
+        "The material is already dried when weighed, so weighing is not an earlier event."
+      ],
+      "lessonTip": "Intermediate steps need a next-stage transition, even when several stages still remain."
+    },
+    {
+      "id": "e27",
+      "topic": "transitions-sequence",
+      "difficulty": "Hard",
+      "passage": "While the orchestra rehearsed the first movement in the main hall, two sound engineers monitored microphones there for the full rehearsal. ___, in a separate control room during that same rehearsal, another engineer adjusted the recording levels using the signals they transmitted, completing the adjustments before the musicians stopped.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Subsequently",
+        "By contrast",
+        "Simultaneously",
+        "For example"
+      ],
+      "answer": 2,
+      "explanation": "The monitoring and adjusting occurred during the same rehearsal. “Simultaneously” expresses the overlap established by the timing details.",
+      "optionExplanations": [
+        "The adjustments were made during the rehearsal, not after the monitoring had ended.",
+        "The two engineering tasks are coordinated, not presented as contrasting outcomes.",
+        "This correctly signals that the tasks occurred at the same time.",
+        "The adjustment is a concurrent task rather than an example of microphone monitoring."
+      ],
+      "lessonTip": "Use all time markers, including phrases such as during that same rehearsal and before the musicians stopped."
+    },
+    {
+      "id": "e28",
+      "topic": "transitions-sequence",
+      "difficulty": "Hard",
+      "passage": "After the bilingual dictionary’s editor retired, the unfinished manuscript remained in storage for fourteen years. Several efforts to find a publisher failed during that interval. ___, a university press acquired the manuscript, commissioned its missing entries, and published the completed dictionary three years after the acquisition.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "In the meantime",
+        "Eventually",
+        "Similarly",
+        "For instance"
+      ],
+      "answer": 1,
+      "explanation": "Acquisition occurred after the long period of unsuccessful efforts. “Eventually” marks the later resolution, whereas “in the meantime” would place acquisition during the unresolved interval.",
+      "optionExplanations": [
+        "The acquisition ends the prolonged wait rather than occurring while the manuscript remains without a publisher.",
+        "This correctly marks the outcome reached after fourteen years of delay.",
+        "The successful acquisition is not another similar failed effort.",
+        "The acquisition is not an example of failing to find a publisher."
+      ],
+      "lessonTip": "Eventually often resolves a prolonged wait; in the meantime describes activity while that wait continues."
+    },
+    {
+      "id": "e29",
+      "topic": "transitions-sequence",
+      "difficulty": "Hard",
+      "passage": "Visitors to the museum’s current gallery see the bronze statue standing upright on a newly designed base. ___, before its conservation in 2016, the statue had been displayed reclining because its damaged ankles could not support its weight. The treatment restored sufficient strength for the present arrangement.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Accordingly",
+        "Furthermore",
+        "Subsequently",
+        "Previously"
+      ],
+      "answer": 3,
+      "explanation": "The blank introduces the display arrangement that existed before the current arrangement and before conservation. “Previously” points to that earlier state.",
+      "optionExplanations": [
+        "The earlier reclining display is not a consequence of the present upright display.",
+        "The explicit before-and-present relationship requires an earlier-time signal rather than a generic addition.",
+        "The reclining display occurred before, not after, the current arrangement.",
+        "This correctly introduces the statue’s former display position."
+      ],
+      "lessonTip": "An earlier condition can be introduced after a present condition; use the chronology in the content."
+    },
+    {
+      "id": "e30",
+      "topic": "transitions-sequence",
+      "difficulty": "Hard",
+      "passage": "The seed bank’s cataloging workflow begins when staff photograph a newly received specimen and assign it a temporary number. ___, staff compare the specimen with reference material to confirm its identification. Once identification is confirmed, they replace the temporary number with a permanent accession code and seal the storage packet.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Next",
+        "Similarly",
+        "For example",
+        "Conversely"
+      ],
+      "answer": 0,
+      "explanation": "Identification follows photography and temporary numbering, then precedes permanent cataloging. “Next” correctly marks the second step.",
+      "optionExplanations": [
+        "This correctly introduces the stage after initial photography and numbering.",
+        "Identification is a subsequent step, not a parallel case comparable to photography.",
+        "Comparing reference material is not an example of assigning a temporary number.",
+        "The procedure does not reverse a relationship or present an opposing approach."
+      ],
+      "lessonTip": "Trace the procedural dependencies: the permanent code comes only after identification, which follows intake."
+    },
+    {
+      "id": "e31",
+      "topic": "transitions-addition",
+      "difficulty": "Hard",
+      "passage": "Geologists classify some boundaries as transform faults, where adjacent sections of the crust move horizontally past one another rather than directly apart or together. ___, along one monitored fault, survey markers on opposite sides shifted several centimeters in opposing directions while remaining at nearly the same elevation.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Nevertheless",
+        "For example",
+        "Consequently",
+        "Afterward"
+      ],
+      "answer": 1,
+      "explanation": "The monitored fault illustrates the general description of horizontal movement at transform faults. “For example” introduces the specific instance.",
+      "optionExplanations": [
+        "The markers’ movement agrees with the transform-fault description rather than contradicting it.",
+        "This correctly introduces a specific observed instance of the general fault behavior.",
+        "The definition does not cause the markers to move; the observation illustrates it.",
+        "The text does not describe an event occurring after the act of classification."
+      ],
+      "lessonTip": "A general category followed by a concrete member of that category calls for an example transition."
+    },
+    {
+      "id": "e32",
+      "topic": "transitions-addition",
+      "difficulty": "Hard",
+      "passage": "The proposed archive would preserve radio broadcasts that are deteriorating on aging magnetic tape, protecting a source historians increasingly need. ___, its searchable transcripts would enable researchers to locate discussions of particular events without listening to hundreds of recordings, offering another practical reason to support the project.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Therefore",
+        "By contrast",
+        "Previously",
+        "Moreover"
+      ],
+      "answer": 3,
+      "explanation": "The transcript-search benefit is an additional reason to support the archive alongside preservation. “Moreover” adds this second benefit.",
+      "optionExplanations": [
+        "Searchable transcripts are an additional feature, not a necessary result of the tapes deteriorating.",
+        "Both details are benefits, so no opposing relationship is established.",
+        "The proposal’s features are not arranged as an earlier and later sequence.",
+        "This correctly adds a second practical reason for supporting the archive."
+      ],
+      "lessonTip": "When two facts independently support the same recommendation, an addition transition often fits."
+    },
+    {
+      "id": "e33",
+      "topic": "transitions-addition",
+      "difficulty": "Hard",
+      "passage": "In laboratory trials, the marine alga remained inactive until the water’s salinity exceeded a particular threshold; beyond that threshold, its cells began dividing. ___, the freshwater species tested by a second team initiated cell division only after the salt concentration reached a comparable minimum, despite occupying a different habitat.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Similarly",
+        "However",
+        "Consequently",
+        "Eventually"
+      ],
+      "answer": 0,
+      "explanation": "Both species begin dividing only above a salt-concentration threshold. “Similarly” connects the shared response despite different habitats.",
+      "optionExplanations": [
+        "This correctly identifies the same underlying threshold response in both species.",
+        "The habitats differ, but the cell-division responses being compared are alike.",
+        "The marine alga’s behavior is not said to cause the freshwater species’ behavior.",
+        "The passage compares species rather than describing a delayed outcome in one experiment."
+      ],
+      "lessonTip": "Compare the relevant behavior, even when background details differ."
+    },
+    {
+      "id": "e34",
+      "topic": "transitions-addition",
+      "difficulty": "Hard",
+      "passage": "The historian chose to study one narrow interval in the town’s long textile history rather than tracing its entire industrial development. ___, she examined wage books from the eighteen months immediately following the introduction of mechanical looms, using those records to track the transition’s earliest effects on workers.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Nevertheless",
+        "Previously",
+        "Specifically",
+        "Meanwhile"
+      ],
+      "answer": 2,
+      "explanation": "The eighteen-month interval precisely identifies the narrow period introduced in the first sentence. “Specifically” signals that clarification.",
+      "optionExplanations": [
+        "The selected wage books are consistent with the narrow focus, not an exception to it.",
+        "The selected interval clarifies the historian’s study focus; the text does not establish that this examination occurred before she chose the focus.",
+        "This correctly narrows the broad statement to the exact interval and source studied.",
+        "The text is explaining the study’s scope, not describing simultaneous historical activities."
+      ],
+      "lessonTip": "Specifically moves from a broad description to a more precise identification of it."
+    },
+    {
+      "id": "e35",
+      "topic": "transitions-addition",
+      "difficulty": "Hard",
+      "passage": "The unusual call recorded at the wetland was not merely an isolated variation produced by one bird. ___, seventeen of the twenty individuals monitored that season used the same call pattern repeatedly, showing that the behavior was widespread within the observed group rather than confined to a single singer.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Afterward",
+        "In fact",
+        "By contrast",
+        "In other words"
+      ],
+      "answer": 1,
+      "explanation": "The numerical finding strengthens the claim that the call was not isolated. “In fact” emphasizes how widespread it was.",
+      "optionExplanations": [
+        "The finding supports the preceding claim rather than specifying a later event.",
+        "This correctly strengthens the preceding claim with precise evidence.",
+        "The widespread pattern agrees with the statement that the call was not isolated.",
+        "The numerical evidence strengthens the non-isolation claim with new information rather than merely restating it in different words."
+      ],
+      "lessonTip": "An emphatic transition can strengthen a claim by showing that the evidence goes farther than the initial wording."
+    },
+    {
+      "id": "e36",
+      "topic": "transitions-addition",
+      "difficulty": "Hard",
+      "passage": "The redesigned science museum offers tactile models so that visitors can examine structures that are difficult to perceive through glass cases. ___, audio descriptions explain visual features in each gallery, extending the museum’s commitment to making its exhibits available through more than one sensory channel.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Furthermore",
+        "Therefore",
+        "Nevertheless",
+        "Subsequently"
+      ],
+      "answer": 0,
+      "explanation": "Audio descriptions add another accessibility feature supporting the same multisensory commitment as tactile models. “Furthermore” links the additional feature.",
+      "optionExplanations": [
+        "This correctly adds a second feature serving the same accessibility purpose.",
+        "The tactile models did not necessarily cause audio descriptions to be provided.",
+        "The audio descriptions complement rather than oppose the tactile models.",
+        "No order of installation or development is given."
+      ],
+      "lessonTip": "A shared purpose can connect different features through addition without making either feature cause the other."
+    },
+    {
+      "id": "e37",
+      "topic": "transitions-addition",
+      "difficulty": "Hard",
+      "passage": "Planetary atmospheres can retain traces of chemical processes occurring far below their visible cloud layers. ___, in one proposed model of an ice giant, reactions deep inside the planet generate compounds that rise through the atmosphere and could influence the spectrum measured by an orbiting instrument.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Instead",
+        "Meanwhile",
+        "Accordingly",
+        "For instance"
+      ],
+      "answer": 3,
+      "explanation": "The ice-giant model supplies a specific case of deep chemical processes affecting atmospheric evidence. “For instance” connects that case to the general claim.",
+      "optionExplanations": [
+        "The model illustrates the atmospheric traces rather than replacing them with an alternative.",
+        "The text does not connect two concurrent actions.",
+        "The model illustrates the possibility; it is not derived solely as a consequence of the general claim.",
+        "This correctly introduces a particular model exemplifying the general atmospheric principle."
+      ],
+      "lessonTip": "Examples may be proposed models or hypothetical cases, as long as they instantiate the general claim."
+    },
+    {
+      "id": "e38",
+      "topic": "transitions-addition",
+      "difficulty": "Hard",
+      "passage": "In her river poem, Varela shifts from a single speaker’s voice to a collective “we,” turning private grief into a communal response. ___, in her harbor poem, an initially solitary narrator becomes part of a speaking group, and the poem’s closing lines frame loss as a shared experience.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Consequently",
+        "By contrast",
+        "Likewise",
+        "Previously"
+      ],
+      "answer": 2,
+      "explanation": "Both poems shift from individual to collective voices and from private to shared experiences. “Likewise” marks that parallel structure.",
+      "optionExplanations": [
+        "The voice shift in one poem is not stated to cause the shift in the other.",
+        "The two poems show parallel developments rather than opposite ones.",
+        "This correctly links the comparable narrative shifts in the two poems.",
+        "No chronology of composition is stated."
+      ],
+      "lessonTip": "Look past different labels for the same pattern: solitary to collective, private to shared."
+    },
+    {
+      "id": "e39",
+      "topic": "transitions-addition",
+      "difficulty": "Hard",
+      "passage": "The research team restricted its analysis to a single feature of the trees’ response to drought, excluding growth rate, root depth, and changes in flowering. ___, the investigators measured how quickly leaf pores closed as soil moisture declined, a response that directly affects water loss through the leaves.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "However",
+        "Specifically",
+        "Similarly",
+        "Previously"
+      ],
+      "answer": 1,
+      "explanation": "The second sentence identifies the one feature under study after the first announces a restricted focus. “Specifically” introduces that precise identification.",
+      "optionExplanations": [
+        "Measuring pore closure is consistent with, rather than contrary to, restricting the analysis to one feature.",
+        "This correctly specifies the sole response included in the study.",
+        "The excluded growth, root, and flowering measures are not another comparable study of pore closure; the sentence identifies the sole chosen feature.",
+        "The measurements are not introduced as occurring earlier than the restriction."
+      ],
+      "lessonTip": "When the first sentence withholds the identity of a selected feature, the next may supply a specification."
+    },
+    {
+      "id": "e40",
+      "topic": "transitions-addition",
+      "difficulty": "Hard",
+      "passage": "The restored survey ledger contains more usable observations than researchers initially expected from such a damaged document. ___, careful imaging recovered readable measurements from nearly every page, including several that had been dismissed as permanently illegible, substantially enlarging the record available for reconstructing the coastline.",
+      "prompt": "Which choice completes the text with the most logical transition?",
+      "choices": [
+        "Indeed",
+        "Nevertheless",
+        "Earlier",
+        "Conversely"
+      ],
+      "answer": 0,
+      "explanation": "The recovery of nearly every page substantiates and strengthens the claim that the ledger yielded unexpectedly many observations. “Indeed” emphasizes the supporting detail.",
+      "optionExplanations": [
+        "This correctly reinforces the opening claim with the extent of the recovery.",
+        "The imaging success supports rather than challenges the claim of unexpectedly usable observations.",
+        "The passage gives supporting evidence, not a move to an earlier stage.",
+        "The recovery agrees with the opening claim instead of reversing it."
+      ],
+      "lessonTip": "Indeed often introduces evidence that confirms or strengthens the preceding statement."
+    },
+    {
+      "id": "e41",
+      "topic": "synthesis",
+      "difficulty": "Hard",
+      "passage": "- A team planned to survey river mussels in April.\n- April rainfall raised the river above safe wading levels.\n- The team moved the survey to July, when water levels were lower.\n- The July survey covered twelve sites.\n- Researchers identified six mussel species across the sites.\n___",
+      "prompt": "The student wants to explain why the team changed the timing of its survey. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "The survey identified six mussel species at twelve river sites in July.",
+        "Because April rainfall made wading unsafe, the team postponed its mussel survey until July, when the river was lower.",
+        "The team preferred July because mussels are easier to identify during that month.",
+        "A twelve-site mussel survey had originally been planned for April."
+      ],
+      "answer": 1,
+      "explanation": "The goal asks for the reason the schedule changed. The correct sentence connects unsafe April water levels to the safer July timing, using only information supplied in the notes.",
+      "optionExplanations": [
+        "This accurately reports results but does not explain the change in timing.",
+        "This states both the safety problem and the resulting postponement.",
+        "The notes do not say July improved species identification; they identify water safety as the reason.",
+        "This describes the original plan but leaves the reason for its alteration unstated."
+      ],
+      "lessonTip": "Select the notes that explain the requested decision rather than the notes reporting what eventually happened."
+    },
+    {
+      "id": "e42",
+      "topic": "synthesis",
+      "difficulty": "Hard",
+      "passage": "- Artist Mina Kess creates ceramic panels by applying pigments before firing.\n- Heat changes the pigments, producing colors she cannot precisely predict.\n- Artist Owen Dar makes photographs using chemicals that react to outdoor light.\n- Changing light produces patterns he cannot precisely predict.\n- Kess works in a kiln; Dar works outdoors.\n___",
+      "prompt": "The student wants to emphasize a similarity in how the two artists approach the predictability of their results. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "Kess fires ceramic panels in a kiln, whereas Dar makes photographs outdoors.",
+        "Kess’s pigments change with heat, producing colors on ceramic panels.",
+        "Dar uses outdoor light rather than a kiln to make his photographic patterns.",
+        "Both Kess and Dar use processes whose changing physical conditions produce results the artists cannot precisely predict."
+      ],
+      "answer": 3,
+      "explanation": "The correct sentence identifies the artists’ shared acceptance of unpredictable results and describes the common feature across their different processes.",
+      "optionExplanations": [
+        "This emphasizes a difference in working environments instead of the requested shared feature.",
+        "This accurately describes Kess but omits Dar and the comparison.",
+        "This highlights the different energy sources, not the artists’ shared approach to predictability.",
+        "This accurately synthesizes the unpredictability common to both methods."
+      ],
+      "lessonTip": "A goal about similarity requires a shared property, even when the notes contain prominent differences."
+    },
+    {
+      "id": "e43",
+      "topic": "synthesis",
+      "difficulty": "Hard",
+      "passage": "- The Luma Survey measured nighttime light at 240 urban sites.\n- Fixed meters recorded light every ten minutes for one year.\n- Previous studies of the same cities used single nighttime readings.\n- Repeated measurements revealed substantial seasonal variation.\n- The project’s data were released publicly after the survey ended.\n___",
+      "prompt": "The student wants to highlight how the Luma Survey’s measurement method differed from that of earlier studies. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "Unlike earlier studies based on a single nighttime reading, the Luma Survey repeatedly measured light at 240 urban sites for a year.",
+        "The publicly available Luma Survey data show that light levels varied seasonally.",
+        "The Luma Survey measured nighttime light at urban sites, as earlier studies had done.",
+        "The Luma Survey proved that single nighttime readings are never scientifically useful."
+      ],
+      "answer": 0,
+      "explanation": "The goal is a methodological difference. The correct sentence explicitly compares earlier single readings with the new survey’s repeated yearlong measurements.",
+      "optionExplanations": [
+        "This states both methods and the specific difference in sampling frequency and duration.",
+        "This gives a finding and release status, but does not compare methods.",
+        "This emphasizes the shared subject of study rather than the different measurement approach.",
+        "The notes establish a method difference and seasonal variation, not that single readings are never useful."
+      ],
+      "lessonTip": "For a methodological comparison, include what each study did, not merely the newer study’s finding."
+    },
+    {
+      "id": "e44",
+      "topic": "synthesis",
+      "difficulty": "Hard",
+      "passage": "- The Juniper Reserve installed 30 nesting boxes in 2021.\n- During the first spring, birds occupied 9 boxes.\n- During the third spring, birds occupied 24 boxes.\n- The total number of available boxes remained 30.\n- Rangers inspected the boxes monthly and removed them each winter for repairs.\n___",
+      "prompt": "The student wants to emphasize the increase in nesting-box occupancy using the percentage occupied in each spring. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "Rangers at the Juniper Reserve inspected nesting boxes monthly and repaired them each winter.",
+        "The Juniper Reserve installed 30 nesting boxes in 2021 to provide nesting locations.",
+        "Occupancy of the reserve’s 30 nesting boxes rose from 30 percent in the first spring to 80 percent in the third.",
+        "The reserve increased nesting-box occupancy by adding 15 new boxes between the first and third springs."
+      ],
+      "answer": 2,
+      "explanation": "Nine of thirty is 30 percent, and twenty-four of thirty is 80 percent. The correct sentence quantitatively highlights the occupancy increase while keeping the available box count constant.",
+      "optionExplanations": [
+        "This reports maintenance practices rather than the numerical change in occupancy.",
+        "This supplies the box count but no comparison between springs.",
+        "This correctly converts both counts to percentages and emphasizes the increase.",
+        "The notes state that availability remained at 30 boxes; no additional boxes were installed in this interval."
+      ],
+      "lessonTip": "Check arithmetic and denominators when a synthesis goal calls for a quantitative comparison."
+    },
+    {
+      "id": "e45",
+      "topic": "synthesis",
+      "difficulty": "Hard",
+      "passage": "- A museum owns a seventeenth-century mechanical clock.\n- The clock’s original gear teeth are worn and fragile.\n- Operating the clock could damage those teeth.\n- A working replica demonstrates the original clock’s mechanism.\n- The original is displayed motionless beside the replica.\n- Visitors can compare the objects’ appearance.\n___",
+      "prompt": "The student wants to explain why the museum demonstrates the clock’s mechanism with a replica instead of the original. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "The museum displays a seventeenth-century clock beside a working replica of similar appearance.",
+        "The museum uses a working replica to demonstrate the mechanism without risking damage to the original clock’s fragile gears.",
+        "The original clock is motionless because its mechanism was never designed to operate.",
+        "Visitors compare the appearance of an original clock and a replica at the museum."
+      ],
+      "answer": 1,
+      "explanation": "The correct sentence links the original’s vulnerability to the replica’s instructional purpose, explaining why demonstration uses the replica.",
+      "optionExplanations": [
+        "This states the display arrangement but omits the reason for operating the replica instead of the original.",
+        "This explains both the preservation concern and the replica’s role in demonstrating the mechanism.",
+        "The notes describe wear and damage risk, not an originally nonfunctional design.",
+        "This describes a visitor activity rather than the reason the replica operates."
+      ],
+      "lessonTip": "A reason-and-purpose goal needs the problem and the solution, not simply their shared location."
+    },
+    {
+      "id": "e46",
+      "topic": "synthesis",
+      "difficulty": "Hard",
+      "passage": "- Researcher Salma Voss studied community seed libraries.\n- Seed libraries allow gardeners to borrow seeds and return seeds from later harvests.\n- Voss surveyed 46 libraries in three regions.\n- Thirty-one libraries offered free seed-saving workshops.\n- The workshops taught gardeners how to collect and store viable seeds.\n___",
+      "prompt": "The student wants to introduce Voss’s research to readers unfamiliar with community seed libraries by explaining the practice she studied. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "Voss surveyed 46 community seed libraries in three regions, and 31 offered seed-saving workshops.",
+        "Seed-saving workshops teach gardeners to collect and store viable seeds.",
+        "Salma Voss studied community seed libraries, although not every surveyed library offered free workshops.",
+        "Community seed libraries let gardeners borrow seeds and return seeds from later harvests, a practice examined by researcher Salma Voss."
+      ],
+      "answer": 3,
+      "explanation": "The audience is unfamiliar with seed libraries, so the answer must define the practice while introducing Voss’s research. The correct sentence supplies that context rather than assuming readers know the term.",
+      "optionExplanations": [
+        "This introduces the survey but never explains what a seed library does.",
+        "This explains workshops, but does not define seed libraries or introduce the researcher’s study.",
+        "This introduces Voss and a limitation without explaining the unfamiliar practice.",
+        "This defines seed libraries and connects the practice to Voss’s research."
+      ],
+      "lessonTip": "Audience requirements determine which background information belongs in a synthesis answer."
+    },
+    {
+      "id": "e47",
+      "topic": "synthesis",
+      "difficulty": "Hard",
+      "passage": "- The Rill Bridge’s original deck used solid concrete slabs.\n- Engineers replaced the deck with concrete panels containing internal cavities.\n- The new deck weighs 22 percent less than the old deck.\n- Both decks meet the same required load capacity.\n- Construction crews installed the panels during a six-week closure.\n___",
+      "prompt": "The student wants to emphasize that the replacement deck reduced weight without changing the load-capacity requirement it met. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "The Rill Bridge’s replacement deck is 22 percent lighter than its original deck while meeting the same required load capacity.",
+        "The Rill Bridge closed for six weeks while crews installed concrete panels with internal cavities.",
+        "The original deck consisted of solid concrete slabs; the replacement deck also uses concrete.",
+        "The new deck’s internal cavities increased its required load capacity by 22 percent."
+      ],
+      "answer": 0,
+      "explanation": "The goal asks for a reduced-weight benefit alongside an unchanged requirement. The correct sentence includes both the 22 percent reduction and the equal load-capacity standard.",
+      "optionExplanations": [
+        "This directly states the lighter weight and the retained required capacity.",
+        "This describes the installation interval and structure but leaves out the requested performance comparison.",
+        "This emphasizes shared material instead of reduced weight and equal load capacity.",
+        "The 22 percent figure concerns weight reduction, not an increase in load capacity."
+      ],
+      "lessonTip": "Attach numerical evidence to the correct measured quantity, and retain qualifications about what stayed the same."
+    },
+    {
+      "id": "e48",
+      "topic": "synthesis",
+      "difficulty": "Hard",
+      "passage": "- Curator Ivo Chen organized the exhibition Lines in Motion.\n- The exhibition includes ink drawings made between 1930 and 1960.\n- Early drawings depict still architectural scenes with rigid lines.\n- Later drawings depict moving crowds with fluid lines.\n- Chen arranged the works by date so visitors could follow this development.\n___",
+      "prompt": "The student wants to explain how Chen’s arrangement helps visitors follow the drawings’ artistic development. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "Lines in Motion contains ink drawings made between 1930 and 1960 and was organized by Ivo Chen.",
+        "Chen’s exhibition includes architectural scenes and crowd scenes drawn in ink.",
+        "By arranging the drawings chronologically, Chen highlights a shift from rigid lines in still architectural scenes to fluid lines in moving crowds.",
+        "Chen placed drawings of moving crowds before earlier architectural scenes to emphasize a contrast in subjects."
+      ],
+      "answer": 2,
+      "explanation": "The correct sentence explains how chronological arrangement reveals the development in subjects and line style. It connects the curatorial choice to the change it helps viewers trace.",
+      "optionExplanations": [
+        "This introduces the exhibition and its dates but does not explain the arrangement’s purpose.",
+        "This identifies subjects but omits their development over time and the curatorial method.",
+        "This states the chronological method and the specific artistic shift it makes visible.",
+        "The notes say the works are arranged by date, not with later crowd drawings preceding earlier architecture."
+      ],
+      "lessonTip": "When the goal asks how an organizational choice serves a purpose, connect the choice to the resulting emphasis."
+    },
+    {
+      "id": "e49",
+      "topic": "synthesis",
+      "difficulty": "Hard",
+      "passage": "- A town is considering two systems for watering public gardens.\n- System A costs less to install than System B.\n- System A requires more water annually than System B.\n- The town has funding for either installation.\n- Its stated priority is minimizing annual water use.\n- Both systems irrigate the same garden area.\n___",
+      "prompt": "The student wants to recommend the system that best meets the town’s stated priority while addressing installation affordability. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "System A is preferable because its lower installation cost guarantees lower annual water use.",
+        "The town should choose System B because it uses less water annually, the town’s priority, and funding covers its installation.",
+        "Both systems can irrigate the same garden area, so they are equivalent under the town’s water-use priority.",
+        "System A costs less to install, whereas System B has a higher installation cost."
+      ],
+      "answer": 1,
+      "explanation": "The recommendation must follow the stated priority, not the cheapest installation. System B uses less water, and the notes remove installation funding as a barrier.",
+      "optionExplanations": [
+        "The notes explicitly state that A uses more water; lower installation cost does not imply lower water use.",
+        "This recommends the system that meets the water-use priority and acknowledges its affordable installation.",
+        "Equal irrigated area does not mean equal water use; the notes distinguish annual use.",
+        "This accurately compares costs but provides no recommendation based on annual water use."
+      ],
+      "lessonTip": "For a recommendation, rank choices by the stated criterion rather than by an unrelated advantage."
+    },
+    {
+      "id": "e50",
+      "topic": "synthesis",
+      "difficulty": "Hard",
+      "passage": "- Historian Amara Bell studied nineteenth-century canal shipping.\n- A company’s surviving ledgers record cargo weights and freight charges.\n- The ledgers do not record why merchants chose particular routes.\n- Bell used the ledgers to calculate changes in shipping volume.\n- She cautioned against using them alone to explain merchants’ motivations.\n___",
+      "prompt": "The student wants to explain Bell’s caution about using the ledgers to infer merchants’ motivations. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+      "choices": [
+        "Bell calculated shipping-volume changes from ledgers that recorded cargo weights and freight charges.",
+        "The company’s surviving ledgers concern nineteenth-century canal shipping and its merchants.",
+        "Bell found that merchants always chose the route with the lowest recorded freight charges.",
+        "Because the ledgers record cargo and charges but omit reasons for route choices, they cannot alone explain merchants’ motivations."
+      ],
+      "answer": 3,
+      "explanation": "The correct sentence identifies what the source contains and what it omits, then explains the precise limitation Bell noted.",
+      "optionExplanations": [
+        "This describes a successful use of the source, not its limitation for studying motivation.",
+        "This supplies background without explaining what the ledgers cannot establish.",
+        "The notes do not identify merchants’ motives and explicitly warn against inferring them from the ledgers alone.",
+        "This accurately connects the missing decision reasons to the evidentiary limitation."
+      ],
+      "lessonTip": "Explaining a source’s limitation requires stating the missing evidence and the conclusion it cannot independently support."
+    }
+  ]
+}

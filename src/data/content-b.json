@@ -1,0 +1,1297 @@
+{
+  "topics": [
+    {
+      "id": "nonessential",
+      "title": "Nonessential clauses & appositives",
+      "group": "Grammar & punctuation",
+      "summary": "Set off extra information without breaking the sentence's grammatical backbone.",
+      "rule": "A nonessential modifier adds information about an already identified noun. Use a comma before and after it when it interrupts a sentence, or one comma when it ends the sentence. The commas act as a pair: deleting the enclosed words and both commas should leave a complete, grammatical sentence. Appositives rename nouns; an appositive is nonessential when the original noun already identifies the person or thing. Clauses beginning with which are commonly nonessential on the SAT, but the modifier's role—not merely one word—determines punctuation. Do not insert an extra comma between a subject and its verb after the modifier has already been closed.",
+      "steps": [
+        "Find the main subject and verb, temporarily ignoring the modifier.",
+        "Ask whether the noun is already identified: a proper name, a unique object, or a phrase such as 'the only curator' usually is.",
+        "Identify the exact beginning and end of the extra information, including any words that belong inside it.",
+        "Match the opening and closing punctuation; a comma opening requires a comma closing.",
+        "Read the sentence after deleting the modifier to check that the remaining words connect cleanly."
+      ],
+      "examples": [
+        {
+          "incorrect": "Nadia Chen, the expedition's botanist identified the specimen.",
+          "correct": "Nadia Chen, the expedition's botanist, identified the specimen.",
+          "why": "The appositive adds information about an already named person and needs a closing comma before the verb."
+        },
+        {
+          "incorrect": "The only sample, recovered from the western ridge, was unusually dense, and, contained quartz.",
+          "correct": "The only sample, recovered from the western ridge, was unusually dense and contained quartz.",
+          "why": "The paired commas surround the optional modifier; no comma should divide the two verbs sharing the subject 'sample'."
+        },
+        {
+          "incorrect": "The archive's oldest map, which depicts the delta—has faded.",
+          "correct": "The archive's oldest map, which depicts the delta, has faded.",
+          "why": "A closing dash does not match the comma that opens the nonessential clause."
+        }
+      ],
+      "traps": [
+        "A long subject can feel like it needs a pause before its verb; length alone never licenses that comma.",
+        "A comma inside an appositive list does not replace the comma that closes the entire appositive.",
+        "An introductory modifier may already have its own comma; locate each comma's grammatical job.",
+        "Two matching dashes or parentheses can also set off extra information, but mixing an opening comma with a closing dash is incorrect."
+      ],
+      "takeaway": "Identify the sentence's backbone, then put matching punctuation around genuinely extra information."
+    },
+    {
+      "id": "essential",
+      "title": "Essential & restrictive modifiers",
+      "group": "Grammar & punctuation",
+      "summary": "Keep identifying information attached to the noun it restricts.",
+      "rule": "An essential modifier determines which member or members of a larger group the sentence means. Do not surround it with commas. A restrictive clause often starts with that, who, or whose. A name can also be essential: 'the novelist Mira Solis' distinguishes Mira from other novelists. Conversely, 'the club's only novelist, Mira Solis,' identifies the person before giving the name. Both restrictive and nonrestrictive clauses can be grammatically complete internally, so use the surrounding context to establish scope. Do not place a comma between the head of a noun phrase and an essential modifier or between that phrase and its main verb. An introductory phrase outside the noun phrase may still need its own comma.",
+      "steps": [
+        "Identify the noun being modified and the full modifier attached to it.",
+        "Use context to ask whether the sentence means all members or a specified subset.",
+        "Keep a subset-defining clause or phrase unpunctuated on both sides.",
+        "Distinguish a restrictive modifier from an introductory phrase or a nonessential interruption elsewhere in the sentence."
+      ],
+      "examples": [
+        {
+          "incorrect": "Only samples, that retain their original coating, can be dated with this method.",
+          "correct": "Only samples that retain their original coating can be dated with this method.",
+          "why": "The clause identifies the eligible subset; the method does not work on every sample."
+        },
+        {
+          "incorrect": "Among the group's three architects, the architect, Sora Kim, specializes in restoration.",
+          "correct": "Among the group's three architects, the architect Sora Kim specializes in restoration.",
+          "why": "The name identifies which of the three architects is meant, so it is essential. The introductory phrase still ends with a comma."
+        },
+        {
+          "incorrect": "The club's only architect Sora Kim specializes in restoration.",
+          "correct": "The club's only architect, Sora Kim, specializes in restoration.",
+          "why": "'Only architect' already identifies a unique person, making the name nonessential. This contrasts with the preceding example."
+        }
+      ],
+      "traps": [
+        "Do not assume all names need commas: their function depends on whether the preceding noun already identifies one person.",
+        "Who and whose can introduce essential clauses; these words do not automatically require commas.",
+        "A restrictive phrase can contain many words without needing punctuation at its boundaries.",
+        "Commas can change meaning from a subset to the entire group; use explicit context rather than your sense of a pause."
+      ],
+      "takeaway": "When a modifier tells the reader which ones, keep it joined to the noun without commas."
+    },
+    {
+      "id": "dashes",
+      "title": "Dashes & parentheses",
+      "group": "Grammar & punctuation",
+      "summary": "Use matched boundaries for interruptions, including interruptions that contain commas.",
+      "rule": "A pair of em dashes or a pair of parentheses can enclose a nonessential interruption. A dash opening must be matched with another dash; an opening parenthesis must be matched with a closing parenthesis. Internal commas belong to the interruption and do not close it. After removing the interruption and its boundaries, the main sentence must still work. A single dash can introduce an explanation, a restatement, or an emphatic ending after a complete clause; no closing dash is needed when the explanation reaches the end of the sentence. Parenthetical material inside a larger sentence normally leaves the sentence's final punctuation outside the closing parenthesis. In a parenthetical question within a statement, its question mark stays inside the parentheses, while the main sentence retains its own ending punctuation.",
+      "steps": [
+        "Find any existing opening dash or parenthesis before the blank.",
+        "Determine where the interruption ends and where the main sentence resumes.",
+        "Choose the matching closing mark, preserving any punctuation needed inside the interruption.",
+        "Delete the entire interruption to verify subject–verb and clause connections.",
+        "For a single final dash, check that it follows a complete clause and introduces a related explanation."
+      ],
+      "examples": [
+        {
+          "incorrect": "The instrument—a device tested in wind, rain, and snow, remained accurate.",
+          "correct": "The instrument—a device tested in wind, rain, and snow—remained accurate.",
+          "why": "The interruption begins with a dash; the list's internal commas cannot close that interruption."
+        },
+        {
+          "incorrect": "The survey (conducted during the dry season—revealed a new channel.",
+          "correct": "The survey (conducted during the dry season) revealed a new channel.",
+          "why": "The closing mark must match the opening parenthesis."
+        },
+        {
+          "incorrect": "The team reached one conclusion—the sensor had failed—.",
+          "correct": "The team reached one conclusion—the sensor had failed.",
+          "why": "A dash introducing a final explanation does not require a second dash at the sentence's end."
+        }
+      ],
+      "traps": [
+        "A dash inside a name or a hyphenated word does not count as a sentence-level opening dash.",
+        "Do not confuse list commas inside an interruption with punctuation that marks its boundaries.",
+        "An interruption can contain a complete clause; it still needs the closing boundary before the main sentence continues.",
+        "A closing dash does not automatically require an extra comma beside it."
+      ],
+      "takeaway": "Follow the boundaries: match the opening mark and keep the sentence outside the interruption grammatical."
+    },
+    {
+      "id": "apostrophes",
+      "title": "Possessives & contractions",
+      "group": "Grammar & punctuation",
+      "summary": "Distinguish ownership, plural number, and shortened verb forms.",
+      "rule": "Use apostrophe + s for a singular possessive (the student's notes) and for an irregular plural that does not end in s (the children's notes). For a regular plural ending in s, add only an apostrophe (the students' notes). Ordinary plurals take no apostrophe. When two people jointly possess one thing, mark possession on the final name (Lena and Omar's shared studio); when they possess separate things, mark each name (Lena's and Omar's studios). Possessive pronouns—its, theirs, whose, yours—take no apostrophe. It's means 'it is' or 'it has'; they're means 'they are'; who's means 'who is' or 'who has'. Check contractions by expanding them in the sentence. A plural attributive noun, such as 'materials science', is not automatically possessive: ask whether ownership is actually expressed.",
+      "steps": [
+        "Identify the owner and determine whether it is singular, a regular plural, or an irregular plural.",
+        "Identify the thing possessed; its number does not determine the owner's apostrophe placement.",
+        "For pronouns, expand any proposed contraction and test whether that expansion fits.",
+        "For coordinated names, determine whether ownership is joint or separate.",
+        "Exclude apostrophes from ordinary plural nouns."
+      ],
+      "examples": [
+        {
+          "incorrect": "The three researchers's notebooks document the experiment.",
+          "correct": "The three researchers' notebooks document the experiment.",
+          "why": "Researchers is a regular plural ending in s, so its possessive adds only an apostrophe."
+        },
+        {
+          "incorrect": "The childrens' museum updated it's exhibit.",
+          "correct": "The children's museum updated its exhibit.",
+          "why": "Children is an irregular plural, so it takes apostrophe + s. Its is a possessive pronoun, not the contraction 'it is'."
+        },
+        {
+          "incorrect": "Mira's and Paul's jointly owned telescope was repaired.",
+          "correct": "Mira and Paul's jointly owned telescope was repaired.",
+          "why": "The sentence specifies one jointly owned telescope, so the ownership marker attaches to the final name."
+        }
+      ],
+      "traps": [
+        "The number of possessed objects does not determine whether the owner is singular or plural.",
+        "An apostrophe before s and an apostrophe after s express different owner numbers.",
+        "Whose is possessive; who's must expand to who is or who has.",
+        "A singular collective noun, such as team or committee, uses a singular possessive even when its members are numerous.",
+        "Its' is never a standard possessive form."
+      ],
+      "takeaway": "Identify the owner first; expand contractions instead of guessing from the sound."
+    },
+    {
+      "id": "agreement",
+      "title": "Subject–verb agreement",
+      "group": "Grammar & punctuation",
+      "summary": "Match the verb to its true subject, even when word order and intervening nouns are distracting.",
+      "rule": "A present-tense verb agrees with the grammatical subject, not the nearest noun. Singular subjects usually take verbs ending in s; plural subjects usually do not. Ignore intervening prepositional phrases and nonessential clauses when finding the subject. In an inverted sentence such as 'On the ridge stand two towers', the subject comes after the verb. Two subjects joined by and normally take a plural verb, but a single named item or unified concept may be singular. With either/or and neither/nor, the verb normally agrees with the nearer subject. Each, every, everyone, and neither used alone are singular. With expressions such as a number of versus the number of, a number of usually means several and takes a plural verb; the number itself is singular. In relative clauses, who or that agrees with its antecedent. A singular collective noun describing a group acting as a unit takes singular agreement in Standard American English; fractions and proportions agree according to what is being measured.",
+      "steps": [
+        "Locate the verb slot and ask who or what performs or experiences that verb.",
+        "Remove intervening phrases mentally; do not let a nearby plural noun replace the head subject.",
+        "If the sentence begins with a location or there, look after the verb for the real subject.",
+        "Apply special rules for each, coordinated subjects, relative clauses, and quantities.",
+        "Keep tense and aspect consistent with the surrounding context as well as matching number."
+      ],
+      "examples": [
+        {
+          "incorrect": "The arrangement of the two antennas reduce interference.",
+          "correct": "The arrangement of the two antennas reduces interference.",
+          "why": "Arrangement is the singular subject; antennas belongs to a prepositional phrase."
+        },
+        {
+          "incorrect": "Beyond the floodplain lies three abandoned canals.",
+          "correct": "Beyond the floodplain lie three abandoned canals.",
+          "why": "The inverted subject is the plural phrase 'three abandoned canals'."
+        },
+        {
+          "incorrect": "The number of migratory birds have increased.",
+          "correct": "The number of migratory birds has increased.",
+          "why": "The subject is the singular 'number'. By contrast, 'A number of birds have returned' means several birds and uses a plural verb."
+        }
+      ],
+      "traps": [
+        "A phrase beginning with of, along with, or together with does not change the head subject's number.",
+        "Neither used alone is singular, but neither X nor Y follows the nearer-subject rule.",
+        "In 'one of the researchers who study ice', who usually refers to the plural researchers; in 'the only one who studies ice', it refers to one.",
+        "There is or there are must agree with the actual subject that follows.",
+        "A percentage of water is singular, whereas a percentage of samples is plural."
+      ],
+      "takeaway": "Find the actual subject before choosing the verb; proximity is a distraction, not an agreement rule."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b01",
+      "topic": "nonessential",
+      "difficulty": "Hard",
+      "passage": "The mineral stibnite can resemble a manufactured metal, although it forms naturally in low-temperature veins. Stibnite, whose slender crystals may branch into clusters of metallic ___ often grows alongside quartz rather than occurring as an isolated deposit. This association helps geologists reconstruct conditions in the original hydrothermal system.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "needles,",
+        "needles;",
+        "needles:",
+        "needles"
+      ],
+      "answer": 0,
+      "explanation": "The clause beginning 'whose' adds information about the already named mineral. The comma after 'Stibnite' opens it, so a comma after 'needles' must close it before the main verb 'grows'.",
+      "optionExplanations": [
+        "Correct: this comma closes the nonessential whose-clause.",
+        "A semicolon cannot close a clause that began as a comma-delimited modifier.",
+        "A colon cannot close this nonessential clause or separate the subject from its verb.",
+        "Without the closing comma, the nonessential clause has only one boundary."
+      ],
+      "lessonTip": "Remove the whose-clause: 'Stibnite often grows alongside quartz.'"
+    },
+    {
+      "id": "b02",
+      "topic": "nonessential",
+      "difficulty": "Hard",
+      "passage": "To investigate how desert plants conserve water, a field station compared leaf temperatures across several species. Amara Ndlovu ___ coordinated the measurements with a team studying underground fungal networks. Combining those datasets revealed that some plants' apparent heat tolerance depended partly on organisms living beyond the reach of ordinary cameras.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        ", a plant physiologist",
+        ", a plant physiologist,",
+        "a plant physiologist,",
+        "; a plant physiologist;"
+      ],
+      "answer": 1,
+      "explanation": "The name Amara Ndlovu already identifies the person, so 'a plant physiologist' is a nonessential appositive. It must have a comma before and after it, leaving the main clause 'Amara Ndlovu coordinated the measurements'.",
+      "optionExplanations": [
+        "This opens the appositive but fails to close it before 'coordinated'.",
+        "Correct: paired commas enclose the nonessential appositive.",
+        "This provides a closing comma without the required opening comma.",
+        "Semicolons cannot bracket an appositive or separate a subject from its verb."
+      ],
+      "lessonTip": "A name already identifies its bearer; an inserted professional description usually adds nonessential information."
+    },
+    {
+      "id": "b03",
+      "topic": "nonessential",
+      "difficulty": "Hard",
+      "passage": "Only one geochemist joined the glacier expedition, although several biologists participated. The expedition's sole geochemist ___ used isotope ratios to distinguish airborne dust from rock fragments eroded beneath the ice. Her results challenged an earlier estimate of how much exposed bedrock had contributed to the glacier's dark surface.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "Leah Moreno,",
+        ", Leah Moreno",
+        ", Leah Moreno,",
+        "Leah Moreno"
+      ],
+      "answer": 2,
+      "explanation": "'The expedition's sole geochemist' already identifies one person. Her name is therefore a nonessential appositive and must have a comma on each side when the sentence continues.",
+      "optionExplanations": [
+        "This closes the appositive without providing an opening comma.",
+        "This opens the appositive but does not close it before 'used'.",
+        "Correct: paired commas set off a name that adds information about an already unique person.",
+        "Without commas, the name is treated as essential even though 'sole geochemist' has already identified the person."
+      ],
+      "lessonTip": "Words such as 'sole' and 'only' often make a following name nonessential."
+    },
+    {
+      "id": "b04",
+      "topic": "nonessential",
+      "difficulty": "Hard",
+      "passage": "In a study of illuminated manuscripts, conservators distinguished fading caused by light from fading caused by moisture. The volume from Saint Arlen's library, unlike the other volumes in the comparison ___ had been stored in a sealed chest. Its unexpectedly bright pigments therefore supplied a useful control for the researchers' analysis.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "group;",
+        "group:",
+        "group",
+        "group,"
+      ],
+      "answer": 3,
+      "explanation": "'Unlike the other volumes in the comparison group' is an interruption between the subject 'volume' and the verb 'had been stored'. The existing comma opens it; the comma after 'group' closes it.",
+      "optionExplanations": [
+        "A semicolon does not match the opening comma and cannot separate this subject from its verb.",
+        "A colon cannot close this inserted comparison.",
+        "The opening comma requires a closing comma before the main verb resumes.",
+        "Correct: this comma closes the nonessential comparison."
+      ],
+      "lessonTip": "Delete the interruption to expose 'The volume ... had been stored'."
+    },
+    {
+      "id": "b05",
+      "topic": "nonessential",
+      "difficulty": "Hard",
+      "passage": "A museum recently digitized its single surviving notebook from an early marine expedition. The notebook, which includes sketches of shells, tides, and coastal ___ allows historians to compare the expedition's observations with modern measurements. The lists are unusually precise, even though the ship carried relatively simple surveying equipment.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "vegetation,",
+        "vegetation",
+        "vegetation;",
+        "vegetation:"
+      ],
+      "answer": 0,
+      "explanation": "The commas after 'shells' and 'tides' organize a list inside the which-clause. A separate comma after 'vegetation' is still needed to close that entire nonessential clause before 'allows'.",
+      "optionExplanations": [
+        "Correct: the comma closes the which-clause after its internal list.",
+        "Internal list commas do not provide the missing closing boundary.",
+        "A semicolon cannot close a nonessential which-clause.",
+        "A colon would separate the subject 'notebook' from its verb 'allows'."
+      ],
+      "lessonTip": "A modifier's internal list punctuation is different from its outer boundaries."
+    },
+    {
+      "id": "b06",
+      "topic": "nonessential",
+      "difficulty": "Hard",
+      "passage": "Engineers evaluated a bridge by modeling how its deck responds to gusts from different directions. The computational model, developed jointly by the city's transport office and a university ___ predicted a subtle twisting motion that simpler calculations had missed. Sensors installed afterward confirmed the motion at wind speeds well below the bridge's design limit.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "laboratory",
+        "laboratory,",
+        "laboratory:",
+        "laboratory;"
+      ],
+      "answer": 1,
+      "explanation": "The participial phrase beginning 'developed' supplies extra information about the model. Because a comma opens this phrase after 'model', another comma must close it after 'laboratory'.",
+      "optionExplanations": [
+        "This leaves the nonessential participial phrase unclosed.",
+        "Correct: the comma closes the inserted phrase before the main verb 'predicted'.",
+        "A colon cannot connect this interrupted subject to its verb.",
+        "A semicolon would split a subject from its main verb."
+      ],
+      "lessonTip": "A nonessential interruption need not begin with who or which; participial phrases also take paired boundaries."
+    },
+    {
+      "id": "b07",
+      "topic": "nonessential",
+      "difficulty": "Hard",
+      "passage": "A coastal city's oldest lighthouse no longer guides commercial ships, but it remains a landmark for small fishing boats. The lighthouse, now surrounded by restaurants and restored warehouses ___ houses an exhibition about navigation before satellite positioning. Visitors can compare hand-drawn charts with instruments once used to estimate a vessel's latitude.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "on the waterfront",
+        "on the waterfront;",
+        "on the waterfront,",
+        "on the waterfront:"
+      ],
+      "answer": 2,
+      "explanation": "The phrase 'now surrounded ... on the waterfront' interrupts the subject–verb connection. The opening comma after 'lighthouse' needs a matching closing comma before 'houses'.",
+      "optionExplanations": [
+        "This omits the closing comma required by the opening comma.",
+        "A semicolon cannot separate the subject from 'houses'.",
+        "Correct: this closes the nonessential phrase and allows the main clause to resume.",
+        "A colon cannot serve as the closing boundary for a comma-delimited interruption."
+      ],
+      "lessonTip": "After removing the extra description, the sentence should read 'The lighthouse houses an exhibition'."
+    },
+    {
+      "id": "b08",
+      "topic": "nonessential",
+      "difficulty": "Hard",
+      "passage": "The research team identified one treatment that consistently prevented seeds from germinating too early. That treatment, a brief exposure to alternating warm and cold periods, ___ the fluctuating conditions seeds experience near the soil's surface. Its effect suggests that the seeds respond to a temperature pattern rather than to a single threshold.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "; mimics",
+        ": mimics",
+        ", mimics",
+        "mimics"
+      ],
+      "answer": 3,
+      "explanation": "The appositive already has both its opening and closing commas. After the closing comma, the main verb 'mimics' follows directly; another comma, colon, or semicolon would improperly separate the subject 'That treatment' from its verb.",
+      "optionExplanations": [
+        "A semicolon cannot separate the main subject from its verb.",
+        "A colon cannot divide the subject from its predicate.",
+        "The appositive's closing comma is already present; adding another comma is incorrect.",
+        "Correct: the main verb follows the existing closing comma without extra punctuation."
+      ],
+      "lessonTip": "Once an appositive is closed, do not add another punctuation mark between the subject and its verb."
+    },
+    {
+      "id": "b09",
+      "topic": "nonessential",
+      "difficulty": "Hard",
+      "passage": "After reconstructing an ancient kiln, archaeologists tested whether its unusual roof could maintain a uniform temperature. The replica, whose roof openings could be adjusted without extinguishing the ___ produced less variation than a conventional kiln of similar size. The experiment provided a possible explanation for the remarkably consistent color of the original pottery.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "fire,",
+        "fire;",
+        "fire:",
+        "fire"
+      ],
+      "answer": 0,
+      "explanation": "The relative clause beginning 'whose' adds information about the already identified replica. Its opening comma must be paired with a comma after 'fire', before the main verb 'produced'.",
+      "optionExplanations": [
+        "Correct: the comma closes the entire whose-clause.",
+        "A semicolon cannot replace the closing comma of this interruption.",
+        "A colon cannot separate the interrupted subject from its verb.",
+        "Without a closing comma, the nonessential clause remains unbounded."
+      ],
+      "lessonTip": "Follow the relative clause to its actual end, even if it contains several verbs."
+    },
+    {
+      "id": "b10",
+      "topic": "nonessential",
+      "difficulty": "Hard",
+      "passage": "The new catalog identifies the archive's only surviving wax-cylinder recording. The recording, made during a public lecture rather than in a ___ preserves both the speaker's remarks and occasional comments from the audience. These interruptions offer historians evidence of how listeners responded to ideas that a printed transcript presents without any reaction.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "studio:",
+        "studio,",
+        "studio;",
+        "studio"
+      ],
+      "answer": 1,
+      "explanation": "The phrase beginning 'made during' is extra information about the identified recording. A comma opens it, and a comma after 'studio' closes it before the main verb 'preserves'.",
+      "optionExplanations": [
+        "A colon cannot close a participial interruption introduced with a comma.",
+        "Correct: this matches the opening comma and preserves the subject–verb connection.",
+        "A semicolon would divide the subject from the verb rather than close the modifier.",
+        "This fails to close the nonessential modifier."
+      ],
+      "lessonTip": "The words 'rather than' can remain inside a modifier; do not close it until the whole comparison ends."
+    },
+    {
+      "id": "b11",
+      "topic": "essential",
+      "difficulty": "Hard",
+      "passage": "The laboratory stores both coated and uncoated glass slides, but its imaging technique works only with the coated ones. Slides ___ produce sufficiently sharp images for the study. The coating reduces reflections that would otherwise obscure the smallest mineral grains, allowing the researchers to compare particles across multiple rock samples.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        ", that retain their antireflective coating,",
+        "that retain their antireflective coating,",
+        "that retain their antireflective coating",
+        ", that retain their antireflective coating"
+      ],
+      "answer": 2,
+      "explanation": "The clause identifies the subset of slides that can produce usable images. Because uncoated slides cannot do so, the modifier is essential and takes no commas on either side.",
+      "optionExplanations": [
+        "Paired commas incorrectly treat the subset-defining clause as nonessential.",
+        "The comma improperly separates the full subject phrase from 'produce'.",
+        "Correct: the restrictive clause stays attached to 'Slides' without commas.",
+        "The opening comma wrongly detaches the identifying clause and has no closing boundary."
+      ],
+      "lessonTip": "Use the explicit contrast between eligible and ineligible items to identify a restrictive clause."
+    },
+    {
+      "id": "b12",
+      "topic": "essential",
+      "difficulty": "Hard",
+      "passage": "A city archive employs three historians, each specializing in a different period. The historian ___ is preparing a catalog of household inventories from the seventeenth century. Her two colleagues are cataloging industrial records and oral histories, so the inventories will be the first part of the collection arranged by a specialist in early modern life.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        ", Clara Ivers,",
+        "Clara Ivers,",
+        ", Clara Ivers",
+        "Clara Ivers"
+      ],
+      "answer": 3,
+      "explanation": "Because the archive has three historians, the name identifies which historian the sentence means. The name is an essential appositive and should not be set off with commas.",
+      "optionExplanations": [
+        "Paired commas would imply that 'the historian' already identified a unique person.",
+        "A comma after the name improperly divides the subject from 'is preparing'.",
+        "The opening comma treats the identifying name as a nonessential interruption and lacks a closing boundary.",
+        "Correct: the name remains attached to the noun it identifies."
+      ],
+      "lessonTip": "A job title followed by a name usually needs no commas when the title does not identify a unique individual."
+    },
+    {
+      "id": "b13",
+      "topic": "essential",
+      "difficulty": "Hard",
+      "passage": "The tidal survey recorded both channels that remain underwater and channels exposed at low tide. Only the channels ___ were accessible to the mapping team without diving equipment. Consequently, the resulting map documents a subset of the inlet's pathways rather than a complete network, a limitation the researchers explicitly acknowledge in their report.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "that become exposed at low tide",
+        ", that become exposed at low tide,",
+        "that become exposed at low tide,",
+        ", that become exposed at low tide"
+      ],
+      "answer": 0,
+      "explanation": "The clause identifies the accessible subset of channels. It is essential to the meaning of 'Only the channels' and therefore must have no surrounding commas.",
+      "optionExplanations": [
+        "Correct: the restrictive clause identifies the particular channels and remains unpunctuated.",
+        "The commas wrongly make the subset-defining clause nonessential.",
+        "This comma separates the full subject from its verb 'were'.",
+        "An opening comma is inappropriate for the restrictive clause and remains unmatched."
+      ],
+      "lessonTip": "Only often signals that a following modifier narrows a larger group."
+    },
+    {
+      "id": "b14",
+      "topic": "essential",
+      "difficulty": "Hard",
+      "passage": "Not every participant in the excavation handled fragile artifacts. Researchers ___ received additional conservation training before entering the storage room. Other team members worked exclusively with field measurements, so the training requirement applied to a defined group rather than to everyone conducting research at the site.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        ", whose duties included handling painted fragments,",
+        "whose duties included handling painted fragments",
+        "whose duties included handling painted fragments,",
+        ", whose duties included handling painted fragments"
+      ],
+      "answer": 1,
+      "explanation": "The whose-clause defines which researchers received training. It is restrictive, even though it begins with 'whose', and no comma should detach it from 'Researchers' or separate the full subject from 'received'.",
+      "optionExplanations": [
+        "The commas incorrectly imply the clause merely adds information about all the researchers.",
+        "Correct: the defining whose-clause takes no boundary commas.",
+        "The comma incorrectly divides the subject from the verb.",
+        "This detaches an essential modifier and leaves an unmatched comma."
+      ],
+      "lessonTip": "Whose can introduce a restrictive clause; determine its function from context."
+    },
+    {
+      "id": "b15",
+      "topic": "essential",
+      "difficulty": "Hard",
+      "passage": "The museum owns several maps of the same island, but only two depict its northern harbor before dredging began. The maps ___ are especially useful for reconstructing the harbor's original shoreline. Later maps omit the shallow marshes that the construction project removed, leaving modern researchers with an incomplete record of the earlier landscape.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        ", showing the harbor before dredging,",
+        "showing the harbor before dredging,",
+        "showing the harbor before dredging",
+        ", showing the harbor before dredging"
+      ],
+      "answer": 2,
+      "explanation": "The participial phrase singles out two maps from a larger collection. As an essential modifier, it should remain directly attached to 'maps' with no commas before or after it.",
+      "optionExplanations": [
+        "The paired commas would apply the extra description to the maps as a whole.",
+        "This comma improperly separates the subject phrase from 'are'.",
+        "Correct: the identifying participial phrase has no boundary commas.",
+        "This opening comma incorrectly makes the defining phrase nonessential and remains unpaired."
+      ],
+      "lessonTip": "Participial phrases can be essential too; restriction is not limited to full relative clauses."
+    },
+    {
+      "id": "b16",
+      "topic": "essential",
+      "difficulty": "Hard",
+      "passage": "A poetry seminar compares works by four writers whose approaches to meter differ substantially. The poet ___ frequently places an unstressed syllable where a conventional reading would predict a stress. Students examine recordings of her performances to determine whether those substitutions reflect her intended rhythm or merely result from how the printed lines are divided.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        ", Jun Park,",
+        "Jun Park,",
+        ", Jun Park",
+        "Jun Park"
+      ],
+      "answer": 3,
+      "explanation": "The seminar includes four poets, so the name identifies which one is being discussed. It is an essential appositive; no commas should set it off or separate the subject from 'frequently places'.",
+      "optionExplanations": [
+        "The commas treat the name as optional even though the title alone does not identify one of the four writers.",
+        "This comma breaks the connection between subject and predicate.",
+        "This introduces an unmatched nonessential boundary around an essential name.",
+        "Correct: the name restricts the title to a particular poet."
+      ],
+      "lessonTip": "Ask whether the title alone identifies the person before punctuating a following name."
+    },
+    {
+      "id": "b17",
+      "topic": "essential",
+      "difficulty": "Hard",
+      "passage": "The observatory receives images from several telescopes, some of which use outdated tracking systems. Images ___ can be combined without introducing artificial trails around faint stars. The processing team discards the remaining images because their alignment errors would distort the estimated brightness of distant objects, even after routine calibration.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "that were captured with stable tracking",
+        ", that were captured with stable tracking,",
+        "that were captured with stable tracking,",
+        ", that were captured with stable tracking"
+      ],
+      "answer": 0,
+      "explanation": "The that-clause separates usable images from unusable ones. This essential restriction takes no commas, and the complete subject connects directly to 'can be combined'.",
+      "optionExplanations": [
+        "Correct: the defining clause remains attached without boundary punctuation.",
+        "The commas wrongly characterize the usable-image restriction as extra information.",
+        "The comma wrongly separates the entire subject from its predicate.",
+        "This comma detaches the identifying clause and remains unmatched."
+      ],
+      "lessonTip": "A contrast with 'the remaining' items strongly indicates that the modifier defines a subset."
+    },
+    {
+      "id": "b18",
+      "topic": "essential",
+      "difficulty": "Hard",
+      "passage": "Some of the wetland's plants tolerate saltwater, whereas others survive only in fresher pools. Plants ___ continue growing after unusually high tides carry seawater inland. By comparing these plants with neighboring species, botanists hope to identify cellular mechanisms that could make cultivated crops less vulnerable to periodic salt exposure.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        ", capable of removing excess salt,",
+        "capable of removing excess salt",
+        "capable of removing excess salt,",
+        ", capable of removing excess salt"
+      ],
+      "answer": 1,
+      "explanation": "The adjective phrase identifies the salt-tolerant subset of plants. It is essential because the paragraph explicitly distinguishes these plants from others. No commas should bracket it or separate the complete subject from 'continue'.",
+      "optionExplanations": [
+        "The paired commas imply that the phrase is extra information about plants generally.",
+        "Correct: the restrictive adjective phrase remains attached to 'Plants'.",
+        "The comma would divide the subject from its verb.",
+        "This improperly starts a nonessential interruption and does not close it."
+      ],
+      "lessonTip": "An identifying adjective phrase can be restrictive even without who, which, or that."
+    },
+    {
+      "id": "b19",
+      "topic": "essential",
+      "difficulty": "Hard",
+      "passage": "A restoration team examined both repaired and unrepaired sections of a mosaic. Sections ___ supplied the best evidence of the artist's original color choices. The repaired sections contained pigments introduced centuries later, so treating every section as equally informative would have blurred the distinction between the original design and subsequent restoration decisions.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        ", that had escaped later repairs,",
+        "that had escaped later repairs,",
+        "that had escaped later repairs",
+        ", that had escaped later repairs"
+      ],
+      "answer": 2,
+      "explanation": "The clause restricts 'Sections' to the unrepaired portions of the mosaic. Its identifying role requires no commas; a closing comma alone would also split the subject from 'supplied'.",
+      "optionExplanations": [
+        "These commas incorrectly treat the identifying restriction as nonessential.",
+        "This comma separates the full subject phrase from 'supplied'.",
+        "Correct: the clause identifies the relevant subset and stays unpunctuated.",
+        "The opening comma wrongly detaches the essential clause and lacks a closing partner."
+      ],
+      "lessonTip": "Preserve the distinction between an entire collection and the specific items that satisfy a condition."
+    },
+    {
+      "id": "b20",
+      "topic": "essential",
+      "difficulty": "Hard",
+      "passage": "Two technicians maintain the laboratory's imaging equipment, but they have different responsibilities. The technician ___ specializes in repairing electron microscopes, while the other maintains optical instruments. When a detector failed during a lengthy experiment, the research group contacted the electron-microscope specialist rather than interrupting the technician responsible for the optical systems.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        ", Rafael Ortiz,",
+        "Rafael Ortiz,",
+        ", Rafael Ortiz",
+        "Rafael Ortiz"
+      ],
+      "answer": 3,
+      "explanation": "The laboratory has two technicians, so 'the technician' does not identify one person on its own. The name is essential to identifying the subject and takes no commas.",
+      "optionExplanations": [
+        "Paired commas incorrectly present the name as information about an already identified person.",
+        "The comma wrongly separates the subject from 'specializes'.",
+        "An opening comma detaches the identifying name and lacks a matching closing comma.",
+        "Correct: the essential name remains directly attached to 'technician'."
+      ],
+      "lessonTip": "A name is restrictive when it selects one person from multiple people with the same role."
+    },
+    {
+      "id": "b21",
+      "topic": "dashes",
+      "difficulty": "Hard",
+      "passage": "To reconstruct the city's early water system, historians compared surviving invoices with an engineer's notebook. The notebook—a document listing pipe lengths, valve locations, and maintenance ___ revealed that the network had expanded gradually rather than according to a single comprehensive plan. Several later street boundaries followed the irregular paths of those original pipes.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "costs—",
+        "costs,",
+        "costs:",
+        "costs;"
+      ],
+      "answer": 0,
+      "explanation": "The dash after 'notebook' begins an interruption. A second dash after 'costs' closes it before the main verb 'revealed'; the commas within the list cannot substitute for that boundary.",
+      "optionExplanations": [
+        "Correct: the closing dash matches the opening dash and encloses the full appositive.",
+        "A comma cannot match an opening dash.",
+        "A colon cannot close the dash-delimited interruption.",
+        "A semicolon cannot close the interruption or separate 'notebook' from 'revealed'."
+      ],
+      "lessonTip": "Internal list commas do not change the punctuation required at an interruption's boundaries."
+    },
+    {
+      "id": "b22",
+      "topic": "dashes",
+      "difficulty": "Hard",
+      "passage": "Researchers used miniature microphones to track the courtship calls of an insect that sings among dense grasses. The microphones (each smaller than a grain of ___ captured vibrations that ordinary field recordings missed. This finer resolution allowed the team to distinguish overlapping calls from neighboring insects and estimate how often their signals competed.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "rice—",
+        "rice)",
+        "rice,",
+        "rice;"
+      ],
+      "answer": 1,
+      "explanation": "The description begins with an opening parenthesis after 'microphones'. It must end with a closing parenthesis after 'rice' before the sentence returns to the main verb 'captured'.",
+      "optionExplanations": [
+        "A dash cannot close an opening parenthesis.",
+        "Correct: this closes the parenthetical description with its matching mark.",
+        "A comma does not close the opening parenthesis.",
+        "A semicolon cannot close a parenthesis or separate the subject from 'captured'."
+      ],
+      "lessonTip": "Locate the opening boundary before choosing a closing punctuation mark."
+    },
+    {
+      "id": "b23",
+      "topic": "dashes",
+      "difficulty": "Hard",
+      "passage": "A paleontologist tested whether a fossil's flattened shape resulted from compression after burial. The reconstructed skeleton flexed enough to match the fossil's outline without changing the animal's estimated size ___ evidence that the apparent deformity could reflect pressure rather than a distinctive anatomy. Earlier models had assumed that the rib joints could not move.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        ";",
+        ".",
+        "—",
+        ", and"
+      ],
+      "answer": 2,
+      "explanation": "The words after the blank form a noun phrase, 'evidence that ...', explaining the significance of the preceding complete clause. A single dash can introduce this final explanatory phrase. A semicolon or period would leave that phrase as a fragment; 'and' would attempt to coordinate a noun phrase with a complete clause.",
+      "optionExplanations": [
+        "A semicolon needs an independent clause after it, but 'evidence that ...' has no main verb.",
+        "A period would leave 'evidence that ...' as a sentence fragment.",
+        "Correct: a single dash introduces the explanatory noun phrase after the complete clause.",
+        "And cannot coordinate the complete preceding clause with this fragmentary noun phrase."
+      ],
+      "lessonTip": "A single dash can introduce a final explanation; it does not always mark a paired interruption."
+    },
+    {
+      "id": "b24",
+      "topic": "dashes",
+      "difficulty": "Hard",
+      "passage": "The new edition of a travel diary includes annotations on the author's changing terminology. The editor (who compared the manuscript with letters written during the same ___ argues that several apparently geographical names actually refer to political alliances. This interpretation explains why the diary sometimes applies the same name to widely separated settlements.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "journey,",
+        "journey—",
+        "journey;",
+        "journey)"
+      ],
+      "answer": 3,
+      "explanation": "The opening parenthesis before 'who' begins a parenthetical relative clause. The closing parenthesis after 'journey' must precede the main verb 'argues'.",
+      "optionExplanations": [
+        "A comma cannot close the existing opening parenthesis.",
+        "A dash does not match an opening parenthesis.",
+        "A semicolon cannot close the parenthesis or divide the subject from its main predicate.",
+        "Correct: the closing parenthesis ends the whole parenthetical relative clause."
+      ],
+      "lessonTip": "The words inside parentheses can form a clause; their boundaries still must match."
+    },
+    {
+      "id": "b25",
+      "topic": "dashes",
+      "difficulty": "Hard",
+      "passage": "In an experiment on thermal insulation, engineers compared bricks containing several kinds of hollow channels. One design—a brick with channels arranged in concentric ___ retained heat longer than designs with parallel channels. Computer simulations suggested that the curved arrangement interrupted the direct pathways through which heat normally escaped from the brick's warm interior.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "rings—",
+        "rings,",
+        "rings;",
+        "rings:"
+      ],
+      "answer": 0,
+      "explanation": "The appositive begins with a dash after 'design' and must end with a matching dash after 'rings'. Removing it leaves 'One design retained heat longer ...', a complete grammatical backbone.",
+      "optionExplanations": [
+        "Correct: matching dashes surround the nonessential appositive.",
+        "A comma cannot close an interruption opened with a dash.",
+        "A semicolon would incorrectly split the subject from its verb.",
+        "A colon cannot serve as a closing dash."
+      ],
+      "lessonTip": "Delete the dash-delimited appositive to check the subject–verb connection."
+    },
+    {
+      "id": "b26",
+      "topic": "dashes",
+      "difficulty": "Hard",
+      "passage": "A botanical garden tracks flowering dates to investigate how urban temperatures affect seasonal development. Its oldest cherry tree (planted before the neighboring buildings were ___ now blooms nearly two weeks earlier than it did in the garden's first recorded season. The researchers compare that shift with records from younger trees growing in cooler rural locations.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "constructed—",
+        "constructed)",
+        "constructed,",
+        "constructed:"
+      ],
+      "answer": 1,
+      "explanation": "The opening parenthesis after 'tree' must be closed after 'constructed'. The main sentence then reads 'Its oldest cherry tree now blooms ...'.",
+      "optionExplanations": [
+        "A dash cannot match the opening parenthesis.",
+        "Correct: this closes the parenthetical modifier before 'now blooms'.",
+        "A comma leaves the opening parenthesis unmatched.",
+        "A colon does not close parentheses and would disrupt the subject–verb connection."
+      ],
+      "lessonTip": "Adverbs such as 'now' can mark the point where the main clause resumes after an interruption."
+    },
+    {
+      "id": "b27",
+      "topic": "dashes",
+      "difficulty": "Hard",
+      "passage": "A survey of mountain lakes found unexpectedly similar chemical patterns in watersheds with different bedrock. The common factor—seasonal dust carried from distant ___ appeared to influence the lakes more strongly than the minerals beneath them. By tracing the dust's isotopic signature, the researchers linked several otherwise isolated watersheds to the same atmospheric source.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "plains,",
+        "plains:",
+        "plains—",
+        "plains;"
+      ],
+      "answer": 2,
+      "explanation": "The dash after 'factor' opens a nonessential explanation of that factor. A dash after 'plains' must close the explanation before the main verb 'appeared'.",
+      "optionExplanations": [
+        "A comma cannot match the opening dash.",
+        "A colon cannot close the existing dash-delimited interruption.",
+        "Correct: the matching closing dash lets the main subject connect to 'appeared'.",
+        "A semicolon incorrectly separates the subject from its verb and fails to match the opening mark."
+      ],
+      "lessonTip": "An explanatory noun phrase between a subject and its verb needs two matching boundaries."
+    },
+    {
+      "id": "b28",
+      "topic": "dashes",
+      "difficulty": "Hard",
+      "passage": "A materials scientist studied how repeated bending alters thin sheets of a biodegradable polymer. The samples developed small folds rather than visible cracks (an outcome consistent with earlier computer ___ Because humidity can affect the polymer's flexibility, the team also maintained a constant moisture level to isolate the contribution of mechanical stress to the observed changes.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "simulations.)",
+        "simulations).",
+        "simulations),",
+        "simulations);"
+      ],
+      "answer": 1,
+      "explanation": "The parenthesis opens inside the sentence beginning 'The samples developed'. It therefore closes before that sentence's final period: 'simulations).'. Putting the period inside the parentheses would leave the larger sentence without its proper ending. A comma or semicolon would also fail to end it correctly before the next sentence.",
+      "optionExplanations": [
+        "The period belongs to the larger sentence and must follow the closing parenthesis, not precede it.",
+        "Correct: the closing parenthesis finishes the added information, and the period ends the sentence.",
+        "A comma cannot join this sentence to the next complete sentence introduced by its own dependent clause.",
+        "This leaves a capitalized Because directly after a semicolon inside a continuing sentence, rather than properly ending the sentence."
+      ],
+      "lessonTip": "When parentheses enclose only part of a larger sentence, place its final period after the closing parenthesis."
+    },
+    {
+      "id": "b29",
+      "topic": "dashes",
+      "difficulty": "Hard",
+      "passage": "An art historian examined a mural whose blue pigment had remained unusually bright. The pigment—made from powdered glass rather than the mineral mixtures common in neighboring regions— ___ the chemical changes that darkened other murals. Measurements suggested that the glass particles had protected the pigment's coloring agent from prolonged exposure to moisture.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "resisted",
+        ", resisted",
+        "; resisted",
+        ": resisted"
+      ],
+      "answer": 0,
+      "explanation": "The two dashes already enclose the entire nonessential participial phrase. The main subject 'The pigment' must connect directly to its verb 'resisted'. No comma, semicolon, or colon is needed after the closing dash.",
+      "optionExplanations": [
+        "Correct: resisted follows the closed interruption without an extra mark dividing subject and verb.",
+        "The closing dash already ends the interruption; this comma would wrongly divide subject and verb.",
+        "A semicolon cannot separate a subject from its predicate.",
+        "A colon cannot separate the interrupted subject from its verb."
+      ],
+      "lessonTip": "A closing dash normally supplies the boundary by itself; do not automatically add a comma after it."
+    },
+    {
+      "id": "b30",
+      "topic": "dashes",
+      "difficulty": "Hard",
+      "passage": "The expedition recorded magnetic measurements at sites that earlier teams had considered inaccessible. Its portable sensor (a device designed for rapid deployment rather than maximum ___ produced readings consistent with those from a larger instrument at the base camp. That agreement gave the researchers confidence in using the sensor across the rugged survey area.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "precision—",
+        "precision)",
+        "precision,",
+        "precision;"
+      ],
+      "answer": 1,
+      "explanation": "The appositive begins with an opening parenthesis and therefore must end with a closing parenthesis after 'precision'. The sentence's main subject and verb are 'Its portable sensor ... produced'.",
+      "optionExplanations": [
+        "A dash cannot close an opening parenthesis.",
+        "Correct: this closes the parenthetical appositive with the matching mark.",
+        "A comma leaves the opening parenthesis unclosed.",
+        "A semicolon cannot close parentheses or divide the subject from 'produced'."
+      ],
+      "lessonTip": "An appositive enclosed in parentheses needs a closing parenthesis before the main verb."
+    },
+    {
+      "id": "b31",
+      "topic": "apostrophes",
+      "difficulty": "Hard",
+      "passage": "Three independent laboratories analyzed the same sediment cores to check whether a new dating method produced consistent results. The three ___ measurements agreed within the stated uncertainty, even though each facility used different equipment. That agreement strengthened the argument that the method measures a property of the sediment rather than an artifact introduced by one instrument.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "laboratory's",
+        "laboratories",
+        "laboratories'",
+        "laboratories's"
+      ],
+      "answer": 2,
+      "explanation": "The owners are three laboratories, a regular plural ending in s. Their possessive is 'laboratories'', with the apostrophe after the plural s. The number of measurements does not determine the owners' number.",
+      "optionExplanations": [
+        "This is a singular possessive, inconsistent with the explicitly stated three laboratories.",
+        "This is an ordinary plural and does not mark ownership of the measurements.",
+        "Correct: the apostrophe after the plural s marks measurements belonging to several laboratories.",
+        "A regular plural already ending in s adds only an apostrophe, not another s."
+      ],
+      "lessonTip": "Determine the number of owners before placing the apostrophe."
+    },
+    {
+      "id": "b32",
+      "topic": "apostrophes",
+      "difficulty": "Hard",
+      "passage": "A study at a science museum compared how young visitors explained the museum's sole mechanical demonstration device before and after watching it operate. The ___ became more specific after they watched the moving parts interact. Researchers interpreted the shift as evidence that direct observation helped the participants connect a general claim about motion with a visible causal mechanism.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "childrens' explanations of the device's motion",
+        "children's explanations of the devices' motion",
+        "childrens' explanations of the devices' motion",
+        "children's explanations of the device's motion"
+      ],
+      "answer": 3,
+      "explanation": "Children is an irregular plural that does not end in s, so its possessive is children's. The paragraph specifies a single device, so its possessive is device's, not devices'. Only the correct choice gets both owners' forms right.",
+      "optionExplanations": [
+        "Childrens' incorrectly adds s to a plural already formed as children; device's is correctly singular.",
+        "Children's is correct, but devices' would express ownership by multiple devices rather than the sole device described.",
+        "Childrens' is not the standard possessive of children, and devices' incorrectly makes the device owner plural.",
+        "Correct: children's marks an irregular plural owner, and device's marks the single mechanical device."
+      ],
+      "lessonTip": "Determine each owner's number independently: an irregular plural and a singular noun can both take apostrophe + s."
+    },
+    {
+      "id": "b33",
+      "topic": "apostrophes",
+      "difficulty": "Hard",
+      "passage": "A deep-sea robot uses pressure readings to estimate its depth when satellite signals are unavailable. Although the robot occasionally encounters strong currents, ___ able to maintain a stable course. This redundancy allows the vehicle to continue surveying even when an individual sensor's readings become temporarily unreliable near the seafloor.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "its navigation system combines several sensors, and it's",
+        "it's navigation system combines several sensors, and its",
+        "its navigation system combines several sensors, and its",
+        "it's navigation system combines several sensors, and it's"
+      ],
+      "answer": 0,
+      "explanation": "The first position needs possessive its because the navigation system belongs to the robot. The second position needs it's, meaning it is, before 'able'. The comma and and correctly connect the two independent clauses.",
+      "optionExplanations": [
+        "Correct: its marks ownership of the navigation system, and it's expands to it is before able.",
+        "The first it's incorrectly means it is navigation system; the final its supplies no linking verb before able.",
+        "The first its is correct, but the final position requires it is rather than a possessive pronoun.",
+        "The final it's is correct, but the first position requires the possessive its to modify navigation system."
+      ],
+      "lessonTip": "In the same sentence, its can show possession while it's supplies the subject and linking verb it is."
+    },
+    {
+      "id": "b34",
+      "topic": "apostrophes",
+      "difficulty": "Hard",
+      "passage": "A regional archive has one curator responsible for handwritten records produced by three astronomers. The ___ original comments from later corrections made when the notebooks were rebound. These notes prevent researchers from attributing twentieth-century editorial decisions to astronomers who worked several centuries earlier, when different recording conventions were in use.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "curators' annotations distinguish the three observer's",
+        "curator's annotations distinguish the three observers'",
+        "curators' annotations distinguish the three observers'",
+        "curator's annotations distinguish the three observer's"
+      ],
+      "answer": 1,
+      "explanation": "There is one curator, so the annotations are the curator's. The astronomical records come from several observers, so their original comments are the observers', with an apostrophe after the plural s. The correct choice distinguishes the two owners' numbers.",
+      "optionExplanations": [
+        "Curators' wrongly makes the single curator plural, and observer's wrongly makes the several record-makers singular.",
+        "Correct: curator's expresses possession by one curator; observers' expresses possession by several observers.",
+        "Observers' is correct, but curators' contradicts the expressly single curator.",
+        "Curator's is correct, but observer's expresses ownership by only one observer rather than the several astronomers described."
+      ],
+      "lessonTip": "One sentence can require both a singular possessive and a regular plural possessive; analyze each owner separately."
+    },
+    {
+      "id": "b35",
+      "topic": "apostrophes",
+      "difficulty": "Hard",
+      "passage": "Each of the excavation's five trenches was supervised by a separate team. Before publishing the site map, the archaeologist compared all five ___ daily logs with aerial photographs to resolve discrepancies in reported wall positions. The comparison showed that several apparently conflicting measurements reflected different reference points rather than errors in the field observations themselves.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "team's",
+        "teams",
+        "teams'",
+        "teams's"
+      ],
+      "answer": 2,
+      "explanation": "There are five separate teams, and the daily logs belong to those teams. A regular plural ending in s forms the possessive by adding an apostrophe after the s: 'teams''.",
+      "optionExplanations": [
+        "This singular possessive would refer to one team rather than the separate teams described.",
+        "This is a plural without the apostrophe needed to express possession of the logs.",
+        "Correct: the regular plural possessive marks logs belonging to the five teams.",
+        "A plural ending in s takes only an apostrophe, not an additional s."
+      ],
+      "lessonTip": "Use plural possessive when separate members of a stated group are the owners."
+    },
+    {
+      "id": "b36",
+      "topic": "apostrophes",
+      "difficulty": "Hard",
+      "passage": "Lina Cho and Mateo Ruiz jointly own a single telescope that they use for public demonstrations. ___ telescope has an unusually wide field of view, enabling visitors to compare several bright stars without moving the instrument. The pair selected that design because short demonstrations leave little time to realign the telescope for each observer.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "Lina's and Mateo's",
+        "Linas and Mateos'",
+        "Lina and Mateos",
+        "Lina and Mateo's"
+      ],
+      "answer": 3,
+      "explanation": "The sentence explicitly identifies one jointly owned telescope. Joint possession is expressed by placing the possessive ending only on the final coordinated name: 'Lina and Mateo's'.",
+      "optionExplanations": [
+        "Marking both names separately normally indicates separate possession, contrary to the expressly shared single telescope.",
+        "Linas and Mateos are not the names' correct singular possessive forms.",
+        "This lacks the apostrophe required to show possession.",
+        "Correct: one possessive ending on the final name expresses joint ownership."
+      ],
+      "lessonTip": "For one shared object, attach apostrophe + s to the last name in the pair."
+    },
+    {
+      "id": "b37",
+      "topic": "apostrophes",
+      "difficulty": "Hard",
+      "passage": "Before a survey of historical canals, a conservation committee selected an engineer to assess unstable retaining walls. The engineer, ___ previous work had focused on earthquake damage, recommended documenting the walls before any repairs began. That sequence would preserve evidence of the original construction methods while still allowing the committee to address immediate safety concerns.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "whose",
+        "who's",
+        "whos'",
+        "whom's"
+      ],
+      "answer": 0,
+      "explanation": "The blank introduces information about work belonging to the engineer, so the possessive relative pronoun 'whose' is required. 'Who's' means 'who is' or 'who has' and cannot modify 'previous work'.",
+      "optionExplanations": [
+        "Correct: whose is the possessive relative pronoun and takes no apostrophe.",
+        "Expanding this to 'who is previous work' or 'who has previous work' does not produce the required modifying construction.",
+        "Whos' is not a standard possessive relative pronoun.",
+        "Whom's is not a standard possessive form."
+      ],
+      "lessonTip": "Whose shows ownership; who's must expand to who is or who has."
+    },
+    {
+      "id": "b38",
+      "topic": "apostrophes",
+      "difficulty": "Hard",
+      "passage": "Three historians independently translated inscriptions found beside an ancient irrigation channel. When the three ___ translations differed, the team revisited the damaged characters rather than selecting the most fluent version. Their final commentary records the disagreements so that future readers can distinguish secure readings from reconstructions that remain dependent on uncertain traces in the stone.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "historian's",
+        "historians'",
+        "historians",
+        "historians's"
+      ],
+      "answer": 1,
+      "explanation": "The paragraph specifies several historians, so the translations belong to a plural group. The regular plural possessive is 'historians'', with an apostrophe after s.",
+      "optionExplanations": [
+        "This singular possessive would identify only one historian as the owner.",
+        "Correct: this is the possessive of the regular plural historians.",
+        "Without an apostrophe, this is only the ordinary plural, not the possessive needed before 'translations'.",
+        "A regular plural ending in s does not add another s to form its possessive."
+      ],
+      "lessonTip": "Plural possessors ending in s add an apostrophe after that s."
+    },
+    {
+      "id": "b39",
+      "topic": "apostrophes",
+      "difficulty": "Hard",
+      "passage": "An ornithologist observed a colony of cliff-nesting birds during a season of unusually frequent storms. Although the birds repeatedly rebuilt damaged nests, ___ still less successful at raising chicks than birds in a sheltered colony. The comparison suggests that repeated rebuilding can impose energetic costs even when nesting material remains abundant and readily available nearby.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "their",
+        "there",
+        "they're",
+        "theirs"
+      ],
+      "answer": 2,
+      "explanation": "The sentence needs a subject and linking verb before 'still less successful'. 'They're' expands to 'they are' and supplies both. 'Their' and 'theirs' express possession; 'there' indicates location or introduces an existential construction.",
+      "optionExplanations": [
+        "Their is possessive and cannot function as 'they are' before the adjective phrase.",
+        "There does not supply the required plural subject and linking verb.",
+        "Correct: they're means they are, yielding 'they are still less successful'.",
+        "Theirs is a possessive pronoun and leaves the sentence without the required verb."
+      ],
+      "lessonTip": "Contractions can supply a subject and verb together; test their full expansion."
+    },
+    {
+      "id": "b40",
+      "topic": "apostrophes",
+      "difficulty": "Hard",
+      "passage": "A museum commissioned two artists to create separate installations for adjacent galleries. Each artist designed her own piece, and the curator compared ___ installations before determining how visitors should move between the rooms. The resulting arrangement preserved the contrast between one work's gradual changes in light and the other work's sharply alternating patterns of sound.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "Amira and Zoe's",
+        "Amiras and Zoes'",
+        "Amira and Zoes",
+        "Amira's and Zoe's"
+      ],
+      "answer": 3,
+      "explanation": "The installations are expressly separate: each artist made her own. Separate possession is shown by giving both names a possessive ending, 'Amira's and Zoe's installations'.",
+      "optionExplanations": [
+        "A possessive ending only on the final name would indicate joint possession rather than the stated separate ownership.",
+        "This incorrectly alters the names and does not form both singular possessives.",
+        "This omits the apostrophes needed to express the artists' separate possession.",
+        "Correct: both singular names receive apostrophe + s because they possess separate installations."
+      ],
+      "lessonTip": "For separate possessions, mark each coordinated owner's name as possessive."
+    },
+    {
+      "id": "b41",
+      "topic": "agreement",
+      "difficulty": "Hard",
+      "passage": "Recent measurements show that an apparently uniform glacier is divided into regions moving at different speeds. The arrangement of narrow channels beneath its thick layers of ice ___ how quickly meltwater reaches the valley. Researchers are therefore mapping the channels rather than assuming that the glacier's visible surface reveals the structure of its drainage system.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "influences",
+        "influence",
+        "have influenced",
+        "are influencing"
+      ],
+      "answer": 0,
+      "explanation": "The subject is the singular head noun 'arrangement'. The plural nouns 'channels' and 'layers' occur inside modifying phrases and do not control the verb. The singular present-tense 'influences' agrees with the subject.",
+      "optionExplanations": [
+        "Correct: influences agrees with singular arrangement.",
+        "Influence is the plural present-tense form and does not agree with arrangement.",
+        "Have influenced uses the plural auxiliary have; a singular subject would require has.",
+        "Are influencing uses a plural auxiliary, inconsistent with singular arrangement."
+      ],
+      "lessonTip": "Strip away of-phrases to find the head subject: 'The arrangement influences'."
+    },
+    {
+      "id": "b42",
+      "topic": "agreement",
+      "difficulty": "Hard",
+      "passage": "A survey of an abandoned industrial district revealed features missing from the surviving plans. Beneath the foundations of two recently demolished warehouses ___ three parallel brick tunnels, each wide enough for a worker to enter. Their alignment suggests that the tunnels once connected furnaces to a shared ventilation system rather than functioning as ordinary drainage channels.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "lies",
+        "lie",
+        "has lain",
+        "is lying"
+      ],
+      "answer": 1,
+      "explanation": "This sentence is inverted: the location phrase comes first, and the true subject 'three parallel brick tunnels' follows the verb. That subject is plural, so the present-tense verb must be 'lie'.",
+      "optionExplanations": [
+        "Lies is singular, but the subject is three tunnels.",
+        "Correct: lie agrees with the plural subject that follows the verb.",
+        "Has is a singular auxiliary and does not agree with the plural tunnels.",
+        "Is is singular and therefore cannot agree with the plural subject."
+      ],
+      "lessonTip": "When a sentence opens with a location, look after the verb for its subject."
+    },
+    {
+      "id": "b43",
+      "topic": "agreement",
+      "difficulty": "Hard",
+      "passage": "The archive's manuscript collection includes notebooks, loose sheets, and letters copied into bound volumes. Each of the documents that describe the winter eclipse ___ a slightly different estimate of when the shadow first appeared. Historians attribute some differences to local clocks, whose readings were not necessarily synchronized across the distant observation sites.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "contain",
+        "have contained",
+        "contains",
+        "are containing"
+      ],
+      "answer": 2,
+      "explanation": "The subject is 'Each', which is singular. The plural 'documents' lies in an of-phrase, and the relative clause 'that describe ...' modifies documents rather than controlling the main verb. 'Contains' agrees with each.",
+      "optionExplanations": [
+        "Contain is a plural verb form; the subject each is singular.",
+        "Have is plural and does not agree with each.",
+        "Correct: contains agrees with singular each despite the nearby plural documents.",
+        "Are is a plural auxiliary and cannot agree with singular each."
+      ],
+      "lessonTip": "Each of + plural noun still has a singular main subject."
+    },
+    {
+      "id": "b44",
+      "topic": "agreement",
+      "difficulty": "Hard",
+      "passage": "The research station uses several instruments to monitor tremors, but none has transmitted a complete dataset this week. Neither the damaged sensor nor the backup recorders ___ functioning reliably under the current temperature conditions. Technicians are testing replacement components before deciding whether to suspend the station's measurements until the next scheduled maintenance visit.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "is",
+        "has been",
+        "was",
+        "are"
+      ],
+      "answer": 3,
+      "explanation": "With neither ... nor, the verb normally agrees with the nearer subject. 'Backup recorders' is nearer to the blank and is plural, so 'are' is required. The ongoing conditions also support present tense.",
+      "optionExplanations": [
+        "Is is singular and does not agree with the nearer plural subject recorders.",
+        "Has is a singular auxiliary and does not agree with recorders.",
+        "Was is singular and does not agree with the nearer plural subject.",
+        "Correct: are agrees with the nearer subject backup recorders."
+      ],
+      "lessonTip": "For neither X nor Y, check the subject closest to the verb."
+    },
+    {
+      "id": "b45",
+      "topic": "agreement",
+      "difficulty": "Hard",
+      "passage": "A museum tracks the number of visitors who request audio guides during exhibitions. The number of requests for guides in languages other than English ___ steadily each month, according to records collected since the new translation program began. Staff members use that trend to decide which additional languages should receive full recordings rather than brief summaries.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "increases",
+        "increase",
+        "have increased",
+        "are increasing"
+      ],
+      "answer": 0,
+      "explanation": "The subject is 'The number', a singular quantity. 'Requests' belongs to an of-phrase and does not control agreement. 'Increases' supplies the singular present-tense verb needed for the recurring monthly trend.",
+      "optionExplanations": [
+        "Correct: increases agrees with the singular subject number.",
+        "Increase is plural, but the sentence's head subject is number.",
+        "Have is plural and does not agree with number.",
+        "Are is plural and cannot agree with the singular head subject."
+      ],
+      "lessonTip": "The number of is singular; a number of meaning several usually takes plural agreement."
+    },
+    {
+      "id": "b46",
+      "topic": "agreement",
+      "difficulty": "Hard",
+      "passage": "A collection of newly recovered letters has changed historians' understanding of a coastal trading network. A number of the letters ___ routes omitted from official shipping records, including passages between small harbors. These references suggest that merchants regularly used connections too informal to appear in the administrative documents on which earlier reconstructions largely depended.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "describes",
+        "describe",
+        "has described",
+        "is describing"
+      ],
+      "answer": 1,
+      "explanation": "'A number of the letters' means several letters and takes plural agreement. 'Describe' is the plural present-tense form; the singular forms in the other choices do not agree with this expression.",
+      "optionExplanations": [
+        "Describes is singular, but a number of here means several letters.",
+        "Correct: describe agrees with the plural sense of a number of the letters.",
+        "Has is a singular auxiliary, inconsistent with this plural expression.",
+        "Is is singular and does not agree with the several letters being discussed."
+      ],
+      "lessonTip": "Distinguish 'a number of letters describe' from 'the number of letters increases'."
+    },
+    {
+      "id": "b47",
+      "topic": "agreement",
+      "difficulty": "Hard",
+      "passage": "The excavation committee has reviewed proposals from specialists in architecture, geology, and conservation. The committee, together with two advisers from the regional museum, ___ the final excavation schedule before any equipment is moved to the site. Its members have agreed that the decision must balance research goals with the preservation of exposed masonry.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "approve",
+        "have approved",
+        "approves",
+        "are approving"
+      ],
+      "answer": 2,
+      "explanation": "The grammatical subject is the singular collective noun 'committee', acting as one decision-making body. The phrase 'together with two advisers' does not create a compound subject. Therefore the singular 'approves' is required.",
+      "optionExplanations": [
+        "Approve is plural and does not agree with the committee acting as a unit.",
+        "Have is plural; the singular head subject would require has.",
+        "Correct: approves agrees with the singular committee.",
+        "Are is plural and cannot agree with the committee acting as a unit."
+      ],
+      "lessonTip": "Together with, along with, and as well as do not change a subject's number."
+    },
+    {
+      "id": "b48",
+      "topic": "agreement",
+      "difficulty": "Hard",
+      "passage": "A forestry team selected twenty trees for a study of drought resistance and examined the soil around each one. Nearly half of the samples collected from beneath those trees ___ unusually high concentrations of clay. The researchers suspect that differences in soil composition could explain why neighboring trees responded differently to the same period of reduced rainfall.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "contains",
+        "has contained",
+        "is containing",
+        "contain"
+      ],
+      "answer": 3,
+      "explanation": "For a fractional expression such as 'half of', agreement depends on the noun that identifies the measured amount. Here that noun is the plural 'samples', so 'contain' is the correct plural verb.",
+      "optionExplanations": [
+        "Contains is singular, but the measured items are plural samples.",
+        "Has is singular and does not agree with the plural samples.",
+        "Is is singular and cannot agree with the plural subject expression.",
+        "Correct: contain agrees with the plural samples represented by nearly half."
+      ],
+      "lessonTip": "With fractions and percentages, inspect what is being counted or measured: samples are plural, but water is singular."
+    },
+    {
+      "id": "b49",
+      "topic": "agreement",
+      "difficulty": "Hard",
+      "passage": "The institute employs several chemists who specialize in analyzing ancient pigments. Elena Voss is one of the chemists who ___ trace metal concentrations to distinguish original paint from later restoration layers. Their analyses allow conservators to preserve repairs when those repairs have historical significance, while still documenting the differences between successive phases of work.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "measure",
+        "measures",
+        "has measured",
+        "is measuring"
+      ],
+      "answer": 0,
+      "explanation": "The relative pronoun 'who' refers to the plural 'chemists': Elena is one member of the group of chemists who measure concentrations. Thus the verb within the relative clause must be plural, 'measure'. The main clause's singular 'is' has a different subject.",
+      "optionExplanations": [
+        "Correct: measure agrees with the plural antecedent chemists within the relative clause.",
+        "Measures would make the relative-clause verb singular even though who refers to chemists.",
+        "Has is singular and does not agree with the relative clause's plural antecedent.",
+        "Is is singular, but this relative clause describes the chemists as a group."
+      ],
+      "lessonTip": "Identify the antecedent of who or that separately from the main sentence's subject."
+    },
+    {
+      "id": "b50",
+      "topic": "agreement",
+      "difficulty": "Hard",
+      "passage": "An observatory's imaging systems vary in how well they maintain focus when the air temperature changes rapidly. Its new camera, the only one of those systems that ___ a built-in thermal correction, remains focused without an operator's intervention. Engineers are evaluating whether similar corrections could improve the remaining instruments without replacing their optical components.",
+      "prompt": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+      "choices": [
+        "include",
+        "includes",
+        "have included",
+        "are including"
+      ],
+      "answer": 1,
+      "explanation": "'The only one ... that' makes the relative clause identify the singular 'one', not all of the plural systems. The singular present-tense verb 'includes' therefore agrees with its antecedent.",
+      "optionExplanations": [
+        "Include is plural, but the relative clause identifies the singular only one.",
+        "Correct: includes agrees with the singular antecedent one.",
+        "Have is a plural auxiliary and does not agree with the singular antecedent.",
+        "Are is plural and cannot agree with the only one that the clause describes."
+      ],
+      "lessonTip": "Compare 'one of the systems that include' with 'the only one of those systems that includes'."
+    }
+  ]
+}

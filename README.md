@@ -2,6 +2,8 @@
 
 A blue-and-white SAT grammar practice app with **250 original difficult questions**, **25 teaching modules**, a **timed 20-question Question Rush**, and real accounts with synced progress.
 
+The repository also supports a static Sites build. It keeps practice, lessons, Question Rush, bookmarks, and progress, storing progress in the current browser instead of using accounts.
+
 ## Run locally
 
 Requires Node.js **24+** (the server uses Node's built-in SQLite module).
@@ -12,6 +14,15 @@ npm run dev
 ```
 
 Vite serves the interface on port **5173** and proxies `/api` to the account server on **3001**. One command starts and stops both processes. No external API key is required. Fonts are included in the installation and served locally.
+
+For a static host such as Sites, build and publish the generated `dist` directory:
+
+```bash
+npm ci
+npm run build:static
+```
+
+The static build makes no `/api` requests and shows browser-local progress controls instead of account controls.
 
 ## What you can do
 
